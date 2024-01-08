@@ -9,3 +9,6 @@ import Foundation
 
 let sumOfTwoNumbers = SumOfTwoNumbers()
 print(sumOfTwoNumbers.add(3, 5))
+
+let convertAgeToDays = ConvertAgeToDays()
+print(convertAgeToDays.convertAge(65))

@@ -9,6 +9,7 @@
 /* Begin PBXBuildFile section */
 		4C35E0C82B4B2AC3009ECE9A /* main.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4C35E0C72B4B2AC3009ECE9A /* main.swift */; };
 		4C35E0CF2B4B2BC8009ECE9A /* Return Sum of Two Numbers.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4C35E0CE2B4B2BC8009ECE9A /* Return Sum of Two Numbers.swift */; };
+		4C8F28BE2B4C5901006373C7 /* Convert Age to Days.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4C8F28BD2B4C5901006373C7 /* Convert Age to Days.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXCopyFilesBuildPhase section */
@@ -27,6 +28,7 @@
 		4C35E0C42B4B2AC3009ECE9A /* Edabit */ = {isa = PBXFileReference; explicitFileType = "compiled.mach-o.executable"; includeInIndex = 0; path = Edabit; sourceTree = BUILT_PRODUCTS_DIR; };
 		4C35E0C72B4B2AC3009ECE9A /* main.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = main.swift; sourceTree = "<group>"; };
 		4C35E0CE2B4B2BC8009ECE9A /* Return Sum of Two Numbers.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "Return Sum of Two Numbers.swift"; sourceTree = "<group>"; };
+		4C8F28BD2B4C5901006373C7 /* Convert Age to Days.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "Convert Age to Days.swift"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -61,6 +63,7 @@
 			children = (
 				4C35E0C72B4B2AC3009ECE9A /* main.swift */,
 				4C35E0CE2B4B2BC8009ECE9A /* Return Sum of Two Numbers.swift */,
+				4C8F28BD2B4C5901006373C7 /* Convert Age to Days.swift */,
 			);
 			path = Edabit;
 			sourceTree = "<group>";
@@ -124,6 +127,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				4C35E0CF2B4B2BC8009ECE9A /* Return Sum of Two Numbers.swift in Sources */,
+				4C8F28BE2B4C5901006373C7 /* Convert Age to Days.swift in Sources */,
 				4C35E0C82B4B2AC3009ECE9A /* main.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
