@@ -14,4 +14,8 @@ let convertAgeToDays = ConvertAgeToDays()
 //print(convertAgeToDays.convertAge(65))
 
 let areaOfTriangle = AreaOfTriangle()
-print(areaOfTriangle.calcArea(10, 10))
+//print(areaOfTriangle.calcArea(10, 10))
+
+let returnNextNumber = ReturnNextNumber()
+//print(returnNextNumber.calcNextNum(-3))
+
