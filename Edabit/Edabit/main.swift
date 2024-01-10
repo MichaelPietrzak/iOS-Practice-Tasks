@@ -19,3 +19,5 @@ let areaOfTriangle = AreaOfTriangle()
 let returnNextNumber = ReturnNextNumber()
 //print(returnNextNumber.calcNextNum(-3))
 
+let convertIntoSeconds = ConvertIntoSeconds()
+print(convertIntoSeconds.calcSeconds(2))
