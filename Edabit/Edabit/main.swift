@@ -20,4 +20,7 @@ let returnNextNumber = ReturnNextNumber()
 //print(returnNextNumber.calcNextNum(-3))
 
 let convertIntoSeconds = ConvertIntoSeconds()
-print(convertIntoSeconds.calcSeconds(2))
+//print(convertIntoSeconds.calcSeconds(2))
+
+let perimeterOfRectangle = PerimeterOfRectangle()
+print(perimeterOfRectangle.calcPerimeter(2, 9))
