@@ -26,4 +26,7 @@ let perimeterOfRectangle = PerimeterOfRectangle()
 //print(perimeterOfRectangle.calcPerimeter(2, 9))
 
 let newNumber = NumberLessOrEqualToZero()
-print(newNumber.checkNum(-2))
+//print(newNumber.checkNum(-2))
+
+let sameNumber = SameNum()
+print(sameNumber.checkNum(2, 2))
