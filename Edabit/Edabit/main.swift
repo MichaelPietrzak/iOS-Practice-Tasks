@@ -23,4 +23,7 @@ let convertIntoSeconds = ConvertIntoSeconds()
 //print(convertIntoSeconds.calcSeconds(2))
 
 let perimeterOfRectangle = PerimeterOfRectangle()
-print(perimeterOfRectangle.calcPerimeter(2, 9))
+//print(perimeterOfRectangle.calcPerimeter(2, 9))
+
+let newNumber = NumberLessOrEqualToZero()
+print(newNumber.checkNum(-2))
