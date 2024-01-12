@@ -29,4 +29,7 @@ let newNumber = NumberLessOrEqualToZero()
 //print(newNumber.checkNum(-2))
 
 let sameNumber = SameNum()
-print(sameNumber.checkNum(2, 2))
+//print(sameNumber.checkNum(2, 2))
+
+let remainderNum = RemainderOfTwoNumbers()
+print(remainderNum.calcRemainder(-9, 45))
