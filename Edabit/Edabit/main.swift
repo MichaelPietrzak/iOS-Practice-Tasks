@@ -32,4 +32,7 @@ let sameNumber = SameNum()
 //print(sameNumber.checkNum(2, 2))
 
 let remainderNum = RemainderOfTwoNumbers()
-print(remainderNum.calcRemainder(-9, 45))
+//print(remainderNum.calcRemainder(-9, 45))
+
+let numOfHours = ConvertHours()
+print(numOfHours.calcSeconds(10))
