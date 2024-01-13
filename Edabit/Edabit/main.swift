@@ -35,4 +35,7 @@ let remainderNum = RemainderOfTwoNumbers()
 //print(remainderNum.calcRemainder(-9, 45))
 
 let numOfHours = ConvertHours()
-print(numOfHours.calcSeconds(10))
+//print(numOfHours.calcSeconds(10))
+
+let numToCube = BuggyCode()
+print(numToCube.cubes(3))
