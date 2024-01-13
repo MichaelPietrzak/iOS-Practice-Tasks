@@ -8,6 +8,7 @@
 
 /* Begin PBXBuildFile section */
 		4C26AAAB2B52AB340038E064 /* Buggy Code - Part 1.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4C26AAAA2B52AB340038E064 /* Buggy Code - Part 1.swift */; };
+		4C26AAAD2B52AD7D0038E064 /* Return the first element in array.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4C26AAAC2B52AD7D0038E064 /* Return the first element in array.swift */; };
 		4C34BA252B500A8000F60A9E /* Is the number less or equal to zero.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4C34BA242B500A8000F60A9E /* Is the number less or equal to zero.swift */; };
 		4C34BA272B500BB000F60A9E /* Are the numbers equal.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4C34BA262B500BB000F60A9E /* Are the numbers equal.swift */; };
 		4C35E0C82B4B2AC3009ECE9A /* main.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4C35E0C72B4B2AC3009ECE9A /* main.swift */; };
@@ -35,6 +36,7 @@
 
 /* Begin PBXFileReference section */
 		4C26AAAA2B52AB340038E064 /* Buggy Code - Part 1.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "Buggy Code - Part 1.swift"; sourceTree = "<group>"; };
+		4C26AAAC2B52AD7D0038E064 /* Return the first element in array.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "Return the first element in array.swift"; sourceTree = "<group>"; };
 		4C34BA242B500A8000F60A9E /* Is the number less or equal to zero.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "Is the number less or equal to zero.swift"; sourceTree = "<group>"; };
 		4C34BA262B500BB000F60A9E /* Are the numbers equal.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "Are the numbers equal.swift"; sourceTree = "<group>"; };
 		4C35E0C42B4B2AC3009ECE9A /* Edabit */ = {isa = PBXFileReference; explicitFileType = "compiled.mach-o.executable"; includeInIndex = 0; path = Edabit; sourceTree = BUILT_PRODUCTS_DIR; };
@@ -91,6 +93,7 @@
 				4C37508C2B5156EE00318140 /* Return the remainder from two numbers.swift */,
 				4C37508E2B515AC800318140 /* Convert Hours into Seconds.swift */,
 				4C26AAAA2B52AB340038E064 /* Buggy Code - Part 1.swift */,
+				4C26AAAC2B52AD7D0038E064 /* Return the first element in array.swift */,
 			);
 			path = Edabit;
 			sourceTree = "<group>";
@@ -156,6 +159,7 @@
 				4C6ADD0D2B4E8EF50087971C /* Find the Perimeter of a Rectangle.swift in Sources */,
 				4C7659782B4D5E6E0023DF20 /* Area of a Triangle.swift in Sources */,
 				4C26AAAB2B52AB340038E064 /* Buggy Code - Part 1.swift in Sources */,
+				4C26AAAD2B52AD7D0038E064 /* Return the first element in array.swift in Sources */,
 				4C35E0CF2B4B2BC8009ECE9A /* Return Sum of Two Numbers.swift in Sources */,
 				4C37508F2B515AC800318140 /* Convert Hours into Seconds.swift in Sources */,
 				4C34BA272B500BB000F60A9E /* Are the numbers equal.swift in Sources */,

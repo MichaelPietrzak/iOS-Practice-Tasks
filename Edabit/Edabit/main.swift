@@ -38,4 +38,7 @@ let numOfHours = ConvertHours()
 //print(numOfHours.calcSeconds(10))
 
 let numToCube = BuggyCode()
-print(numToCube.cubes(3))
+//print(numToCube.cubes(3))
+
+let arrayOfNum = ElementsInArray()
+print(arrayOfNum.getfirstValue([80, 5, 100]))
