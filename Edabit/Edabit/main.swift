@@ -41,4 +41,7 @@ let numToCube = BuggyCode()
 //print(numToCube.cubes(3))
 
 let arrayOfNum = ElementsInArray()
-print(arrayOfNum.getfirstValue([80, 5, 100]))
+//print(arrayOfNum.getfirstValue([80, 5, 100]))
+
+let powerResources = PowerCalculator()
+print(powerResources.circuitPower(230, 10))
