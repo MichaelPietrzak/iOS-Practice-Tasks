@@ -44,4 +44,7 @@ let arrayOfNum = ElementsInArray()
 //print(arrayOfNum.getfirstValue([80, 5, 100]))
 
 let powerResources = PowerCalculator()
-print(powerResources.circuitPower(230, 10))
+//print(powerResources.circuitPower(230, 10))
+
+let inches = ConvertToFeet()
+print(inches.inchesToFeet(10))

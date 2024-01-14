@@ -16,6 +16,7 @@
 		4C37508D2B5156EE00318140 /* Return the remainder from two numbers.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4C37508C2B5156EE00318140 /* Return the remainder from two numbers.swift */; };
 		4C37508F2B515AC800318140 /* Convert Hours into Seconds.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4C37508E2B515AC800318140 /* Convert Hours into Seconds.swift */; };
 		4C5F31282B5427BF0013E75E /* Power Calculator.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4C5F31272B5427BF0013E75E /* Power Calculator.swift */; };
+		4C5F312A2B5428CD0013E75E /* Inches to Feet.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4C5F31292B5428CC0013E75E /* Inches to Feet.swift */; };
 		4C6ADD0B2B4E8C3F0087971C /* Convert Minutes into Seconds.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4C6ADD0A2B4E8C3F0087971C /* Convert Minutes into Seconds.swift */; };
 		4C6ADD0D2B4E8EF50087971C /* Find the Perimeter of a Rectangle.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4C6ADD0C2B4E8EF50087971C /* Find the Perimeter of a Rectangle.swift */; };
 		4C7659782B4D5E6E0023DF20 /* Area of a Triangle.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4C7659772B4D5E6E0023DF20 /* Area of a Triangle.swift */; };
@@ -46,6 +47,7 @@
 		4C37508C2B5156EE00318140 /* Return the remainder from two numbers.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "Return the remainder from two numbers.swift"; sourceTree = "<group>"; };
 		4C37508E2B515AC800318140 /* Convert Hours into Seconds.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "Convert Hours into Seconds.swift"; sourceTree = "<group>"; };
 		4C5F31272B5427BF0013E75E /* Power Calculator.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "Power Calculator.swift"; sourceTree = "<group>"; };
+		4C5F31292B5428CC0013E75E /* Inches to Feet.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "Inches to Feet.swift"; sourceTree = "<group>"; };
 		4C6ADD0A2B4E8C3F0087971C /* Convert Minutes into Seconds.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "Convert Minutes into Seconds.swift"; sourceTree = "<group>"; };
 		4C6ADD0C2B4E8EF50087971C /* Find the Perimeter of a Rectangle.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "Find the Perimeter of a Rectangle.swift"; sourceTree = "<group>"; };
 		4C7659772B4D5E6E0023DF20 /* Area of a Triangle.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "Area of a Triangle.swift"; sourceTree = "<group>"; };
@@ -67,7 +69,6 @@
 		4C35E0BB2B4B2AC3009ECE9A = {
 			isa = PBXGroup;
 			children = (
-				4C5F31272B5427BF0013E75E /* Power Calculator.swift */,
 				4C35E0C62B4B2AC3009ECE9A /* Edabit */,
 				4C35E0C52B4B2AC3009ECE9A /* Products */,
 			);
@@ -97,6 +98,8 @@
 				4C37508E2B515AC800318140 /* Convert Hours into Seconds.swift */,
 				4C26AAAA2B52AB340038E064 /* Buggy Code - Part 1.swift */,
 				4C26AAAC2B52AD7D0038E064 /* Return the first element in array.swift */,
+				4C5F31272B5427BF0013E75E /* Power Calculator.swift */,
+				4C5F31292B5428CC0013E75E /* Inches to Feet.swift */,
 			);
 			path = Edabit;
 			sourceTree = "<group>";
@@ -162,6 +165,7 @@
 				4C6ADD0D2B4E8EF50087971C /* Find the Perimeter of a Rectangle.swift in Sources */,
 				4C7659782B4D5E6E0023DF20 /* Area of a Triangle.swift in Sources */,
 				4C26AAAB2B52AB340038E064 /* Buggy Code - Part 1.swift in Sources */,
+				4C5F312A2B5428CD0013E75E /* Inches to Feet.swift in Sources */,
 				4C26AAAD2B52AD7D0038E064 /* Return the first element in array.swift in Sources */,
 				4C35E0CF2B4B2BC8009ECE9A /* Return Sum of Two Numbers.swift in Sources */,
 				4C37508F2B515AC800318140 /* Convert Hours into Seconds.swift in Sources */,
