@@ -47,4 +47,7 @@ let powerResources = PowerCalculator()
 //print(powerResources.circuitPower(230, 10))
 
 let inches = ConvertToFeet()
-print(inches.inchesToFeet(10))
+//print(inches.inchesToFeet(10))
+
+let studentName = BasicAssignment()
+print(studentName.nameString("Matt"))

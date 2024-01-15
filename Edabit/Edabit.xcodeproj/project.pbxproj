@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		4C1AEB4C2B55E1E7001093F4 /* Basic Variable Assignment.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4C1AEB4B2B55E1E7001093F4 /* Basic Variable Assignment.swift */; };
 		4C26AAAB2B52AB340038E064 /* Buggy Code - Part 1.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4C26AAAA2B52AB340038E064 /* Buggy Code - Part 1.swift */; };
 		4C26AAAD2B52AD7D0038E064 /* Return the first element in array.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4C26AAAC2B52AD7D0038E064 /* Return the first element in array.swift */; };
 		4C34BA252B500A8000F60A9E /* Is the number less or equal to zero.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4C34BA242B500A8000F60A9E /* Is the number less or equal to zero.swift */; };
@@ -37,6 +38,7 @@
 /* End PBXCopyFilesBuildPhase section */
 
 /* Begin PBXFileReference section */
+		4C1AEB4B2B55E1E7001093F4 /* Basic Variable Assignment.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "Basic Variable Assignment.swift"; sourceTree = "<group>"; };
 		4C26AAAA2B52AB340038E064 /* Buggy Code - Part 1.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "Buggy Code - Part 1.swift"; sourceTree = "<group>"; };
 		4C26AAAC2B52AD7D0038E064 /* Return the first element in array.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "Return the first element in array.swift"; sourceTree = "<group>"; };
 		4C34BA242B500A8000F60A9E /* Is the number less or equal to zero.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "Is the number less or equal to zero.swift"; sourceTree = "<group>"; };
@@ -100,6 +102,7 @@
 				4C26AAAC2B52AD7D0038E064 /* Return the first element in array.swift */,
 				4C5F31272B5427BF0013E75E /* Power Calculator.swift */,
 				4C5F31292B5428CC0013E75E /* Inches to Feet.swift */,
+				4C1AEB4B2B55E1E7001093F4 /* Basic Variable Assignment.swift */,
 			);
 			path = Edabit;
 			sourceTree = "<group>";
@@ -173,6 +176,7 @@
 				4C37508D2B5156EE00318140 /* Return the remainder from two numbers.swift in Sources */,
 				4C5F31282B5427BF0013E75E /* Power Calculator.swift in Sources */,
 				4C6ADD0B2B4E8C3F0087971C /* Convert Minutes into Seconds.swift in Sources */,
+				4C1AEB4C2B55E1E7001093F4 /* Basic Variable Assignment.swift in Sources */,
 				4C8F28BE2B4C5901006373C7 /* Convert Age to Days.swift in Sources */,
 				4C34BA252B500A8000F60A9E /* Is the number less or equal to zero.swift in Sources */,
 				4C76597A2B4D62AB0023DF20 /* Return Next Number from the Integer Passed.swift in Sources */,
