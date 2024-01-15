@@ -50,4 +50,7 @@ let inches = ConvertToFeet()
 //print(inches.inchesToFeet(10))
 
 let studentName = BasicAssignment()
-print(studentName.nameString("Matt"))
+//print(studentName.nameString("Matt"))
+
+let ifEqual = NumbersIfEqual()
+print(ifEqual.isEqual(1, 1))
