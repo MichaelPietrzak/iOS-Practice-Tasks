@@ -56,4 +56,7 @@ let ifEqual = NumbersIfEqual()
 //print(ifEqual.isEqual(1, 1))
 
 let triangleSides = TriangleMaxEdges()
-print(triangleSides.nextEdge(5, 7))
+//print(triangleSides.nextEdge(5, 7))
+
+let squaredNum = SquaredCheck()
+print(squaredNum.squared(3))
