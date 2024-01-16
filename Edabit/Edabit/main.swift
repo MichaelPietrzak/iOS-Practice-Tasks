@@ -53,4 +53,7 @@ let studentName = BasicAssignment()
 //print(studentName.nameString("Matt"))
 
 let ifEqual = NumbersIfEqual()
-print(ifEqual.isEqual(1, 1))
+//print(ifEqual.isEqual(1, 1))
+
+let triangleSides = TriangleMaxEdges()
+print(triangleSides.nextEdge(5, 7))

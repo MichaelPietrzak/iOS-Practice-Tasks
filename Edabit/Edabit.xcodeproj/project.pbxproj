@@ -23,6 +23,7 @@
 		4C6ADD0D2B4E8EF50087971C /* Find the Perimeter of a Rectangle.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4C6ADD0C2B4E8EF50087971C /* Find the Perimeter of a Rectangle.swift */; };
 		4C7659782B4D5E6E0023DF20 /* Area of a Triangle.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4C7659772B4D5E6E0023DF20 /* Area of a Triangle.swift */; };
 		4C76597A2B4D62AB0023DF20 /* Return Next Number from the Integer Passed.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4C7659792B4D62AB0023DF20 /* Return Next Number from the Integer Passed.swift */; };
+		4C828FAB2B56CC1A0042153A /* Maximum Edge of a triangle.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4C828FAA2B56CC1A0042153A /* Maximum Edge of a triangle.swift */; };
 		4C8F28BE2B4C5901006373C7 /* Convert Age to Days.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4C8F28BD2B4C5901006373C7 /* Convert Age to Days.swift */; };
 /* End PBXBuildFile section */
 
@@ -56,6 +57,7 @@
 		4C6ADD0C2B4E8EF50087971C /* Find the Perimeter of a Rectangle.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "Find the Perimeter of a Rectangle.swift"; sourceTree = "<group>"; };
 		4C7659772B4D5E6E0023DF20 /* Area of a Triangle.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "Area of a Triangle.swift"; sourceTree = "<group>"; };
 		4C7659792B4D62AB0023DF20 /* Return Next Number from the Integer Passed.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "Return Next Number from the Integer Passed.swift"; sourceTree = "<group>"; };
+		4C828FAA2B56CC1A0042153A /* Maximum Edge of a triangle.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "Maximum Edge of a triangle.swift"; sourceTree = "<group>"; };
 		4C8F28BD2B4C5901006373C7 /* Convert Age to Days.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "Convert Age to Days.swift"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
@@ -106,6 +108,7 @@
 				4C5F31292B5428CC0013E75E /* Inches to Feet.swift */,
 				4C1AEB4B2B55E1E7001093F4 /* Basic Variable Assignment.swift */,
 				4C1AEB4D2B55E545001093F4 /* Are the numbers if equal.swift */,
+				4C828FAA2B56CC1A0042153A /* Maximum Edge of a triangle.swift */,
 			);
 			path = Edabit;
 			sourceTree = "<group>";
@@ -176,6 +179,7 @@
 				4C1AEB4E2B55E545001093F4 /* Are the numbers if equal.swift in Sources */,
 				4C35E0CF2B4B2BC8009ECE9A /* Return Sum of Two Numbers.swift in Sources */,
 				4C37508F2B515AC800318140 /* Convert Hours into Seconds.swift in Sources */,
+				4C828FAB2B56CC1A0042153A /* Maximum Edge of a triangle.swift in Sources */,
 				4C34BA272B500BB000F60A9E /* Are the numbers equal.swift in Sources */,
 				4C37508D2B5156EE00318140 /* Return the remainder from two numbers.swift in Sources */,
 				4C5F31282B5427BF0013E75E /* Power Calculator.swift in Sources */,
