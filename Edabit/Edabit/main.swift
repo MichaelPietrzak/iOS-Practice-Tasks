@@ -62,4 +62,7 @@ let squaredNum = SquaredCheck()
 //print(squaredNum.squared(3))
 
 let greetName = Greeting()
-print(greetName.helloName("Michal"))
+//print(greetName.helloName("Michal"))
+
+let checkNum = CheckIfDivisible()
+print(checkNum.divisibleByFive(37))

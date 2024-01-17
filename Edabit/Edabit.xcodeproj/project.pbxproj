@@ -27,6 +27,7 @@
 		4C828FAD2B56D0CE0042153A /* Correct the Mistakes.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4C828FAC2B56D0CE0042153A /* Correct the Mistakes.swift */; };
 		4C8F28BE2B4C5901006373C7 /* Convert Age to Days.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4C8F28BD2B4C5901006373C7 /* Convert Age to Days.swift */; };
 		4CB16ECB2B57BB82006EC617 /* Name Greeting.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4CB16ECA2B57BB82006EC617 /* Name Greeting.swift */; };
+		4CB16ECD2B57BD4F006EC617 /* Check integer if divisible.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4CB16ECC2B57BD4F006EC617 /* Check integer if divisible.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXCopyFilesBuildPhase section */
@@ -63,6 +64,7 @@
 		4C828FAC2B56D0CE0042153A /* Correct the Mistakes.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "Correct the Mistakes.swift"; sourceTree = "<group>"; };
 		4C8F28BD2B4C5901006373C7 /* Convert Age to Days.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "Convert Age to Days.swift"; sourceTree = "<group>"; };
 		4CB16ECA2B57BB82006EC617 /* Name Greeting.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "Name Greeting.swift"; sourceTree = "<group>"; };
+		4CB16ECC2B57BD4F006EC617 /* Check integer if divisible.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "Check integer if divisible.swift"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -115,6 +117,7 @@
 				4C828FAA2B56CC1A0042153A /* Maximum Edge of a triangle.swift */,
 				4C828FAC2B56D0CE0042153A /* Correct the Mistakes.swift */,
 				4CB16ECA2B57BB82006EC617 /* Name Greeting.swift */,
+				4CB16ECC2B57BD4F006EC617 /* Check integer if divisible.swift */,
 			);
 			path = Edabit;
 			sourceTree = "<group>";
@@ -186,6 +189,7 @@
 				4C26AAAD2B52AD7D0038E064 /* Return the first element in array.swift in Sources */,
 				4C1AEB4E2B55E545001093F4 /* Are the numbers if equal.swift in Sources */,
 				4C35E0CF2B4B2BC8009ECE9A /* Return Sum of Two Numbers.swift in Sources */,
+				4CB16ECD2B57BD4F006EC617 /* Check integer if divisible.swift in Sources */,
 				4C37508F2B515AC800318140 /* Convert Hours into Seconds.swift in Sources */,
 				4C828FAB2B56CC1A0042153A /* Maximum Edge of a triangle.swift in Sources */,
 				4C34BA272B500BB000F60A9E /* Are the numbers equal.swift in Sources */,
