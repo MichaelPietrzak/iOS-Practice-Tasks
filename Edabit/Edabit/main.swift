@@ -59,4 +59,7 @@ let triangleSides = TriangleMaxEdges()
 //print(triangleSides.nextEdge(5, 7))
 
 let squaredNum = SquaredCheck()
-print(squaredNum.squared(3))
+//print(squaredNum.squared(3))
+
+let greetName = Greeting()
+print(greetName.helloName("Michal"))
