@@ -68,4 +68,7 @@ let checkNum = CheckIfDivisible()
 //print(checkNum.divisibleByFive(37))
 
 let points = BasketballGame()
-print(points.points(7, 8))
+//print(points.points(7, 8))
+
+let integers = EvenDivision()
+print(integers.dividesEvenly(85, 4))
