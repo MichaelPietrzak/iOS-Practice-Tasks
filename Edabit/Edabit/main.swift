@@ -65,4 +65,7 @@ let greetName = Greeting()
 //print(greetName.helloName("Michal"))
 
 let checkNum = CheckIfDivisible()
-print(checkNum.divisibleByFive(37))
+//print(checkNum.divisibleByFive(37))
+
+let points = BasketballGame()
+print(points.points(7, 8))

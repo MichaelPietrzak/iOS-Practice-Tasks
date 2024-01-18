@@ -26,6 +26,7 @@
 		4C828FAB2B56CC1A0042153A /* Maximum Edge of a triangle.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4C828FAA2B56CC1A0042153A /* Maximum Edge of a triangle.swift */; };
 		4C828FAD2B56D0CE0042153A /* Correct the Mistakes.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4C828FAC2B56D0CE0042153A /* Correct the Mistakes.swift */; };
 		4C8F28BE2B4C5901006373C7 /* Convert Age to Days.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4C8F28BD2B4C5901006373C7 /* Convert Age to Days.swift */; };
+		4C9DA8852B594F11003E4612 /* Basketball Points.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4C9DA8842B594F11003E4612 /* Basketball Points.swift */; };
 		4CB16ECB2B57BB82006EC617 /* Name Greeting.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4CB16ECA2B57BB82006EC617 /* Name Greeting.swift */; };
 		4CB16ECD2B57BD4F006EC617 /* Check integer if divisible.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4CB16ECC2B57BD4F006EC617 /* Check integer if divisible.swift */; };
 /* End PBXBuildFile section */
@@ -63,6 +64,7 @@
 		4C828FAA2B56CC1A0042153A /* Maximum Edge of a triangle.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "Maximum Edge of a triangle.swift"; sourceTree = "<group>"; };
 		4C828FAC2B56D0CE0042153A /* Correct the Mistakes.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "Correct the Mistakes.swift"; sourceTree = "<group>"; };
 		4C8F28BD2B4C5901006373C7 /* Convert Age to Days.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "Convert Age to Days.swift"; sourceTree = "<group>"; };
+		4C9DA8842B594F11003E4612 /* Basketball Points.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "Basketball Points.swift"; sourceTree = "<group>"; };
 		4CB16ECA2B57BB82006EC617 /* Name Greeting.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "Name Greeting.swift"; sourceTree = "<group>"; };
 		4CB16ECC2B57BD4F006EC617 /* Check integer if divisible.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "Check integer if divisible.swift"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
@@ -118,6 +120,7 @@
 				4C828FAC2B56D0CE0042153A /* Correct the Mistakes.swift */,
 				4CB16ECA2B57BB82006EC617 /* Name Greeting.swift */,
 				4CB16ECC2B57BD4F006EC617 /* Check integer if divisible.swift */,
+				4C9DA8842B594F11003E4612 /* Basketball Points.swift */,
 			);
 			path = Edabit;
 			sourceTree = "<group>";
@@ -184,6 +187,7 @@
 				4C6ADD0D2B4E8EF50087971C /* Find the Perimeter of a Rectangle.swift in Sources */,
 				4C7659782B4D5E6E0023DF20 /* Area of a Triangle.swift in Sources */,
 				4C26AAAB2B52AB340038E064 /* Buggy Code - Part 1.swift in Sources */,
+				4C9DA8852B594F11003E4612 /* Basketball Points.swift in Sources */,
 				4CB16ECB2B57BB82006EC617 /* Name Greeting.swift in Sources */,
 				4C5F312A2B5428CD0013E75E /* Inches to Feet.swift in Sources */,
 				4C26AAAD2B52AD7D0038E064 /* Return the first element in array.swift in Sources */,
