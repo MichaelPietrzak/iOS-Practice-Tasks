@@ -74,4 +74,7 @@ let integers = EvenDivision()
 //print(integers.dividesEvenly(85, 4 ))
 
 let surname = ConcatenateName()
-print(surname.concatName("Tim", "Cook"))
+//print(surname.concatName("Tim", "Cook"))
+
+let polygon = PolygonAngles()
+print(polygon.sumPolygon(6))
