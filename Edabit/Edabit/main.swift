@@ -71,4 +71,7 @@ let points = BasketballGame()
 //print(points.points(7, 8))
 
 let integers = EvenDivision()
-print(integers.dividesEvenly(85, 4))
+//print(integers.dividesEvenly(85, 4 ))
+
+let surname = ConcatenateName()
+print(surname.concatName("Tim", "Cook"))
