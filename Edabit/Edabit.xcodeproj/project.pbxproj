@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		4C1AD32A2B5D9B46007244B3 /* Convert hours and minutes into seconds.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4C1AD3292B5D9B46007244B3 /* Convert hours and minutes into seconds.swift */; };
 		4C1AEB4C2B55E1E7001093F4 /* Basic Variable Assignment.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4C1AEB4B2B55E1E7001093F4 /* Basic Variable Assignment.swift */; };
 		4C1AEB4E2B55E545001093F4 /* Are the numbers if equal.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4C1AEB4D2B55E545001093F4 /* Are the numbers if equal.swift */; };
 		4C26AAAB2B52AB340038E064 /* Buggy Code - Part 1.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4C26AAAA2B52AB340038E064 /* Buggy Code - Part 1.swift */; };
@@ -47,6 +48,7 @@
 /* End PBXCopyFilesBuildPhase section */
 
 /* Begin PBXFileReference section */
+		4C1AD3292B5D9B46007244B3 /* Convert hours and minutes into seconds.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "Convert hours and minutes into seconds.swift"; sourceTree = "<group>"; };
 		4C1AEB4B2B55E1E7001093F4 /* Basic Variable Assignment.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "Basic Variable Assignment.swift"; sourceTree = "<group>"; };
 		4C1AEB4D2B55E545001093F4 /* Are the numbers if equal.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; name = "Are the numbers if equal.swift"; path = "../Are the numbers if equal.swift"; sourceTree = "<group>"; };
 		4C26AAAA2B52AB340038E064 /* Buggy Code - Part 1.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "Buggy Code - Part 1.swift"; sourceTree = "<group>"; };
@@ -130,6 +132,7 @@
 				4C9DA8862B595D22003E4612 /* Divides Evenly.swift */,
 				4C6780B62B5AB020006E4691 /* Concatenate First and Last Name into String.swift */,
 				4C6780B82B5AB221006E4691 /* Sum of polygon angles.swift */,
+				4C1AD3292B5D9B46007244B3 /* Convert hours and minutes into seconds.swift */,
 			);
 			path = Edabit;
 			sourceTree = "<group>";
@@ -212,6 +215,7 @@
 				4C37508D2B5156EE00318140 /* Return the remainder from two numbers.swift in Sources */,
 				4C5F31282B5427BF0013E75E /* Power Calculator.swift in Sources */,
 				4C6ADD0B2B4E8C3F0087971C /* Convert Minutes into Seconds.swift in Sources */,
+				4C1AD32A2B5D9B46007244B3 /* Convert hours and minutes into seconds.swift in Sources */,
 				4C1AEB4C2B55E1E7001093F4 /* Basic Variable Assignment.swift in Sources */,
 				4C8F28BE2B4C5901006373C7 /* Convert Age to Days.swift in Sources */,
 				4C34BA252B500A8000F60A9E /* Is the number less or equal to zero.swift in Sources */,

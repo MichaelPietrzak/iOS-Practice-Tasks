@@ -77,4 +77,7 @@ let surname = ConcatenateName()
 //print(surname.concatName("Tim", "Cook"))
 
 let polygon = PolygonAngles()
-print(polygon.sumPolygon(6))
+//print(polygon.sumPolygon(6))
+
+let time = ConvertTime()
+print((time.convert(2, 0)))
