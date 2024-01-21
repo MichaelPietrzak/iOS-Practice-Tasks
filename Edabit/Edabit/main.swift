@@ -83,4 +83,7 @@ let time = ConvertTime()
 //print((time.convert(2, 0)))
 
 let animalsLegs = Farm()
-print(animalsLegs.animals(1, 2, 3))
+//print(animalsLegs.animals(1, 2, 3))
+
+let boolVariable = Conversion()
+print(boolVariable.boolToString(false))
