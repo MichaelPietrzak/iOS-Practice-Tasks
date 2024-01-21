@@ -86,4 +86,7 @@ let animalsLegs = Farm()
 //print(animalsLegs.animals(1, 2, 3))
 
 let boolVariable = Conversion()
-print(boolVariable.boolToString(false))
+//print(boolVariable.boolToString(false))
+
+let gambleGame = Gamble()
+print(gambleGame.profitableGamble(0.9, 1, 2))
