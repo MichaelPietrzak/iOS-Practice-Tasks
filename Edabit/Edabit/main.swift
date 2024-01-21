@@ -80,4 +80,7 @@ let polygon = PolygonAngles()
 //print(polygon.sumPolygon(6))
 
 let time = ConvertTime()
-print((time.convert(2, 0)))
+//print((time.convert(2, 0)))
+
+let animalsLegs = Farm()
+print(animalsLegs.animals(1, 2, 3))
