@@ -92,4 +92,7 @@ let gambleGame = Gamble()
 //print(gambleGame.profitableGamble(0.9, 1, 2))
 
 let twoArguments = PairManagement()
-print(twoArguments.makePair(51, 21))
+//print(twoArguments.makePair(51, 21))
+
+let someText = Something()
+print(someText.returnMeSomething("Bob Jane"))
