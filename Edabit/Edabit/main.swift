@@ -89,4 +89,7 @@ let boolVariable = Conversion()
 //print(boolVariable.boolToString(false))
 
 let gambleGame = Gamble()
-print(gambleGame.profitableGamble(0.9, 1, 2))
+//print(gambleGame.profitableGamble(0.9, 1, 2))
+
+let twoArguments = PairManagement()
+print(twoArguments.makePair(51, 21))
