@@ -98,4 +98,7 @@ let someText = Something()
 //print(someText.returnMeSomething("Bob Jane"))
 
 let twoArrays = ConcatenateArrays()
-print(twoArrays.concat([1, 3, 5], [2, 6, 8]))
+//print(twoArrays.concat([1, 3, 5], [2, 6, 8]))
+
+let someInteger = MultipleOf()
+print(someInteger.divisible(1))
