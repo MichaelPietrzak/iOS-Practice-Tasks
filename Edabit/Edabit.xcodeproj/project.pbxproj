@@ -38,6 +38,7 @@
 		4CD9C9EC2B5EB53E00DD33FA /* Pair Management.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4CD9C9EB2B5EB53E00DD33FA /* Pair Management.swift */; };
 		4CD9C9EE2B5EBFCA00DD33FA /* Return something to me.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4CD9C9ED2B5EBFCA00DD33FA /* Return something to me.swift */; };
 		4CFF792E2B5FF4CE006F2004 /* Are the number if equal.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4CFF792D2B5FF4CE006F2004 /* Are the number if equal.swift */; };
+		4CFF79302B5FF70B006F2004 /* Concatenating two integer arrays.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4CFF792F2B5FF70B006F2004 /* Concatenating two integer arrays.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXCopyFilesBuildPhase section */
@@ -85,6 +86,7 @@
 		4CD9C9EB2B5EB53E00DD33FA /* Pair Management.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "Pair Management.swift"; sourceTree = "<group>"; };
 		4CD9C9ED2B5EBFCA00DD33FA /* Return something to me.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "Return something to me.swift"; sourceTree = "<group>"; };
 		4CFF792D2B5FF4CE006F2004 /* Are the number if equal.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "Are the number if equal.swift"; sourceTree = "<group>"; };
+		4CFF792F2B5FF70B006F2004 /* Concatenating two integer arrays.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "Concatenating two integer arrays.swift"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -148,6 +150,7 @@
 				4C3B72FF2B5DA42D00B84120 /* Profitable Gamble.swift */,
 				4CD9C9EB2B5EB53E00DD33FA /* Pair Management.swift */,
 				4CD9C9ED2B5EBFCA00DD33FA /* Return something to me.swift */,
+				4CFF792F2B5FF70B006F2004 /* Concatenating two integer arrays.swift */,
 			);
 			path = Edabit;
 			sourceTree = "<group>";
@@ -235,6 +238,7 @@
 				4C6ADD0B2B4E8C3F0087971C /* Convert Minutes into Seconds.swift in Sources */,
 				4C1AD32A2B5D9B46007244B3 /* Convert hours and minutes into seconds.swift in Sources */,
 				4C1AEB4C2B55E1E7001093F4 /* Basic Variable Assignment.swift in Sources */,
+				4CFF79302B5FF70B006F2004 /* Concatenating two integer arrays.swift in Sources */,
 				4C8F28BE2B4C5901006373C7 /* Convert Age to Days.swift in Sources */,
 				4C34BA252B500A8000F60A9E /* Is the number less or equal to zero.swift in Sources */,
 				4C3B73002B5DA42D00B84120 /* Profitable Gamble.swift in Sources */,

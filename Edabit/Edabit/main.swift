@@ -95,4 +95,7 @@ let twoArguments = PairManagement()
 //print(twoArguments.makePair(51, 21))
 
 let someText = Something()
-print(someText.returnMeSomething("Bob Jane"))
+//print(someText.returnMeSomething("Bob Jane"))
+
+let twoArrays = ConcatenateArrays()
+print(twoArrays.concat([1, 3, 5], [2, 6, 8]))
