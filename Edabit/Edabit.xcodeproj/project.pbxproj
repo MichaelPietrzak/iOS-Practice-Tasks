@@ -12,6 +12,7 @@
 		4C26AAAB2B52AB340038E064 /* Buggy Code - Part 1.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4C26AAAA2B52AB340038E064 /* Buggy Code - Part 1.swift */; };
 		4C26AAAD2B52AD7D0038E064 /* Return the first element in array.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4C26AAAC2B52AD7D0038E064 /* Return the first element in array.swift */; };
 		4C2771D32B616BCF00130332 /* less than 100.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4C2771D22B616BCF00130332 /* less than 100.swift */; };
+		4C2771D52B61753800130332 /* Football Points.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4C2771D42B61753800130332 /* Football Points.swift */; };
 		4C34BA252B500A8000F60A9E /* Is the number less or equal to zero.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4C34BA242B500A8000F60A9E /* Is the number less or equal to zero.swift */; };
 		4C34BA272B500BB000F60A9E /* Are the numbers equal.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4C34BA262B500BB000F60A9E /* Are the numbers equal.swift */; };
 		4C35E0C82B4B2AC3009ECE9A /* main.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4C35E0C72B4B2AC3009ECE9A /* main.swift */; };
@@ -61,6 +62,7 @@
 		4C26AAAA2B52AB340038E064 /* Buggy Code - Part 1.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "Buggy Code - Part 1.swift"; sourceTree = "<group>"; };
 		4C26AAAC2B52AD7D0038E064 /* Return the first element in array.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "Return the first element in array.swift"; sourceTree = "<group>"; };
 		4C2771D22B616BCF00130332 /* less than 100.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "less than 100.swift"; sourceTree = "<group>"; };
+		4C2771D42B61753800130332 /* Football Points.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "Football Points.swift"; sourceTree = "<group>"; };
 		4C34BA242B500A8000F60A9E /* Is the number less or equal to zero.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "Is the number less or equal to zero.swift"; sourceTree = "<group>"; };
 		4C34BA262B500BB000F60A9E /* Are the numbers equal.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "Are the numbers equal.swift"; sourceTree = "<group>"; };
 		4C35E0C42B4B2AC3009ECE9A /* Edabit */ = {isa = PBXFileReference; explicitFileType = "compiled.mach-o.executable"; includeInIndex = 0; path = Edabit; sourceTree = BUILT_PRODUCTS_DIR; };
@@ -157,6 +159,7 @@
 				4CFF792F2B5FF70B006F2004 /* Concatenating two integer arrays.swift */,
 				4CFF79312B5FF8A3006F2004 /* Multiple of 100.swift */,
 				4C2771D22B616BCF00130332 /* less than 100.swift */,
+				4C2771D42B61753800130332 /* Football Points.swift */,
 			);
 			path = Edabit;
 			sourceTree = "<group>";
@@ -223,6 +226,7 @@
 				4CFF792E2B5FF4CE006F2004 /* Are the number if equal.swift in Sources */,
 				4C6ADD0D2B4E8EF50087971C /* Find the Perimeter of a Rectangle.swift in Sources */,
 				4C3B72FA2B5D9D8A00B84120 /* The farm problem.swift in Sources */,
+				4C2771D52B61753800130332 /* Football Points.swift in Sources */,
 				4C6780B72B5AB020006E4691 /* Concatenate First and Last Name into String.swift in Sources */,
 				4C7659782B4D5E6E0023DF20 /* Area of a Triangle.swift in Sources */,
 				4C3B72FE2B5DA26500B84120 /* Boolean to String conversion.swift in Sources */,

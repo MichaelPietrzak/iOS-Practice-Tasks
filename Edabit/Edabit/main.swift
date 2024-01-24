@@ -104,4 +104,7 @@ let someInteger = MultipleOf()
 //print(someInteger.divisible(1))
 
 let twoNum = LessThan()
-print(twoNum.lessThan(83, 34))
+//print(twoNum.lessThan(83, 34))
+
+let teamPoints = FootballPoints()
+print(teamPoints.footballPoints(3, 4, 2))
