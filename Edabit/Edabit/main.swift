@@ -101,4 +101,7 @@ let twoArrays = ConcatenateArrays()
 //print(twoArrays.concat([1, 3, 5], [2, 6, 8]))
 
 let someInteger = MultipleOf()
-print(someInteger.divisible(1))
+//print(someInteger.divisible(1))
+
+let twoNum = LessThan()
+print(twoNum.lessThan(83, 34))
