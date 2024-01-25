@@ -110,4 +110,7 @@ let teamPoints = FootballPoints()
 //print(teamPoints.footballPoints(3, 4, 2))
 
 let str = EmptyString()
-print(str.isEmpty("a"))
+//print(str.isEmpty("a"))
+
+let logComparison = LogicalOperator()
+print(logComparison.and(false, true))
