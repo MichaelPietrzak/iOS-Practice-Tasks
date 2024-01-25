@@ -107,4 +107,7 @@ let twoNum = LessThan()
 //print(twoNum.lessThan(83, 34))
 
 let teamPoints = FootballPoints()
-print(teamPoints.footballPoints(3, 4, 2))
+//print(teamPoints.footballPoints(3, 4, 2))
+
+let str = EmptyString()
+print(str.isEmpty("a"))

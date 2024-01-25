@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		4C134C1B2B62A4040002ED5E /* Is the string empty.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4C134C1A2B62A4040002ED5E /* Is the string empty.swift */; };
 		4C1AD32A2B5D9B46007244B3 /* Convert hours and minutes into seconds.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4C1AD3292B5D9B46007244B3 /* Convert hours and minutes into seconds.swift */; };
 		4C1AEB4C2B55E1E7001093F4 /* Basic Variable Assignment.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4C1AEB4B2B55E1E7001093F4 /* Basic Variable Assignment.swift */; };
 		4C26AAAB2B52AB340038E064 /* Buggy Code - Part 1.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4C26AAAA2B52AB340038E064 /* Buggy Code - Part 1.swift */; };
@@ -57,6 +58,7 @@
 /* End PBXCopyFilesBuildPhase section */
 
 /* Begin PBXFileReference section */
+		4C134C1A2B62A4040002ED5E /* Is the string empty.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "Is the string empty.swift"; sourceTree = "<group>"; };
 		4C1AD3292B5D9B46007244B3 /* Convert hours and minutes into seconds.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "Convert hours and minutes into seconds.swift"; sourceTree = "<group>"; };
 		4C1AEB4B2B55E1E7001093F4 /* Basic Variable Assignment.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "Basic Variable Assignment.swift"; sourceTree = "<group>"; };
 		4C26AAAA2B52AB340038E064 /* Buggy Code - Part 1.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "Buggy Code - Part 1.swift"; sourceTree = "<group>"; };
@@ -160,6 +162,7 @@
 				4CFF79312B5FF8A3006F2004 /* Multiple of 100.swift */,
 				4C2771D22B616BCF00130332 /* less than 100.swift */,
 				4C2771D42B61753800130332 /* Football Points.swift */,
+				4C134C1A2B62A4040002ED5E /* Is the string empty.swift */,
 			);
 			path = Edabit;
 			sourceTree = "<group>";
@@ -225,6 +228,7 @@
 				4C828FAD2B56D0CE0042153A /* Correct the Mistakes.swift in Sources */,
 				4CFF792E2B5FF4CE006F2004 /* Are the number if equal.swift in Sources */,
 				4C6ADD0D2B4E8EF50087971C /* Find the Perimeter of a Rectangle.swift in Sources */,
+				4C134C1B2B62A4040002ED5E /* Is the string empty.swift in Sources */,
 				4C3B72FA2B5D9D8A00B84120 /* The farm problem.swift in Sources */,
 				4C2771D52B61753800130332 /* Football Points.swift in Sources */,
 				4C6780B72B5AB020006E4691 /* Concatenate First and Last Name into String.swift in Sources */,
