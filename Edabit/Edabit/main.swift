@@ -113,4 +113,7 @@ let str = EmptyString()
 //print(str.isEmpty("a"))
 
 let logComparison = LogicalOperator()
-print(logComparison.and(false, true))
+//print(logComparison.and(false, true))
+
+let minimalNum = MinimalBoolean()
+print(minimalNum.isEven(2))

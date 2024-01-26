@@ -39,6 +39,7 @@
 		4C9DA8872B595D22003E4612 /* Divides Evenly.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4C9DA8862B595D22003E4612 /* Divides Evenly.swift */; };
 		4CB16ECB2B57BB82006EC617 /* Name Greeting.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4CB16ECA2B57BB82006EC617 /* Name Greeting.swift */; };
 		4CB16ECD2B57BD4F006EC617 /* Check integer if divisible.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4CB16ECC2B57BD4F006EC617 /* Check integer if divisible.swift */; };
+		4CB99E4A2B63EE7E002FC554 /* Minimal1- If boolean then boolean.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4CB99E492B63EE7E002FC554 /* Minimal1- If boolean then boolean.swift */; };
 		4CD9C9EC2B5EB53E00DD33FA /* Pair Management.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4CD9C9EB2B5EB53E00DD33FA /* Pair Management.swift */; };
 		4CD9C9EE2B5EBFCA00DD33FA /* Return something to me.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4CD9C9ED2B5EBFCA00DD33FA /* Return something to me.swift */; };
 		4CFF792E2B5FF4CE006F2004 /* Are the number if equal.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4CFF792D2B5FF4CE006F2004 /* Are the number if equal.swift */; };
@@ -92,6 +93,7 @@
 		4C9DA8862B595D22003E4612 /* Divides Evenly.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "Divides Evenly.swift"; sourceTree = "<group>"; };
 		4CB16ECA2B57BB82006EC617 /* Name Greeting.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "Name Greeting.swift"; sourceTree = "<group>"; };
 		4CB16ECC2B57BD4F006EC617 /* Check integer if divisible.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "Check integer if divisible.swift"; sourceTree = "<group>"; };
+		4CB99E492B63EE7E002FC554 /* Minimal1- If boolean then boolean.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "Minimal1- If boolean then boolean.swift"; sourceTree = "<group>"; };
 		4CD9C9EB2B5EB53E00DD33FA /* Pair Management.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "Pair Management.swift"; sourceTree = "<group>"; };
 		4CD9C9ED2B5EBFCA00DD33FA /* Return something to me.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "Return something to me.swift"; sourceTree = "<group>"; };
 		4CFF792D2B5FF4CE006F2004 /* Are the number if equal.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "Are the number if equal.swift"; sourceTree = "<group>"; };
@@ -130,42 +132,43 @@
 			isa = PBXGroup;
 			children = (
 				4C35E0C72B4B2AC3009ECE9A /* main.swift */,
-				4C35E0CE2B4B2BC8009ECE9A /* Return Sum of Two Numbers.swift */,
-				4C8F28BD2B4C5901006373C7 /* Convert Age to Days.swift */,
-				4C7659772B4D5E6E0023DF20 /* Area of a Triangle.swift */,
-				4C7659792B4D62AB0023DF20 /* Return Next Number from the Integer Passed.swift */,
-				4C6ADD0A2B4E8C3F0087971C /* Convert Minutes into Seconds.swift */,
-				4C6ADD0C2B4E8EF50087971C /* Find the Perimeter of a Rectangle.swift */,
-				4C34BA242B500A8000F60A9E /* Is the number less or equal to zero.swift */,
-				4C34BA262B500BB000F60A9E /* Are the numbers equal.swift */,
-				4C37508C2B5156EE00318140 /* Return the remainder from two numbers.swift */,
-				4C37508E2B515AC800318140 /* Convert Hours into Seconds.swift */,
-				4C26AAAA2B52AB340038E064 /* Buggy Code - Part 1.swift */,
-				4C26AAAC2B52AD7D0038E064 /* Return the first element in array.swift */,
-				4C5F31272B5427BF0013E75E /* Power Calculator.swift */,
-				4C5F31292B5428CC0013E75E /* Inches to Feet.swift */,
-				4C1AEB4B2B55E1E7001093F4 /* Basic Variable Assignment.swift */,
-				4CFF792D2B5FF4CE006F2004 /* Are the number if equal.swift */,
-				4C828FAA2B56CC1A0042153A /* Maximum Edge of a triangle.swift */,
-				4C828FAC2B56D0CE0042153A /* Correct the Mistakes.swift */,
-				4CB16ECA2B57BB82006EC617 /* Name Greeting.swift */,
-				4CB16ECC2B57BD4F006EC617 /* Check integer if divisible.swift */,
-				4C9DA8842B594F11003E4612 /* Basketball Points.swift */,
-				4C9DA8862B595D22003E4612 /* Divides Evenly.swift */,
-				4C6780B62B5AB020006E4691 /* Concatenate First and Last Name into String.swift */,
-				4C6780B82B5AB221006E4691 /* Sum of polygon angles.swift */,
-				4C1AD3292B5D9B46007244B3 /* Convert hours and minutes into seconds.swift */,
-				4C3B72F92B5D9D8A00B84120 /* The farm problem.swift */,
-				4C3B72FD2B5DA26500B84120 /* Boolean to String conversion.swift */,
-				4C3B72FF2B5DA42D00B84120 /* Profitable Gamble.swift */,
-				4CD9C9EB2B5EB53E00DD33FA /* Pair Management.swift */,
-				4CD9C9ED2B5EBFCA00DD33FA /* Return something to me.swift */,
-				4CFF792F2B5FF70B006F2004 /* Concatenating two integer arrays.swift */,
-				4CFF79312B5FF8A3006F2004 /* Multiple of 100.swift */,
-				4C2771D22B616BCF00130332 /* less than 100.swift */,
-				4C2771D42B61753800130332 /* Football Points.swift */,
-				4C134C1A2B62A4040002ED5E /* Is the string empty.swift */,
 				4C134C1C2B62A7770002ED5E /* Using the && Operator.swift */,
+				4C134C1A2B62A4040002ED5E /* Is the string empty.swift */,
+				4C2771D42B61753800130332 /* Football Points.swift */,
+				4C2771D22B616BCF00130332 /* less than 100.swift */,
+				4CFF79312B5FF8A3006F2004 /* Multiple of 100.swift */,
+				4CFF792F2B5FF70B006F2004 /* Concatenating two integer arrays.swift */,
+				4CD9C9ED2B5EBFCA00DD33FA /* Return something to me.swift */,
+				4CD9C9EB2B5EB53E00DD33FA /* Pair Management.swift */,
+				4C3B72FF2B5DA42D00B84120 /* Profitable Gamble.swift */,
+				4C3B72FD2B5DA26500B84120 /* Boolean to String conversion.swift */,
+				4C3B72F92B5D9D8A00B84120 /* The farm problem.swift */,
+				4C1AD3292B5D9B46007244B3 /* Convert hours and minutes into seconds.swift */,
+				4C6780B82B5AB221006E4691 /* Sum of polygon angles.swift */,
+				4C6780B62B5AB020006E4691 /* Concatenate First and Last Name into String.swift */,
+				4C9DA8862B595D22003E4612 /* Divides Evenly.swift */,
+				4C9DA8842B594F11003E4612 /* Basketball Points.swift */,
+				4CB16ECC2B57BD4F006EC617 /* Check integer if divisible.swift */,
+				4CB16ECA2B57BB82006EC617 /* Name Greeting.swift */,
+				4C828FAC2B56D0CE0042153A /* Correct the Mistakes.swift */,
+				4C828FAA2B56CC1A0042153A /* Maximum Edge of a triangle.swift */,
+				4CFF792D2B5FF4CE006F2004 /* Are the number if equal.swift */,
+				4C1AEB4B2B55E1E7001093F4 /* Basic Variable Assignment.swift */,
+				4C5F31292B5428CC0013E75E /* Inches to Feet.swift */,
+				4C5F31272B5427BF0013E75E /* Power Calculator.swift */,
+				4C26AAAC2B52AD7D0038E064 /* Return the first element in array.swift */,
+				4C26AAAA2B52AB340038E064 /* Buggy Code - Part 1.swift */,
+				4C37508E2B515AC800318140 /* Convert Hours into Seconds.swift */,
+				4C37508C2B5156EE00318140 /* Return the remainder from two numbers.swift */,
+				4C34BA262B500BB000F60A9E /* Are the numbers equal.swift */,
+				4C34BA242B500A8000F60A9E /* Is the number less or equal to zero.swift */,
+				4C6ADD0C2B4E8EF50087971C /* Find the Perimeter of a Rectangle.swift */,
+				4C6ADD0A2B4E8C3F0087971C /* Convert Minutes into Seconds.swift */,
+				4C7659792B4D62AB0023DF20 /* Return Next Number from the Integer Passed.swift */,
+				4C7659772B4D5E6E0023DF20 /* Area of a Triangle.swift */,
+				4C8F28BD2B4C5901006373C7 /* Convert Age to Days.swift */,
+				4C35E0CE2B4B2BC8009ECE9A /* Return Sum of Two Numbers.swift */,
+				4CB99E492B63EE7E002FC554 /* Minimal1- If boolean then boolean.swift */,
 			);
 			path = Edabit;
 			sourceTree = "<group>";
@@ -235,6 +238,7 @@
 				4C3B72FA2B5D9D8A00B84120 /* The farm problem.swift in Sources */,
 				4C2771D52B61753800130332 /* Football Points.swift in Sources */,
 				4C6780B72B5AB020006E4691 /* Concatenate First and Last Name into String.swift in Sources */,
+				4CB99E4A2B63EE7E002FC554 /* Minimal1- If boolean then boolean.swift in Sources */,
 				4C7659782B4D5E6E0023DF20 /* Area of a Triangle.swift in Sources */,
 				4C3B72FE2B5DA26500B84120 /* Boolean to String conversion.swift in Sources */,
 				4C26AAAB2B52AB340038E064 /* Buggy Code - Part 1.swift in Sources */,
