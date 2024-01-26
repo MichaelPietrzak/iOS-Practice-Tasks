@@ -116,4 +116,7 @@ let logComparison = LogicalOperator()
 //print(logComparison.and(false, true))
 
 let minimalNum = MinimalBoolean()
-print(minimalNum.isEven(2))
+//print(minimalNum.isEven(2))
+
+let ifSeven = CheckExpression()
+print(ifSeven.isSeven(7))
