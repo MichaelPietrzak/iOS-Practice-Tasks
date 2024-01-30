@@ -125,4 +125,7 @@ let calculateFps = FramesPerSecond()
 //print(calculateFps.frames(10, 25))
 
 let reverseValue = FlipBoolean()
-print(reverseValue.reverse(false))
+//print(reverseValue.reverse(false))
+
+let person = MovieWatchRating()
+print(person.acceptIntoMovie(20, true))
