@@ -122,5 +122,7 @@ let ifSeven = CheckExpression()
 //print(ifSeven.isSeven(7))
 
 let calculateFps = FramesPerSecond()
-print(calculateFps.frames(10, 25))
+//print(calculateFps.frames(10, 25))
 
+let reverseValue = FlipBoolean()
+print(reverseValue.reverse(false))

@@ -25,6 +25,7 @@
 		4C3B72FE2B5DA26500B84120 /* Boolean to String conversion.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4C3B72FD2B5DA26500B84120 /* Boolean to String conversion.swift */; };
 		4C3B73002B5DA42D00B84120 /* Profitable Gamble.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4C3B72FF2B5DA42D00B84120 /* Profitable Gamble.swift */; };
 		4C4B3C722B6939E8005A1EE5 /* Frames per second.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4C4B3C712B6939E8005A1EE5 /* Frames per second.swift */; };
+		4C4B3C742B693F53005A1EE5 /* Flip the boolean.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4C4B3C732B693F53005A1EE5 /* Flip the boolean.swift */; };
 		4C5F31282B5427BF0013E75E /* Power Calculator.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4C5F31272B5427BF0013E75E /* Power Calculator.swift */; };
 		4C5F312A2B5428CD0013E75E /* Inches to Feet.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4C5F31292B5428CC0013E75E /* Inches to Feet.swift */; };
 		4C6780B72B5AB020006E4691 /* Concatenate First and Last Name into String.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4C6780B62B5AB020006E4691 /* Concatenate First and Last Name into String.swift */; };
@@ -81,6 +82,7 @@
 		4C3B72FD2B5DA26500B84120 /* Boolean to String conversion.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "Boolean to String conversion.swift"; sourceTree = "<group>"; };
 		4C3B72FF2B5DA42D00B84120 /* Profitable Gamble.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "Profitable Gamble.swift"; sourceTree = "<group>"; };
 		4C4B3C712B6939E8005A1EE5 /* Frames per second.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "Frames per second.swift"; sourceTree = "<group>"; };
+		4C4B3C732B693F53005A1EE5 /* Flip the boolean.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "Flip the boolean.swift"; sourceTree = "<group>"; };
 		4C5F31272B5427BF0013E75E /* Power Calculator.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "Power Calculator.swift"; sourceTree = "<group>"; };
 		4C5F31292B5428CC0013E75E /* Inches to Feet.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "Inches to Feet.swift"; sourceTree = "<group>"; };
 		4C6780B62B5AB020006E4691 /* Concatenate First and Last Name into String.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "Concatenate First and Last Name into String.swift"; sourceTree = "<group>"; };
@@ -175,6 +177,7 @@
 				4C134C1C2B62A7770002ED5E /* Using the && Operator.swift */,
 				4CB99E4B2B63F0A8002FC554 /* Fix the expression.swift */,
 				4C4B3C712B6939E8005A1EE5 /* Frames per second.swift */,
+				4C4B3C732B693F53005A1EE5 /* Flip the boolean.swift */,
 			);
 			path = Edabit;
 			sourceTree = "<group>";
@@ -272,6 +275,7 @@
 				4C34BA252B500A8000F60A9E /* Is the number less or equal to zero.swift in Sources */,
 				4CFF79322B5FF8A3006F2004 /* Multiple of 100.swift in Sources */,
 				4C2771D32B616BCF00130332 /* less than 100.swift in Sources */,
+				4C4B3C742B693F53005A1EE5 /* Flip the boolean.swift in Sources */,
 				4C3B73002B5DA42D00B84120 /* Profitable Gamble.swift in Sources */,
 				4CD9C9EC2B5EB53E00DD33FA /* Pair Management.swift in Sources */,
 				4C76597A2B4D62AB0023DF20 /* Return Next Number from the Integer Passed.swift in Sources */,
