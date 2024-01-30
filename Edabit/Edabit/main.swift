@@ -119,4 +119,8 @@ let minimalNum = MinimalBoolean()
 //print(minimalNum.isEven(2))
 
 let ifSeven = CheckExpression()
-print(ifSeven.isSeven(7))
+//print(ifSeven.isSeven(7))
+
+let calculateFps = FramesPerSecond()
+print(calculateFps.frames(10, 25))
+
