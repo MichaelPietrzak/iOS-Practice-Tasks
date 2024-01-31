@@ -128,4 +128,7 @@ let reverseValue = FlipBoolean()
 //print(reverseValue.reverse(false))
 
 let person = MovieWatchRating()
-print(person.acceptIntoMovie(20, true))
+//print(person.acceptIntoMovie(20, true))
+
+let numEvenOrOdd = NumberEvenOrOdd()
+print(numEvenOrOdd.isEvenOrOdd(4))
