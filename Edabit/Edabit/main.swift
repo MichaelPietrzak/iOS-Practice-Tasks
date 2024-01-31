@@ -135,3 +135,6 @@ let numEvenOrOdd = NumberEvenOrOdd()
 
 let ifMakesTen = CheckForTen()
 //print(ifMakesTen.makesTen(9, 9))
+
+let text = CheckStringOddOrEven()
+print(text.oddOrEven("michal"))

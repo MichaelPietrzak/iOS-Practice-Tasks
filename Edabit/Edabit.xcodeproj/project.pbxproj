@@ -41,6 +41,7 @@
 		4C9DA8872B595D22003E4612 /* Divides Evenly.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4C9DA8862B595D22003E4612 /* Divides Evenly.swift */; };
 		4CA90F262B6A3C1A00397D78 /* Is the number even or odd.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4CA90F252B6A3C1A00397D78 /* Is the number even or odd.swift */; };
 		4CA90F282B6A436000397D78 /* Two makes ten.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4CA90F272B6A436000397D78 /* Two makes ten.swift */; };
+		4CA90F2A2B6A45BD00397D78 /* Is string odd or even.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4CA90F292B6A45BD00397D78 /* Is string odd or even.swift */; };
 		4CB16ECB2B57BB82006EC617 /* Name Greeting.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4CB16ECA2B57BB82006EC617 /* Name Greeting.swift */; };
 		4CB16ECD2B57BD4F006EC617 /* Check integer if divisible.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4CB16ECC2B57BD4F006EC617 /* Check integer if divisible.swift */; };
 		4CB99E4A2B63EE7E002FC554 /* Minimal1- If boolean then boolean.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4CB99E492B63EE7E002FC554 /* Minimal1- If boolean then boolean.swift */; };
@@ -101,6 +102,7 @@
 		4C9DA8862B595D22003E4612 /* Divides Evenly.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "Divides Evenly.swift"; sourceTree = "<group>"; };
 		4CA90F252B6A3C1A00397D78 /* Is the number even or odd.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "Is the number even or odd.swift"; sourceTree = "<group>"; };
 		4CA90F272B6A436000397D78 /* Two makes ten.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "Two makes ten.swift"; sourceTree = "<group>"; };
+		4CA90F292B6A45BD00397D78 /* Is string odd or even.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "Is string odd or even.swift"; sourceTree = "<group>"; };
 		4CB16ECA2B57BB82006EC617 /* Name Greeting.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "Name Greeting.swift"; sourceTree = "<group>"; };
 		4CB16ECC2B57BD4F006EC617 /* Check integer if divisible.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "Check integer if divisible.swift"; sourceTree = "<group>"; };
 		4CB99E492B63EE7E002FC554 /* Minimal1- If boolean then boolean.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "Minimal1- If boolean then boolean.swift"; sourceTree = "<group>"; };
@@ -187,6 +189,7 @@
 				4CD066D62B69A7CA008952D1 /* Movie theatre admittance.swift */,
 				4CA90F252B6A3C1A00397D78 /* Is the number even or odd.swift */,
 				4CA90F272B6A436000397D78 /* Two makes ten.swift */,
+				4CA90F292B6A45BD00397D78 /* Is string odd or even.swift */,
 			);
 			path = Edabit;
 			sourceTree = "<group>";
@@ -261,6 +264,7 @@
 				4C7659782B4D5E6E0023DF20 /* Area of a Triangle.swift in Sources */,
 				4C3B72FE2B5DA26500B84120 /* Boolean to String conversion.swift in Sources */,
 				4C26AAAB2B52AB340038E064 /* Buggy Code - Part 1.swift in Sources */,
+				4CA90F2A2B6A45BD00397D78 /* Is string odd or even.swift in Sources */,
 				4C9DA8852B594F11003E4612 /* Basketball Points.swift in Sources */,
 				4CA90F262B6A3C1A00397D78 /* Is the number even or odd.swift in Sources */,
 				4CB16ECB2B57BB82006EC617 /* Name Greeting.swift in Sources */,
