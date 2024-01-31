@@ -131,4 +131,7 @@ let person = MovieWatchRating()
 //print(person.acceptIntoMovie(20, true))
 
 let numEvenOrOdd = NumberEvenOrOdd()
-print(numEvenOrOdd.isEvenOrOdd(4))
+//print(numEvenOrOdd.isEvenOrOdd(4))
+
+let ifMakesTen = CheckForTen()
+//print(ifMakesTen.makesTen(9, 9))
