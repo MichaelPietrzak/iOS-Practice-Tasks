@@ -140,4 +140,7 @@ let text = CheckStringOddOrEven()
 //print(text.oddOrEven("michal"))
 
 let numArray = BuggyCodeThree()
-print(numArray.sumArray([1, 2, 3, 4, 5]))
+//print(numArray.sumArray([1, 2, 3, 4, 5]))
+
+let rectangle = AreaOfRectangle()
+print(rectangle.area(3, 4))
