@@ -143,4 +143,7 @@ let numArray = BuggyCodeThree()
 //print(numArray.sumArray([1, 2, 3, 4, 5]))
 
 let rectangle = AreaOfRectangle()
-print(rectangle.area(3, 4))
+//print(rectangle.area(3, 4))
+
+let nameGreeting = BuggyCodeFour()
+print(nameGreeting.greeting("Mubashir"))
