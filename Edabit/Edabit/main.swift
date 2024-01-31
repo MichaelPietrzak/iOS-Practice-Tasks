@@ -137,4 +137,7 @@ let ifMakesTen = CheckForTen()
 //print(ifMakesTen.makesTen(9, 9))
 
 let text = CheckStringOddOrEven()
-print(text.oddOrEven("michal"))
+//print(text.oddOrEven("michal"))
+
+let numArray = BuggyCodeThree()
+print(numArray.sumArray([1, 2, 3, 4, 5]))
