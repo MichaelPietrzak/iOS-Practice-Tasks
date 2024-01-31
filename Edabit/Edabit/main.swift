@@ -146,4 +146,7 @@ let rectangle = AreaOfRectangle()
 //print(rectangle.area(3, 4))
 
 let nameGreeting = BuggyCodeFour()
-print(nameGreeting.greeting("Mubashir"))
+//print(nameGreeting.greeting("Mubashir"))
+
+let year = LeapYear()
+print(year.leapYear(1900))

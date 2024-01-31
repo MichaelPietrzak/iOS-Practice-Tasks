@@ -45,6 +45,7 @@
 		4CA90F2C2B6A4CBB00397D78 /* Buggy Code - Part 3.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4CA90F2B2B6A4CBB00397D78 /* Buggy Code - Part 3.swift */; };
 		4CA90F302B6A62B000397D78 /* Area of rectangle.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4CA90F2F2B6A62B000397D78 /* Area of rectangle.swift */; };
 		4CA90F322B6A661700397D78 /* Buggy code - Part 4.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4CA90F312B6A661700397D78 /* Buggy code - Part 4.swift */; };
+		4CA90F342B6A687900397D78 /* Find out the leap year.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4CA90F332B6A687900397D78 /* Find out the leap year.swift */; };
 		4CB16ECB2B57BB82006EC617 /* Name Greeting.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4CB16ECA2B57BB82006EC617 /* Name Greeting.swift */; };
 		4CB16ECD2B57BD4F006EC617 /* Check integer if divisible.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4CB16ECC2B57BD4F006EC617 /* Check integer if divisible.swift */; };
 		4CB99E4A2B63EE7E002FC554 /* Minimal1- If boolean then boolean.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4CB99E492B63EE7E002FC554 /* Minimal1- If boolean then boolean.swift */; };
@@ -109,6 +110,7 @@
 		4CA90F2B2B6A4CBB00397D78 /* Buggy Code - Part 3.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "Buggy Code - Part 3.swift"; sourceTree = "<group>"; };
 		4CA90F2F2B6A62B000397D78 /* Area of rectangle.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "Area of rectangle.swift"; sourceTree = "<group>"; };
 		4CA90F312B6A661700397D78 /* Buggy code - Part 4.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "Buggy code - Part 4.swift"; sourceTree = "<group>"; };
+		4CA90F332B6A687900397D78 /* Find out the leap year.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "Find out the leap year.swift"; sourceTree = "<group>"; };
 		4CB16ECA2B57BB82006EC617 /* Name Greeting.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "Name Greeting.swift"; sourceTree = "<group>"; };
 		4CB16ECC2B57BD4F006EC617 /* Check integer if divisible.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "Check integer if divisible.swift"; sourceTree = "<group>"; };
 		4CB99E492B63EE7E002FC554 /* Minimal1- If boolean then boolean.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "Minimal1- If boolean then boolean.swift"; sourceTree = "<group>"; };
@@ -199,6 +201,7 @@
 				4CA90F2B2B6A4CBB00397D78 /* Buggy Code - Part 3.swift */,
 				4CA90F2F2B6A62B000397D78 /* Area of rectangle.swift */,
 				4CA90F312B6A661700397D78 /* Buggy code - Part 4.swift */,
+				4CA90F332B6A687900397D78 /* Find out the leap year.swift */,
 			);
 			path = Edabit;
 			sourceTree = "<group>";
@@ -294,6 +297,7 @@
 				4C5F31282B5427BF0013E75E /* Power Calculator.swift in Sources */,
 				4CD066D72B69A7CA008952D1 /* Movie theatre admittance.swift in Sources */,
 				4CD9C9EE2B5EBFCA00DD33FA /* Return something to me.swift in Sources */,
+				4CA90F342B6A687900397D78 /* Find out the leap year.swift in Sources */,
 				4C6ADD0B2B4E8C3F0087971C /* Convert Minutes into Seconds.swift in Sources */,
 				4C1AD32A2B5D9B46007244B3 /* Convert hours and minutes into seconds.swift in Sources */,
 				4C1AEB4C2B55E1E7001093F4 /* Basic Variable Assignment.swift in Sources */,
