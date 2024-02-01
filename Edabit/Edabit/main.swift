@@ -149,4 +149,7 @@ let nameGreeting = BuggyCodeFour()
 //print(nameGreeting.greeting("Mubashir"))
 
 let year = LeapYear()
-print(year.leapYear(1900))
+//print(year.leapYear(1900))
+
+let negateNum = ReturnNegative()
+print(negateNum.returnNagative(5))
