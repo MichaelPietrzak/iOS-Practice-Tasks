@@ -152,4 +152,7 @@ let year = LeapYear()
 //print(year.leapYear(1900))
 
 let negateNum = ReturnNegative()
-print(negateNum.returnNagative(5))
+//print(negateNum.returnNagative(5))
+
+let array = ReverseArray()
+print(array.reverse([1, 2, 3, 4]))
