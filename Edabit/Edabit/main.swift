@@ -158,4 +158,7 @@ let array = ReverseArray()
 //print(array.reverse([1, 2, 3, 4]))
 
 let numOfCups = CoffeeCups()
-print(numOfCups.totalCups(12))
+//print(numOfCups.totalCups(12))
+
+let arrayItems = LastElementArray()
+print(arrayItems.getLastItem([true, false, true]))
