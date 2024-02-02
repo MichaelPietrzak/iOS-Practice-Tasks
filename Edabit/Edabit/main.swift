@@ -155,4 +155,7 @@ let negateNum = ReturnNegative()
 //print(negateNum.returnNagative(5))
 
 let array = ReverseArray()
-print(array.reverse([1, 2, 3, 4]))
+//print(array.reverse([1, 2, 3, 4]))
+
+let numOfCups = CoffeeCups()
+print(numOfCups.totalCups(12))
