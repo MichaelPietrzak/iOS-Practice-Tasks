@@ -161,4 +161,7 @@ let numOfCups = CoffeeCups()
 //print(numOfCups.totalCups(12))
 
 let arrayItems = LastElementArray()
-print(arrayItems.getLastItem([true, false, true]))
+//print(arrayItems.getLastItem([true, false, true]))
+
+let getPie = SliceOfPie()
+print(getPie.equalSlices(11, 0, 3))

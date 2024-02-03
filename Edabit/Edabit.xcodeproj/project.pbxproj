@@ -39,6 +39,7 @@
 		4C828FAB2B56CC1A0042153A /* Maximum Edge of a triangle.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4C828FAA2B56CC1A0042153A /* Maximum Edge of a triangle.swift */; };
 		4C828FAD2B56D0CE0042153A /* Correct the Mistakes.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4C828FAC2B56D0CE0042153A /* Correct the Mistakes.swift */; };
 		4C8F28BE2B4C5901006373C7 /* Convert Age to Days.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4C8F28BD2B4C5901006373C7 /* Convert Age to Days.swift */; };
+		4C9C54922B6ECE08008BD33C /* Slice of pie.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4C9C54912B6ECE08008BD33C /* Slice of pie.swift */; };
 		4C9DA8852B594F11003E4612 /* Basketball Points.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4C9DA8842B594F11003E4612 /* Basketball Points.swift */; };
 		4C9DA8872B595D22003E4612 /* Divides Evenly.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4C9DA8862B595D22003E4612 /* Divides Evenly.swift */; };
 		4CA90F262B6A3C1A00397D78 /* Is the number even or odd.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4CA90F252B6A3C1A00397D78 /* Is the number even or odd.swift */; };
@@ -108,6 +109,7 @@
 		4C828FAA2B56CC1A0042153A /* Maximum Edge of a triangle.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "Maximum Edge of a triangle.swift"; sourceTree = "<group>"; };
 		4C828FAC2B56D0CE0042153A /* Correct the Mistakes.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "Correct the Mistakes.swift"; sourceTree = "<group>"; };
 		4C8F28BD2B4C5901006373C7 /* Convert Age to Days.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "Convert Age to Days.swift"; sourceTree = "<group>"; };
+		4C9C54912B6ECE08008BD33C /* Slice of pie.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "Slice of pie.swift"; sourceTree = "<group>"; };
 		4C9DA8842B594F11003E4612 /* Basketball Points.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "Basketball Points.swift"; sourceTree = "<group>"; };
 		4C9DA8862B595D22003E4612 /* Divides Evenly.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "Divides Evenly.swift"; sourceTree = "<group>"; };
 		4CA90F252B6A3C1A00397D78 /* Is the number even or odd.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "Is the number even or odd.swift"; sourceTree = "<group>"; };
@@ -214,6 +216,7 @@
 				4C54622A2B6BB56B0045E851 /* Reverse an array.swift */,
 				4CC3A66A2B6D28E000C72829 /* Free coffee cups.swift */,
 				4CC3A66C2B6D382200C72829 /* Return last element in array.swift */,
+				4C9C54912B6ECE08008BD33C /* Slice of pie.swift */,
 			);
 			path = Edabit;
 			sourceTree = "<group>";
@@ -316,6 +319,7 @@
 				4C6ADD0B2B4E8C3F0087971C /* Convert Minutes into Seconds.swift in Sources */,
 				4C1AD32A2B5D9B46007244B3 /* Convert hours and minutes into seconds.swift in Sources */,
 				4C1AEB4C2B55E1E7001093F4 /* Basic Variable Assignment.swift in Sources */,
+				4C9C54922B6ECE08008BD33C /* Slice of pie.swift in Sources */,
 				4CFF79302B5FF70B006F2004 /* Concatenating two integer arrays.swift in Sources */,
 				4C8F28BE2B4C5901006373C7 /* Convert Age to Days.swift in Sources */,
 				4C34BA252B500A8000F60A9E /* Is the number less or equal to zero.swift in Sources */,
