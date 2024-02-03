@@ -164,4 +164,7 @@ let arrayItems = LastElementArray()
 //print(arrayItems.getLastItem([true, false, true]))
 
 let getPie = SliceOfPie()
-print(getPie.equalSlices(11, 0, 3))
+//print(getPie.equalSlices(11, 0, 3))
+
+let strSpace = SpaceInString()
+print(strSpace.hasSpaces(" "))
