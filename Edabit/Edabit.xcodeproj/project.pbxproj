@@ -9,6 +9,7 @@
 /* Begin PBXBuildFile section */
 		4C134C1B2B62A4040002ED5E /* Is the string empty.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4C134C1A2B62A4040002ED5E /* Is the string empty.swift */; };
 		4C134C1D2B62A7770002ED5E /* Using the && Operator.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4C134C1C2B62A7770002ED5E /* Using the && Operator.swift */; };
+		4C1A5F6C2B6FD1D000B460F0 /* Return a string as integer.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4C1A5F6B2B6FD1D000B460F0 /* Return a string as integer.swift */; };
 		4C1AD32A2B5D9B46007244B3 /* Convert hours and minutes into seconds.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4C1AD3292B5D9B46007244B3 /* Convert hours and minutes into seconds.swift */; };
 		4C1AEB4C2B55E1E7001093F4 /* Basic Variable Assignment.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4C1AEB4B2B55E1E7001093F4 /* Basic Variable Assignment.swift */; };
 		4C26AAAB2B52AB340038E064 /* Buggy Code - Part 1.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4C26AAAA2B52AB340038E064 /* Buggy Code - Part 1.swift */; };
@@ -81,6 +82,7 @@
 /* Begin PBXFileReference section */
 		4C134C1A2B62A4040002ED5E /* Is the string empty.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "Is the string empty.swift"; sourceTree = "<group>"; };
 		4C134C1C2B62A7770002ED5E /* Using the && Operator.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "Using the && Operator.swift"; sourceTree = "<group>"; };
+		4C1A5F6B2B6FD1D000B460F0 /* Return a string as integer.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "Return a string as integer.swift"; sourceTree = "<group>"; };
 		4C1AD3292B5D9B46007244B3 /* Convert hours and minutes into seconds.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "Convert hours and minutes into seconds.swift"; sourceTree = "<group>"; };
 		4C1AEB4B2B55E1E7001093F4 /* Basic Variable Assignment.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "Basic Variable Assignment.swift"; sourceTree = "<group>"; };
 		4C26AAAA2B52AB340038E064 /* Buggy Code - Part 1.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "Buggy Code - Part 1.swift"; sourceTree = "<group>"; };
@@ -226,6 +228,7 @@
 				4C9C54932B6EDFBE008BD33C /* Check string for spaces.swift */,
 				4CD43B682B6F9B6B00F5AA79 /* Check if array contains a number.swift */,
 				4CD43B6A2B6F9F2B00F5AA79 /* The modulus operator function.swift */,
+				4C1A5F6B2B6FD1D000B460F0 /* Return a string as integer.swift */,
 			);
 			path = Edabit;
 			sourceTree = "<group>";
@@ -292,6 +295,7 @@
 				4CFF792E2B5FF4CE006F2004 /* Are the number if equal.swift in Sources */,
 				4CA90F2C2B6A4CBB00397D78 /* Buggy Code - Part 3.swift in Sources */,
 				4C6ADD0D2B4E8EF50087971C /* Find the Perimeter of a Rectangle.swift in Sources */,
+				4C1A5F6C2B6FD1D000B460F0 /* Return a string as integer.swift in Sources */,
 				4C4B3C722B6939E8005A1EE5 /* Frames per second.swift in Sources */,
 				4C5462292B6BB03F0045E851 /* Return negative.swift in Sources */,
 				4CA90F322B6A661700397D78 /* Buggy code - Part 4.swift in Sources */,
