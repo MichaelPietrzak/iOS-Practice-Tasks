@@ -170,4 +170,7 @@ let strSpace = SpaceInString()
 //print(strSpace.hasSpaces(" "))
 
 let checkArr = NumberInArray()
-print(checkArr.check([1, 2, 3, 10], 20))
+//print(checkArr.check([1, 2, 3, 10], 20))
+
+let modCalc = Modulus()
+print(modCalc.mod(218, 5))
