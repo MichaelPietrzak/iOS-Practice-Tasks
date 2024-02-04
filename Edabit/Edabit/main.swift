@@ -167,4 +167,7 @@ let getPie = SliceOfPie()
 //print(getPie.equalSlices(11, 0, 3))
 
 let strSpace = SpaceInString()
-print(strSpace.hasSpaces(" "))
+//print(strSpace.hasSpaces(" "))
+
+let checkArr = NumberInArray()
+print(checkArr.check([1, 2, 3, 10], 20))
