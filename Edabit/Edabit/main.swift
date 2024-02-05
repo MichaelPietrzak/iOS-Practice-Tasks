@@ -176,4 +176,7 @@ let modCalc = Modulus()
 //print(modCalc.mod(218, 5))
 
 let strToInt = ReturnInteger()
-print(strToInt.stringInt("12"))
+//print(strToInt.stringInt("12"))
+
+let arr = SortedArr()
+print(arr.unlucky13([53, 182, 435, 591, 637]))

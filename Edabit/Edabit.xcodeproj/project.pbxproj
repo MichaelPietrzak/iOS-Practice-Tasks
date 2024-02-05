@@ -39,6 +39,7 @@
 		4C76597A2B4D62AB0023DF20 /* Return Next Number from the Integer Passed.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4C7659792B4D62AB0023DF20 /* Return Next Number from the Integer Passed.swift */; };
 		4C828FAB2B56CC1A0042153A /* Maximum Edge of a triangle.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4C828FAA2B56CC1A0042153A /* Maximum Edge of a triangle.swift */; };
 		4C828FAD2B56D0CE0042153A /* Correct the Mistakes.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4C828FAC2B56D0CE0042153A /* Correct the Mistakes.swift */; };
+		4C85F4542B70FC6A00856305 /* Unlucky 13.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4C85F4532B70FC6A00856305 /* Unlucky 13.swift */; };
 		4C8F28BE2B4C5901006373C7 /* Convert Age to Days.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4C8F28BD2B4C5901006373C7 /* Convert Age to Days.swift */; };
 		4C9C54922B6ECE08008BD33C /* Slice of pie.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4C9C54912B6ECE08008BD33C /* Slice of pie.swift */; };
 		4C9C54942B6EDFBE008BD33C /* Check string for spaces.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4C9C54932B6EDFBE008BD33C /* Check string for spaces.swift */; };
@@ -113,6 +114,7 @@
 		4C7659792B4D62AB0023DF20 /* Return Next Number from the Integer Passed.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "Return Next Number from the Integer Passed.swift"; sourceTree = "<group>"; };
 		4C828FAA2B56CC1A0042153A /* Maximum Edge of a triangle.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "Maximum Edge of a triangle.swift"; sourceTree = "<group>"; };
 		4C828FAC2B56D0CE0042153A /* Correct the Mistakes.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "Correct the Mistakes.swift"; sourceTree = "<group>"; };
+		4C85F4532B70FC6A00856305 /* Unlucky 13.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "Unlucky 13.swift"; sourceTree = "<group>"; };
 		4C8F28BD2B4C5901006373C7 /* Convert Age to Days.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "Convert Age to Days.swift"; sourceTree = "<group>"; };
 		4C9C54912B6ECE08008BD33C /* Slice of pie.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "Slice of pie.swift"; sourceTree = "<group>"; };
 		4C9C54932B6EDFBE008BD33C /* Check string for spaces.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "Check string for spaces.swift"; sourceTree = "<group>"; };
@@ -229,6 +231,7 @@
 				4CD43B682B6F9B6B00F5AA79 /* Check if array contains a number.swift */,
 				4CD43B6A2B6F9F2B00F5AA79 /* The modulus operator function.swift */,
 				4C1A5F6B2B6FD1D000B460F0 /* Return a string as integer.swift */,
+				4C85F4532B70FC6A00856305 /* Unlucky 13.swift */,
 			);
 			path = Edabit;
 			sourceTree = "<group>";
@@ -315,6 +318,7 @@
 				4CA90F262B6A3C1A00397D78 /* Is the number even or odd.swift in Sources */,
 				4CC3A66B2B6D28E000C72829 /* Free coffee cups.swift in Sources */,
 				4CB16ECB2B57BB82006EC617 /* Name Greeting.swift in Sources */,
+				4C85F4542B70FC6A00856305 /* Unlucky 13.swift in Sources */,
 				4C5F312A2B5428CD0013E75E /* Inches to Feet.swift in Sources */,
 				4CA90F302B6A62B000397D78 /* Area of rectangle.swift in Sources */,
 				4C9DA8872B595D22003E4612 /* Divides Evenly.swift in Sources */,
