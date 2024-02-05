@@ -179,4 +179,7 @@ let strToInt = ReturnInteger()
 //print(strToInt.stringInt("12"))
 
 let arr = SortedArr()
-print(arr.unlucky13([53, 182, 435, 591, 637]))
+//print(arr.unlucky13([53, 182, 435, 591, 637]))
+
+let compStr = CompareStrings()
+print(compStr.comp("ABC", "DE"))
