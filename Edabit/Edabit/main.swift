@@ -185,4 +185,11 @@ let compStr = CompareStrings()
 //print(compStr.comp("ABC", "DE"))
 
 let strSplit = ReformWord()
-print(strSplit.getWord("comp", "lete"))
+//print(strSplit.getWord("comp", "lete"))
+
+let strConv = ConvertStringInt()
+let intConv = ConvertStringInt()
+let check = strConv.toInt("77")
+print(check)
+let check2 = intConv.toStr(532)
+print(check2)
