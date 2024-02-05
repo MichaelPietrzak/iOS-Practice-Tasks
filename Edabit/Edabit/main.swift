@@ -182,4 +182,7 @@ let arr = SortedArr()
 //print(arr.unlucky13([53, 182, 435, 591, 637]))
 
 let compStr = CompareStrings()
-print(compStr.comp("ABC", "DE"))
+//print(compStr.comp("ABC", "DE"))
+
+let strSplit = ReformWord()
+print(strSplit.getWord("comp", "lete"))
