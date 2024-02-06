@@ -195,4 +195,7 @@ let check2 = intConv.toStr(532)
 //print(check2)
 
 let nthNum = NthEvenNum()
-print(nthNum.nthEven(4))
+//print(nthNum.nthEven(4))
+
+let multipleOf = helloWorld()
+print(multipleOf.helloWorld(30))
