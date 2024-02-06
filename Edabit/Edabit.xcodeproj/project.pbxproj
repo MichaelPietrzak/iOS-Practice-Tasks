@@ -22,6 +22,7 @@
 		4C35E0CF2B4B2BC8009ECE9A /* Return Sum of Two Numbers.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4C35E0CE2B4B2BC8009ECE9A /* Return Sum of Two Numbers.swift */; };
 		4C35E7372B723EC0002BFF78 /* Nth even number.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4C35E7362B723EC0002BFF78 /* Nth even number.swift */; };
 		4C35E7392B725C1B002BFF78 /* Hello-Hello World-World.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4C35E7382B725C1B002BFF78 /* Hello-Hello World-World.swift */; };
+		4C35E73B2B726854002BFF78 /* Triangular number sequence.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4C35E73A2B726854002BFF78 /* Triangular number sequence.swift */; };
 		4C37508D2B5156EE00318140 /* Return the remainder from two numbers.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4C37508C2B5156EE00318140 /* Return the remainder from two numbers.swift */; };
 		4C37508F2B515AC800318140 /* Convert Hours into Seconds.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4C37508E2B515AC800318140 /* Convert Hours into Seconds.swift */; };
 		4C3B72FA2B5D9D8A00B84120 /* The farm problem.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4C3B72F92B5D9D8A00B84120 /* The farm problem.swift */; };
@@ -102,6 +103,7 @@
 		4C35E0CE2B4B2BC8009ECE9A /* Return Sum of Two Numbers.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "Return Sum of Two Numbers.swift"; sourceTree = "<group>"; };
 		4C35E7362B723EC0002BFF78 /* Nth even number.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "Nth even number.swift"; sourceTree = "<group>"; };
 		4C35E7382B725C1B002BFF78 /* Hello-Hello World-World.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "Hello-Hello World-World.swift"; sourceTree = "<group>"; };
+		4C35E73A2B726854002BFF78 /* Triangular number sequence.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "Triangular number sequence.swift"; sourceTree = "<group>"; };
 		4C37508C2B5156EE00318140 /* Return the remainder from two numbers.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "Return the remainder from two numbers.swift"; sourceTree = "<group>"; };
 		4C37508E2B515AC800318140 /* Convert Hours into Seconds.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "Convert Hours into Seconds.swift"; sourceTree = "<group>"; };
 		4C3B72F92B5D9D8A00B84120 /* The farm problem.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "The farm problem.swift"; sourceTree = "<group>"; };
@@ -247,6 +249,7 @@
 				4C85F4592B710A5F00856305 /* String to integer and vice versa.swift */,
 				4C35E7362B723EC0002BFF78 /* Nth even number.swift */,
 				4C35E7382B725C1B002BFF78 /* Hello-Hello World-World.swift */,
+				4C35E73A2B726854002BFF78 /* Triangular number sequence.swift */,
 			);
 			path = Edabit;
 			sourceTree = "<group>";
@@ -369,6 +372,7 @@
 				4C85F4582B71086C00856305 /* Re-form the word.swift in Sources */,
 				4C54622B2B6BB56B0045E851 /* Reverse an array.swift in Sources */,
 				4CD9C9EC2B5EB53E00DD33FA /* Pair Management.swift in Sources */,
+				4C35E73B2B726854002BFF78 /* Triangular number sequence.swift in Sources */,
 				4CA90F282B6A436000397D78 /* Two makes ten.swift in Sources */,
 				4C76597A2B4D62AB0023DF20 /* Return Next Number from the Integer Passed.swift in Sources */,
 				4C134C1D2B62A7770002ED5E /* Using the && Operator.swift in Sources */,
