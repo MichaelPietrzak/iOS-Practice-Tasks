@@ -201,4 +201,7 @@ let multipleOf = helloWorld()
 //print(multipleOf.helloWorld(30))
 
 let numOfSeq = TriangularNumberSequence()
-print(numOfSeq.triangle(215))
+//print(numOfSeq.triangle(215))
+
+let input = Conditionals()
+print(input.flip(1))
