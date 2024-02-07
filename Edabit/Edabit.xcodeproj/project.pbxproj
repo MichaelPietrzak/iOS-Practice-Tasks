@@ -61,6 +61,7 @@
 		4CA90F342B6A687900397D78 /* Find out the leap year.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4CA90F332B6A687900397D78 /* Find out the leap year.swift */; };
 		4CB16ECB2B57BB82006EC617 /* Name Greeting.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4CB16ECA2B57BB82006EC617 /* Name Greeting.swift */; };
 		4CB16ECD2B57BD4F006EC617 /* Check integer if divisible.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4CB16ECC2B57BD4F006EC617 /* Check integer if divisible.swift */; };
+		4CB70C802B73A06900E688DB /* Fix basic calculator.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4CB70C7F2B73A06900E688DB /* Fix basic calculator.swift */; };
 		4CB99E4A2B63EE7E002FC554 /* Minimal1- If boolean then boolean.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4CB99E492B63EE7E002FC554 /* Minimal1- If boolean then boolean.swift */; };
 		4CB99E4C2B63F0A8002FC554 /* Fix the expression.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4CB99E4B2B63F0A8002FC554 /* Fix the expression.swift */; };
 		4CC3A66B2B6D28E000C72829 /* Free coffee cups.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4CC3A66A2B6D28E000C72829 /* Free coffee cups.swift */; };
@@ -143,6 +144,7 @@
 		4CA90F332B6A687900397D78 /* Find out the leap year.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "Find out the leap year.swift"; sourceTree = "<group>"; };
 		4CB16ECA2B57BB82006EC617 /* Name Greeting.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "Name Greeting.swift"; sourceTree = "<group>"; };
 		4CB16ECC2B57BD4F006EC617 /* Check integer if divisible.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "Check integer if divisible.swift"; sourceTree = "<group>"; };
+		4CB70C7F2B73A06900E688DB /* Fix basic calculator.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "Fix basic calculator.swift"; sourceTree = "<group>"; };
 		4CB99E492B63EE7E002FC554 /* Minimal1- If boolean then boolean.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "Minimal1- If boolean then boolean.swift"; sourceTree = "<group>"; };
 		4CB99E4B2B63F0A8002FC554 /* Fix the expression.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "Fix the expression.swift"; sourceTree = "<group>"; };
 		4CC3A66A2B6D28E000C72829 /* Free coffee cups.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "Free coffee cups.swift"; sourceTree = "<group>"; };
@@ -253,6 +255,7 @@
 				4C35E7382B725C1B002BFF78 /* Hello-Hello World-World.swift */,
 				4C35E73A2B726854002BFF78 /* Triangular number sequence.swift */,
 				4C35E73C2B726B30002BFF78 /* No conditionals.swift */,
+				4CB70C7F2B73A06900E688DB /* Fix basic calculator.swift */,
 			);
 			path = Edabit;
 			sourceTree = "<group>";
@@ -343,6 +346,7 @@
 				4CA90F262B6A3C1A00397D78 /* Is the number even or odd.swift in Sources */,
 				4CC3A66B2B6D28E000C72829 /* Free coffee cups.swift in Sources */,
 				4CB16ECB2B57BB82006EC617 /* Name Greeting.swift in Sources */,
+				4CB70C802B73A06900E688DB /* Fix basic calculator.swift in Sources */,
 				4C85F4542B70FC6A00856305 /* Unlucky 13.swift in Sources */,
 				4C5F312A2B5428CD0013E75E /* Inches to Feet.swift in Sources */,
 				4CA90F302B6A62B000397D78 /* Area of rectangle.swift in Sources */,

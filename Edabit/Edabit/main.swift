@@ -204,4 +204,7 @@ let numOfSeq = TriangularNumberSequence()
 //print(numOfSeq.triangle(215))
 
 let input = Conditionals()
-print(input.flip(1))
+//print(input.flip(1))
+
+let calcNum = BasicCalc()
+print(calcNum.basicCalculator(6, "/", 0))
