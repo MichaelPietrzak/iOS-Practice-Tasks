@@ -210,4 +210,7 @@ let calcNum = BasicCalc()
 //print(calcNum.basicCalculator(6, "/", 0))
 
 let num = BuggyCodeFive()
-print(num.printArray(6))
+//print(num.printArray(6))
+
+let absNum = AbsFunction()
+print(absNum.absolute(-3.14))
