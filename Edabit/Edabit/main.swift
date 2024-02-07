@@ -207,4 +207,7 @@ let input = Conditionals()
 //print(input.flip(1))
 
 let calcNum = BasicCalc()
-print(calcNum.basicCalculator(6, "/", 0))
+//print(calcNum.basicCalculator(6, "/", 0))
+
+let num = BuggyCodeFive()
+print(num.printArray(6))
