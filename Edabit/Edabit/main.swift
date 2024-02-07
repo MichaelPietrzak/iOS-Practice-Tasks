@@ -213,4 +213,7 @@ let num = BuggyCodeFive()
 //print(num.printArray(6))
 
 let absNum = AbsFunction()
-print(absNum.absolute(-3.14))
+//print(absNum.absolute(-3.14))
+
+let strEdabit = AmazingEdabit()
+print(strEdabit.amazingEdabit("edabit is amazing."))

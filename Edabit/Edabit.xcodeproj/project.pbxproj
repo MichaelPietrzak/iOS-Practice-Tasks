@@ -64,6 +64,7 @@
 		4CB70C802B73A06900E688DB /* Fix basic calculator.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4CB70C7F2B73A06900E688DB /* Fix basic calculator.swift */; };
 		4CB70C822B73C5D400E688DB /* Buggy code - Part 5.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4CB70C812B73C5D400E688DB /* Buggy code - Part 5.swift */; };
 		4CB70C842B73CC7000E688DB /* Recreating abs() function.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4CB70C832B73CC7000E688DB /* Recreating abs() function.swift */; };
+		4CB70C862B73CE8A00E688DB /* Amazing Edabit.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4CB70C852B73CE8A00E688DB /* Amazing Edabit.swift */; };
 		4CB99E4A2B63EE7E002FC554 /* Minimal1- If boolean then boolean.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4CB99E492B63EE7E002FC554 /* Minimal1- If boolean then boolean.swift */; };
 		4CB99E4C2B63F0A8002FC554 /* Fix the expression.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4CB99E4B2B63F0A8002FC554 /* Fix the expression.swift */; };
 		4CC3A66B2B6D28E000C72829 /* Free coffee cups.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4CC3A66A2B6D28E000C72829 /* Free coffee cups.swift */; };
@@ -149,6 +150,7 @@
 		4CB70C7F2B73A06900E688DB /* Fix basic calculator.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "Fix basic calculator.swift"; sourceTree = "<group>"; };
 		4CB70C812B73C5D400E688DB /* Buggy code - Part 5.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "Buggy code - Part 5.swift"; sourceTree = "<group>"; };
 		4CB70C832B73CC7000E688DB /* Recreating abs() function.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "Recreating abs() function.swift"; sourceTree = "<group>"; };
+		4CB70C852B73CE8A00E688DB /* Amazing Edabit.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "Amazing Edabit.swift"; sourceTree = "<group>"; };
 		4CB99E492B63EE7E002FC554 /* Minimal1- If boolean then boolean.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "Minimal1- If boolean then boolean.swift"; sourceTree = "<group>"; };
 		4CB99E4B2B63F0A8002FC554 /* Fix the expression.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "Fix the expression.swift"; sourceTree = "<group>"; };
 		4CC3A66A2B6D28E000C72829 /* Free coffee cups.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "Free coffee cups.swift"; sourceTree = "<group>"; };
@@ -262,6 +264,7 @@
 				4CB70C7F2B73A06900E688DB /* Fix basic calculator.swift */,
 				4CB70C812B73C5D400E688DB /* Buggy code - Part 5.swift */,
 				4CB70C832B73CC7000E688DB /* Recreating abs() function.swift */,
+				4CB70C852B73CE8A00E688DB /* Amazing Edabit.swift */,
 			);
 			path = Edabit;
 			sourceTree = "<group>";
@@ -383,6 +386,7 @@
 				4CFF79322B5FF8A3006F2004 /* Multiple of 100.swift in Sources */,
 				4CB70C842B73CC7000E688DB /* Recreating abs() function.swift in Sources */,
 				4C2771D32B616BCF00130332 /* less than 100.swift in Sources */,
+				4CB70C862B73CE8A00E688DB /* Amazing Edabit.swift in Sources */,
 				4C4B3C742B693F53005A1EE5 /* Flip the boolean.swift in Sources */,
 				4C3B73002B5DA42D00B84120 /* Profitable Gamble.swift in Sources */,
 				4C85F4582B71086C00856305 /* Re-form the word.swift in Sources */,
