@@ -219,4 +219,7 @@ let strEdabit = AmazingEdabit()
 //print(strEdabit.amazingEdabit("edabit is amazing."))
 
 let ints = MaxDifference()
-print(ints.difference([10, 15, 20, 2, 10, 6]))
+//print(ints.difference([10, 15, 20, 2, 10, 6]))
+
+let yearFunc = LeapYearFunc()
+print(yearFunc.leapYear(2021))

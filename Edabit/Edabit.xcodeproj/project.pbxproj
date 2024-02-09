@@ -75,6 +75,7 @@
 		4CD43B6B2B6F9F2B00F5AA79 /* The modulus operator function.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4CD43B6A2B6F9F2B00F5AA79 /* The modulus operator function.swift */; };
 		4CD9C9EC2B5EB53E00DD33FA /* Pair Management.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4CD9C9EB2B5EB53E00DD33FA /* Pair Management.swift */; };
 		4CD9C9EE2B5EBFCA00DD33FA /* Return something to me.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4CD9C9ED2B5EBFCA00DD33FA /* Return something to me.swift */; };
+		4CF7B5572B763C4000F0D2FB /* Leap year function.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4CF7B5562B763C4000F0D2FB /* Leap year function.swift */; };
 		4CFF792E2B5FF4CE006F2004 /* Are the number if equal.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4CFF792D2B5FF4CE006F2004 /* Are the number if equal.swift */; };
 		4CFF79302B5FF70B006F2004 /* Concatenating two integer arrays.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4CFF792F2B5FF70B006F2004 /* Concatenating two integer arrays.swift */; };
 		4CFF79322B5FF8A3006F2004 /* Multiple of 100.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4CFF79312B5FF8A3006F2004 /* Multiple of 100.swift */; };
@@ -162,6 +163,7 @@
 		4CD43B6A2B6F9F2B00F5AA79 /* The modulus operator function.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "The modulus operator function.swift"; sourceTree = "<group>"; };
 		4CD9C9EB2B5EB53E00DD33FA /* Pair Management.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "Pair Management.swift"; sourceTree = "<group>"; };
 		4CD9C9ED2B5EBFCA00DD33FA /* Return something to me.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "Return something to me.swift"; sourceTree = "<group>"; };
+		4CF7B5562B763C4000F0D2FB /* Leap year function.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "Leap year function.swift"; sourceTree = "<group>"; };
 		4CFF792D2B5FF4CE006F2004 /* Are the number if equal.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "Are the number if equal.swift"; sourceTree = "<group>"; };
 		4CFF792F2B5FF70B006F2004 /* Concatenating two integer arrays.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "Concatenating two integer arrays.swift"; sourceTree = "<group>"; };
 		4CFF79312B5FF8A3006F2004 /* Multiple of 100.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "Multiple of 100.swift"; sourceTree = "<group>"; };
@@ -268,6 +270,7 @@
 				4CB70C832B73CC7000E688DB /* Recreating abs() function.swift */,
 				4CB70C852B73CE8A00E688DB /* Amazing Edabit.swift */,
 				4C4B58742B74E265005F61B9 /* Maximum difference.swift */,
+				4CF7B5562B763C4000F0D2FB /* Leap year function.swift */,
 			);
 			path = Edabit;
 			sourceTree = "<group>";
@@ -398,6 +401,7 @@
 				4CD9C9EC2B5EB53E00DD33FA /* Pair Management.swift in Sources */,
 				4C35E73B2B726854002BFF78 /* Triangular number sequence.swift in Sources */,
 				4CA90F282B6A436000397D78 /* Two makes ten.swift in Sources */,
+				4CF7B5572B763C4000F0D2FB /* Leap year function.swift in Sources */,
 				4C76597A2B4D62AB0023DF20 /* Return Next Number from the Integer Passed.swift in Sources */,
 				4C134C1D2B62A7770002ED5E /* Using the && Operator.swift in Sources */,
 				4C35E0C82B4B2AC3009ECE9A /* main.swift in Sources */,
