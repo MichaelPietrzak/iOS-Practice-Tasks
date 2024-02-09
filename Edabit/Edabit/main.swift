@@ -234,4 +234,7 @@ let sumOfArr = SumOfArrayElements()
 //print(sumOfArr.getSum(of: [45, 3, 0]))
 
 let monthNum = ConvertMonthName()
-print(monthNum.MonthName(6))
+//print(monthNum.MonthName(6))
+
+let word = SingularOrPlural()
+print(word.isPlural("dudes"))

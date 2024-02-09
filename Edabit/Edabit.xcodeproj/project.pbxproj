@@ -80,6 +80,7 @@
 		4CF7B55B2B76417400F0D2FB /* Check if string ending match second string.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4CF7B55A2B76417400F0D2FB /* Check if string ending match second string.swift */; };
 		4CF7B55D2B7645A400F0D2FB /* Get the sum of all array elements.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4CF7B55C2B7645A400F0D2FB /* Get the sum of all array elements.swift */; };
 		4CF7B55F2B76481C00F0D2FB /* Convert number to month name.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4CF7B55E2B76481C00F0D2FB /* Convert number to month name.swift */; };
+		4CF7B5612B7656F800F0D2FB /* Is word singular or plural.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4CF7B5602B7656F800F0D2FB /* Is word singular or plural.swift */; };
 		4CFF792E2B5FF4CE006F2004 /* Are the number if equal.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4CFF792D2B5FF4CE006F2004 /* Are the number if equal.swift */; };
 		4CFF79302B5FF70B006F2004 /* Concatenating two integer arrays.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4CFF792F2B5FF70B006F2004 /* Concatenating two integer arrays.swift */; };
 		4CFF79322B5FF8A3006F2004 /* Multiple of 100.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4CFF79312B5FF8A3006F2004 /* Multiple of 100.swift */; };
@@ -172,6 +173,7 @@
 		4CF7B55A2B76417400F0D2FB /* Check if string ending match second string.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "Check if string ending match second string.swift"; sourceTree = "<group>"; };
 		4CF7B55C2B7645A400F0D2FB /* Get the sum of all array elements.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "Get the sum of all array elements.swift"; sourceTree = "<group>"; };
 		4CF7B55E2B76481C00F0D2FB /* Convert number to month name.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "Convert number to month name.swift"; sourceTree = "<group>"; };
+		4CF7B5602B7656F800F0D2FB /* Is word singular or plural.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "Is word singular or plural.swift"; sourceTree = "<group>"; };
 		4CFF792D2B5FF4CE006F2004 /* Are the number if equal.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "Are the number if equal.swift"; sourceTree = "<group>"; };
 		4CFF792F2B5FF70B006F2004 /* Concatenating two integer arrays.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "Concatenating two integer arrays.swift"; sourceTree = "<group>"; };
 		4CFF79312B5FF8A3006F2004 /* Multiple of 100.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "Multiple of 100.swift"; sourceTree = "<group>"; };
@@ -283,6 +285,7 @@
 				4CF7B55A2B76417400F0D2FB /* Check if string ending match second string.swift */,
 				4CF7B55C2B7645A400F0D2FB /* Get the sum of all array elements.swift */,
 				4CF7B55E2B76481C00F0D2FB /* Convert number to month name.swift */,
+				4CF7B5602B7656F800F0D2FB /* Is word singular or plural.swift */,
 			);
 			path = Edabit;
 			sourceTree = "<group>";
@@ -365,6 +368,7 @@
 				4C35E7372B723EC0002BFF78 /* Nth even number.swift in Sources */,
 				4C3B72FE2B5DA26500B84120 /* Boolean to String conversion.swift in Sources */,
 				4CD43B692B6F9B6B00F5AA79 /* Check if array contains a number.swift in Sources */,
+				4CF7B5612B7656F800F0D2FB /* Is word singular or plural.swift in Sources */,
 				4C26AAAB2B52AB340038E064 /* Buggy Code - Part 1.swift in Sources */,
 				4C85F45A2B710A5F00856305 /* String to integer and vice versa.swift in Sources */,
 				4CA90F2A2B6A45BD00397D78 /* Is string odd or even.swift in Sources */,
