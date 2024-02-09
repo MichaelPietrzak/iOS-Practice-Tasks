@@ -225,4 +225,7 @@ let yearFunc = LeapYearFunc()
 //print(yearFunc.leapYear(2021))
 
 let numDivide = HalfQuarterEigth()
-print(numDivide.halfQuarterEigth(6))
+//print(numDivide.halfQuarterEigth(6))
+
+let strEndMatch = CheckStringEndingMatch()
+print(strEndMatch.checkEnding("feminine", "nine"))
