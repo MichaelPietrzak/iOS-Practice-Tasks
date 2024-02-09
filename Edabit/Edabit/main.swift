@@ -222,4 +222,7 @@ let ints = MaxDifference()
 //print(ints.difference([10, 15, 20, 2, 10, 6]))
 
 let yearFunc = LeapYearFunc()
-print(yearFunc.leapYear(2021))
+//print(yearFunc.leapYear(2021))
+
+let numDivide = HalfQuarterEigth()
+print(numDivide.halfQuarterEigth(6))
