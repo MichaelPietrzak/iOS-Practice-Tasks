@@ -78,6 +78,7 @@
 		4CF7B5572B763C4000F0D2FB /* Leap year function.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4CF7B5562B763C4000F0D2FB /* Leap year function.swift */; };
 		4CF7B5592B763F3100F0D2FB /* Half, Quarter and Eighth.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4CF7B5582B763F3100F0D2FB /* Half, Quarter and Eighth.swift */; };
 		4CF7B55B2B76417400F0D2FB /* Check if string ending match second string.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4CF7B55A2B76417400F0D2FB /* Check if string ending match second string.swift */; };
+		4CF7B55D2B7645A400F0D2FB /* Get the sum of all array elements.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4CF7B55C2B7645A400F0D2FB /* Get the sum of all array elements.swift */; };
 		4CFF792E2B5FF4CE006F2004 /* Are the number if equal.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4CFF792D2B5FF4CE006F2004 /* Are the number if equal.swift */; };
 		4CFF79302B5FF70B006F2004 /* Concatenating two integer arrays.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4CFF792F2B5FF70B006F2004 /* Concatenating two integer arrays.swift */; };
 		4CFF79322B5FF8A3006F2004 /* Multiple of 100.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4CFF79312B5FF8A3006F2004 /* Multiple of 100.swift */; };
@@ -168,6 +169,7 @@
 		4CF7B5562B763C4000F0D2FB /* Leap year function.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "Leap year function.swift"; sourceTree = "<group>"; };
 		4CF7B5582B763F3100F0D2FB /* Half, Quarter and Eighth.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "Half, Quarter and Eighth.swift"; sourceTree = "<group>"; };
 		4CF7B55A2B76417400F0D2FB /* Check if string ending match second string.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "Check if string ending match second string.swift"; sourceTree = "<group>"; };
+		4CF7B55C2B7645A400F0D2FB /* Get the sum of all array elements.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "Get the sum of all array elements.swift"; sourceTree = "<group>"; };
 		4CFF792D2B5FF4CE006F2004 /* Are the number if equal.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "Are the number if equal.swift"; sourceTree = "<group>"; };
 		4CFF792F2B5FF70B006F2004 /* Concatenating two integer arrays.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "Concatenating two integer arrays.swift"; sourceTree = "<group>"; };
 		4CFF79312B5FF8A3006F2004 /* Multiple of 100.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "Multiple of 100.swift"; sourceTree = "<group>"; };
@@ -277,6 +279,7 @@
 				4CF7B5562B763C4000F0D2FB /* Leap year function.swift */,
 				4CF7B5582B763F3100F0D2FB /* Half, Quarter and Eighth.swift */,
 				4CF7B55A2B76417400F0D2FB /* Check if string ending match second string.swift */,
+				4CF7B55C2B7645A400F0D2FB /* Get the sum of all array elements.swift */,
 			);
 			path = Edabit;
 			sourceTree = "<group>";
@@ -363,6 +366,7 @@
 				4C85F45A2B710A5F00856305 /* String to integer and vice versa.swift in Sources */,
 				4CA90F2A2B6A45BD00397D78 /* Is string odd or even.swift in Sources */,
 				4CC3A66D2B6D382200C72829 /* Return last element in array.swift in Sources */,
+				4CF7B55D2B7645A400F0D2FB /* Get the sum of all array elements.swift in Sources */,
 				4C9DA8852B594F11003E4612 /* Basketball Points.swift in Sources */,
 				4C85F4562B7102C100856305 /* Compare strings by count of characters.swift in Sources */,
 				4CA90F262B6A3C1A00397D78 /* Is the number even or odd.swift in Sources */,

@@ -228,4 +228,7 @@ let numDivide = HalfQuarterEigth()
 //print(numDivide.halfQuarterEigth(6))
 
 let strEndMatch = CheckStringEndingMatch()
-print(strEndMatch.checkEnding("feminine", "nine"))
+//print(strEndMatch.checkEnding("feminine", "nine"))
+
+let sumOfArr = SumOfArrayElements()
+print(sumOfArr.getSum(of: [45, 3, 0]))
