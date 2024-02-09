@@ -231,4 +231,7 @@ let strEndMatch = CheckStringEndingMatch()
 //print(strEndMatch.checkEnding("feminine", "nine"))
 
 let sumOfArr = SumOfArrayElements()
-print(sumOfArr.getSum(of: [45, 3, 0]))
+//print(sumOfArr.getSum(of: [45, 3, 0]))
+
+let monthNum = ConvertMonthName()
+print(monthNum.MonthName(6))
