@@ -237,4 +237,7 @@ let monthNum = ConvertMonthName()
 //print(monthNum.MonthName(6))
 
 let word = SingularOrPlural()
-print(word.isPlural("dudes"))
+//print(word.isPlural("dudes"))
+
+let numDigits = DigitAmount()
+print(numDigits.findDigitAmount(7154))
