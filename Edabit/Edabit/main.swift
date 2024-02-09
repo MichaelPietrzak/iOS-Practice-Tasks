@@ -216,4 +216,7 @@ let absNum = AbsFunction()
 //print(absNum.absolute(-3.14))
 
 let strEdabit = AmazingEdabit()
-print(strEdabit.amazingEdabit("edabit is amazing."))
+//print(strEdabit.amazingEdabit("edabit is amazing."))
+
+let ints = MaxDifference()
+print(ints.difference([10, 15, 20, 2, 10, 6]))
