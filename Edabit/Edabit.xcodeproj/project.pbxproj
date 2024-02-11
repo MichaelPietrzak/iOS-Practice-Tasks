@@ -14,6 +14,7 @@
 		4C1AEB4C2B55E1E7001093F4 /* Basic Variable Assignment.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4C1AEB4B2B55E1E7001093F4 /* Basic Variable Assignment.swift */; };
 		4C22F1B32B79712D00386740 /* Largest number in array.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4C22F1B22B79712D00386740 /* Largest number in array.swift */; };
 		4C22F1B52B79725100386740 /* Difference of max and min numbers in array.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4C22F1B42B79725100386740 /* Difference of max and min numbers in array.swift */; };
+		4C22F1B92B79778600386740 /* FizzBuzz Interview Question.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4C22F1B82B79778600386740 /* FizzBuzz Interview Question.swift */; };
 		4C26AAAB2B52AB340038E064 /* Buggy Code - Part 1.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4C26AAAA2B52AB340038E064 /* Buggy Code - Part 1.swift */; };
 		4C26AAAD2B52AD7D0038E064 /* Return the first element in array.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4C26AAAC2B52AD7D0038E064 /* Return the first element in array.swift */; };
 		4C2771D32B616BCF00130332 /* less than 100.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4C2771D22B616BCF00130332 /* less than 100.swift */; };
@@ -109,6 +110,7 @@
 		4C1AEB4B2B55E1E7001093F4 /* Basic Variable Assignment.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "Basic Variable Assignment.swift"; sourceTree = "<group>"; };
 		4C22F1B22B79712D00386740 /* Largest number in array.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "Largest number in array.swift"; sourceTree = "<group>"; };
 		4C22F1B42B79725100386740 /* Difference of max and min numbers in array.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "Difference of max and min numbers in array.swift"; sourceTree = "<group>"; };
+		4C22F1B82B79778600386740 /* FizzBuzz Interview Question.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "FizzBuzz Interview Question.swift"; sourceTree = "<group>"; };
 		4C26AAAA2B52AB340038E064 /* Buggy Code - Part 1.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "Buggy Code - Part 1.swift"; sourceTree = "<group>"; };
 		4C26AAAC2B52AD7D0038E064 /* Return the first element in array.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "Return the first element in array.swift"; sourceTree = "<group>"; };
 		4C2771D22B616BCF00130332 /* less than 100.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "less than 100.swift"; sourceTree = "<group>"; };
@@ -295,6 +297,7 @@
 				4CF7B5622B76591300F0D2FB /* Find total number of digits the number has.swift */,
 				4C22F1B22B79712D00386740 /* Largest number in array.swift */,
 				4C22F1B42B79725100386740 /* Difference of max and min numbers in array.swift */,
+				4C22F1B82B79778600386740 /* FizzBuzz Interview Question.swift */,
 			);
 			path = Edabit;
 			sourceTree = "<group>";
@@ -403,6 +406,7 @@
 				4C828FAB2B56CC1A0042153A /* Maximum Edge of a triangle.swift in Sources */,
 				4C34BA272B500BB000F60A9E /* Are the numbers equal.swift in Sources */,
 				4C6780B92B5AB221006E4691 /* Sum of polygon angles.swift in Sources */,
+				4C22F1B92B79778600386740 /* FizzBuzz Interview Question.swift in Sources */,
 				4C37508D2B5156EE00318140 /* Return the remainder from two numbers.swift in Sources */,
 				4C5F31282B5427BF0013E75E /* Power Calculator.swift in Sources */,
 				4CD066D72B69A7CA008952D1 /* Movie theatre admittance.swift in Sources */,

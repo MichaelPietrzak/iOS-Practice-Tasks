@@ -246,4 +246,7 @@ let arrLargest = LargestNumberInArray()
 //print(arrLargest.findLargestNum([4, 5, 1, 200]))
 
 let arrMaxMin = MaxMinNumInArray()
-print(arrMaxMin.differenceMaxMin([10, 4, 1, 4, -10, -50, 32, 21]))
+//print(arrMaxMin.differenceMaxMin([10, 4, 1, 4, -10, -50, 32, 21]))
+
+let fizzBuzz = FizzBuzzQuestion()
+print(fizzBuzz.fizzBuzz(2))
