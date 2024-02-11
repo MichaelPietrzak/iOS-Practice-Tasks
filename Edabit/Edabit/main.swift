@@ -240,4 +240,7 @@ let word = SingularOrPlural()
 //print(word.isPlural("dudes"))
 
 let numDigits = DigitAmount()
-print(numDigits.findDigitAmount(7154))
+//print(numDigits.findDigitAmount(7154))
+
+let arrLargest = LargestNumberInArray()
+print(arrLargest.findLargestNum([4, 5, 1, 200]))

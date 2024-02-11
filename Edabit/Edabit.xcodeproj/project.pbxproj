@@ -12,6 +12,7 @@
 		4C1A5F6C2B6FD1D000B460F0 /* Return a string as integer.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4C1A5F6B2B6FD1D000B460F0 /* Return a string as integer.swift */; };
 		4C1AD32A2B5D9B46007244B3 /* Convert hours and minutes into seconds.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4C1AD3292B5D9B46007244B3 /* Convert hours and minutes into seconds.swift */; };
 		4C1AEB4C2B55E1E7001093F4 /* Basic Variable Assignment.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4C1AEB4B2B55E1E7001093F4 /* Basic Variable Assignment.swift */; };
+		4C22F1B32B79712D00386740 /* Largest number in array.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4C22F1B22B79712D00386740 /* Largest number in array.swift */; };
 		4C26AAAB2B52AB340038E064 /* Buggy Code - Part 1.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4C26AAAA2B52AB340038E064 /* Buggy Code - Part 1.swift */; };
 		4C26AAAD2B52AD7D0038E064 /* Return the first element in array.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4C26AAAC2B52AD7D0038E064 /* Return the first element in array.swift */; };
 		4C2771D32B616BCF00130332 /* less than 100.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4C2771D22B616BCF00130332 /* less than 100.swift */; };
@@ -105,6 +106,7 @@
 		4C1A5F6B2B6FD1D000B460F0 /* Return a string as integer.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "Return a string as integer.swift"; sourceTree = "<group>"; };
 		4C1AD3292B5D9B46007244B3 /* Convert hours and minutes into seconds.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "Convert hours and minutes into seconds.swift"; sourceTree = "<group>"; };
 		4C1AEB4B2B55E1E7001093F4 /* Basic Variable Assignment.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "Basic Variable Assignment.swift"; sourceTree = "<group>"; };
+		4C22F1B22B79712D00386740 /* Largest number in array.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "Largest number in array.swift"; sourceTree = "<group>"; };
 		4C26AAAA2B52AB340038E064 /* Buggy Code - Part 1.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "Buggy Code - Part 1.swift"; sourceTree = "<group>"; };
 		4C26AAAC2B52AD7D0038E064 /* Return the first element in array.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "Return the first element in array.swift"; sourceTree = "<group>"; };
 		4C2771D22B616BCF00130332 /* less than 100.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "less than 100.swift"; sourceTree = "<group>"; };
@@ -289,6 +291,7 @@
 				4CF7B55E2B76481C00F0D2FB /* Convert number to month name.swift */,
 				4CF7B5602B7656F800F0D2FB /* Is word singular or plural.swift */,
 				4CF7B5622B76591300F0D2FB /* Find total number of digits the number has.swift */,
+				4C22F1B22B79712D00386740 /* Largest number in array.swift */,
 			);
 			path = Edabit;
 			sourceTree = "<group>";
@@ -424,6 +427,7 @@
 				4C35E73B2B726854002BFF78 /* Triangular number sequence.swift in Sources */,
 				4CA90F282B6A436000397D78 /* Two makes ten.swift in Sources */,
 				4CF7B5572B763C4000F0D2FB /* Leap year function.swift in Sources */,
+				4C22F1B32B79712D00386740 /* Largest number in array.swift in Sources */,
 				4C76597A2B4D62AB0023DF20 /* Return Next Number from the Integer Passed.swift in Sources */,
 				4CF7B5592B763F3100F0D2FB /* Half, Quarter and Eighth.swift in Sources */,
 				4C134C1D2B62A7770002ED5E /* Using the && Operator.swift in Sources */,
