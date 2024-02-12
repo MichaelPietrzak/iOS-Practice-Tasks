@@ -15,6 +15,7 @@
 		4C22F1B32B79712D00386740 /* Largest number in array.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4C22F1B22B79712D00386740 /* Largest number in array.swift */; };
 		4C22F1B52B79725100386740 /* Difference of max and min numbers in array.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4C22F1B42B79725100386740 /* Difference of max and min numbers in array.swift */; };
 		4C22F1B92B79778600386740 /* FizzBuzz Interview Question.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4C22F1B82B79778600386740 /* FizzBuzz Interview Question.swift */; };
+		4C22F1BB2B797A7F00386740 /* Check if the same case.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4C22F1BA2B797A7F00386740 /* Check if the same case.swift */; };
 		4C26AAAB2B52AB340038E064 /* Buggy Code - Part 1.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4C26AAAA2B52AB340038E064 /* Buggy Code - Part 1.swift */; };
 		4C26AAAD2B52AD7D0038E064 /* Return the first element in array.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4C26AAAC2B52AD7D0038E064 /* Return the first element in array.swift */; };
 		4C2771D32B616BCF00130332 /* less than 100.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4C2771D22B616BCF00130332 /* less than 100.swift */; };
@@ -111,6 +112,7 @@
 		4C22F1B22B79712D00386740 /* Largest number in array.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "Largest number in array.swift"; sourceTree = "<group>"; };
 		4C22F1B42B79725100386740 /* Difference of max and min numbers in array.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "Difference of max and min numbers in array.swift"; sourceTree = "<group>"; };
 		4C22F1B82B79778600386740 /* FizzBuzz Interview Question.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "FizzBuzz Interview Question.swift"; sourceTree = "<group>"; };
+		4C22F1BA2B797A7F00386740 /* Check if the same case.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "Check if the same case.swift"; sourceTree = "<group>"; };
 		4C26AAAA2B52AB340038E064 /* Buggy Code - Part 1.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "Buggy Code - Part 1.swift"; sourceTree = "<group>"; };
 		4C26AAAC2B52AD7D0038E064 /* Return the first element in array.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "Return the first element in array.swift"; sourceTree = "<group>"; };
 		4C2771D22B616BCF00130332 /* less than 100.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "less than 100.swift"; sourceTree = "<group>"; };
@@ -298,6 +300,7 @@
 				4C22F1B22B79712D00386740 /* Largest number in array.swift */,
 				4C22F1B42B79725100386740 /* Difference of max and min numbers in array.swift */,
 				4C22F1B82B79778600386740 /* FizzBuzz Interview Question.swift */,
+				4C22F1BA2B797A7F00386740 /* Check if the same case.swift */,
 			);
 			path = Edabit;
 			sourceTree = "<group>";
@@ -381,6 +384,7 @@
 				4C35E7372B723EC0002BFF78 /* Nth even number.swift in Sources */,
 				4C3B72FE2B5DA26500B84120 /* Boolean to String conversion.swift in Sources */,
 				4CD43B692B6F9B6B00F5AA79 /* Check if array contains a number.swift in Sources */,
+				4C22F1BB2B797A7F00386740 /* Check if the same case.swift in Sources */,
 				4CF7B5612B7656F800F0D2FB /* Is word singular or plural.swift in Sources */,
 				4C26AAAB2B52AB340038E064 /* Buggy Code - Part 1.swift in Sources */,
 				4C85F45A2B710A5F00856305 /* String to integer and vice versa.swift in Sources */,

@@ -249,4 +249,7 @@ let arrMaxMin = MaxMinNumInArray()
 //print(arrMaxMin.differenceMaxMin([10, 4, 1, 4, -10, -50, 32, 21]))
 
 let fizzBuzz = FizzBuzzQuestion()
-print(fizzBuzz.fizzBuzz(2))
+//print(fizzBuzz.fizzBuzz(2))
+
+let strCase = SameCase()
+print(strCase.sameCase("hello"))
