@@ -255,4 +255,7 @@ let strCase = SameCase()
 //print(strCase.sameCase("hello"))
 
 let missingAngle = MissingAngle()
-print(missingAngle.missingAngle(45, 45))
+//print(missingAngle.missingAngle(45, 45))
+
+let addUpNum = AddUp()
+print(addUpNum.addUp(600))
