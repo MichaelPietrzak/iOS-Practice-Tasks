@@ -252,4 +252,7 @@ let fizzBuzz = FizzBuzzQuestion()
 //print(fizzBuzz.fizzBuzz(2))
 
 let strCase = SameCase()
-print(strCase.sameCase("hello"))
+//print(strCase.sameCase("hello"))
+
+let missingAngle = MissingAngle()
+print(missingAngle.missingAngle(45, 45))
