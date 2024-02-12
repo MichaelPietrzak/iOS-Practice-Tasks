@@ -267,4 +267,7 @@ let numDashes = NumberToStringOfDashes()
 //print(numDashes.go(51))
 
 let syllables = Syllables()
-print(syllables.numberSyllables("mon-u-men-tal"))
+//print(syllables.numberSyllables("mon-u-men-tal"))
+
+let noOdds = NoOdds()
+print(noOdds.noOdds([43, 65, 23, 89, 53, 9, 6]))
