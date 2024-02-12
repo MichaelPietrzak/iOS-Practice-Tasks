@@ -35,6 +35,7 @@
 		4C37AC8E2B7AB085000B6062 /* Convert numbers to string of dashes.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4C37AC8D2B7AB085000B6062 /* Convert numbers to string of dashes.swift */; };
 		4C37AC902B7AB363000B6062 /* Count syllables.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4C37AC8F2B7AB363000B6062 /* Count syllables.swift */; };
 		4C37AC922B7AB6D7000B6062 /* Eliminate odd numbers within array.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4C37AC912B7AB6D7000B6062 /* Eliminate odd numbers within array.swift */; };
+		4C37AC942B7ABAAC000B6062 /* Hurdle jump.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4C37AC932B7ABAAC000B6062 /* Hurdle jump.swift */; };
 		4C3B72FA2B5D9D8A00B84120 /* The farm problem.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4C3B72F92B5D9D8A00B84120 /* The farm problem.swift */; };
 		4C3B72FE2B5DA26500B84120 /* Boolean to String conversion.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4C3B72FD2B5DA26500B84120 /* Boolean to String conversion.swift */; };
 		4C3B73002B5DA42D00B84120 /* Profitable Gamble.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4C3B72FF2B5DA42D00B84120 /* Profitable Gamble.swift */; };
@@ -139,6 +140,7 @@
 		4C37AC8D2B7AB085000B6062 /* Convert numbers to string of dashes.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "Convert numbers to string of dashes.swift"; sourceTree = "<group>"; };
 		4C37AC8F2B7AB363000B6062 /* Count syllables.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "Count syllables.swift"; sourceTree = "<group>"; };
 		4C37AC912B7AB6D7000B6062 /* Eliminate odd numbers within array.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "Eliminate odd numbers within array.swift"; sourceTree = "<group>"; };
+		4C37AC932B7ABAAC000B6062 /* Hurdle jump.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "Hurdle jump.swift"; sourceTree = "<group>"; };
 		4C3B72F92B5D9D8A00B84120 /* The farm problem.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "The farm problem.swift"; sourceTree = "<group>"; };
 		4C3B72FD2B5DA26500B84120 /* Boolean to String conversion.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "Boolean to String conversion.swift"; sourceTree = "<group>"; };
 		4C3B72FF2B5DA42D00B84120 /* Profitable Gamble.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "Profitable Gamble.swift"; sourceTree = "<group>"; };
@@ -319,6 +321,7 @@
 				4C37AC8D2B7AB085000B6062 /* Convert numbers to string of dashes.swift */,
 				4C37AC8F2B7AB363000B6062 /* Count syllables.swift */,
 				4C37AC912B7AB6D7000B6062 /* Eliminate odd numbers within array.swift */,
+				4C37AC932B7ABAAC000B6062 /* Hurdle jump.swift */,
 			);
 			path = Edabit;
 			sourceTree = "<group>";
@@ -437,6 +440,7 @@
 				4C37AC8E2B7AB085000B6062 /* Convert numbers to string of dashes.swift in Sources */,
 				4C35E7392B725C1B002BFF78 /* Hello-Hello World-World.swift in Sources */,
 				4C5CCD972B7A65060047090B /* Missing third angle.swift in Sources */,
+				4C37AC942B7ABAAC000B6062 /* Hurdle jump.swift in Sources */,
 				4C9C54942B6EDFBE008BD33C /* Check string for spaces.swift in Sources */,
 				4CD9C9EE2B5EBFCA00DD33FA /* Return something to me.swift in Sources */,
 				4CA90F342B6A687900397D78 /* Find out the leap year.swift in Sources */,
