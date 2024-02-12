@@ -258,4 +258,7 @@ let missingAngle = MissingAngle()
 //print(missingAngle.missingAngle(45, 45))
 
 let addUpNum = AddUp()
-print(addUpNum.addUp(600))
+//print(addUpNum.addUp(600))
+
+let findIndex = FindIndex()
+print(findIndex.findIndex(["a", "g", "y", "d"], "d"))
