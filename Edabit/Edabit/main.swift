@@ -264,4 +264,7 @@ let findIndex = FindIndex()
 //print(findIndex.findIndex(["a", "g", "y", "d"], "d"))
 
 let numDashes = NumberToStringOfDashes()
-print(numDashes.go(51))
+//print(numDashes.go(51))
+
+let syllables = Syllables()
+print(syllables.numberSyllables("mon-u-men-tal"))

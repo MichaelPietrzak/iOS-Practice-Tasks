@@ -33,6 +33,7 @@
 		4C37AC8A2B7AAACD000B6062 /* Add numbers from single number.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4C37AC892B7AAACD000B6062 /* Add numbers from single number.swift */; };
 		4C37AC8C2B7AAEE4000B6062 /* Find the index.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4C37AC8B2B7AAEE4000B6062 /* Find the index.swift */; };
 		4C37AC8E2B7AB085000B6062 /* Convert numbers to string of dashes.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4C37AC8D2B7AB085000B6062 /* Convert numbers to string of dashes.swift */; };
+		4C37AC902B7AB363000B6062 /* Count syllables.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4C37AC8F2B7AB363000B6062 /* Count syllables.swift */; };
 		4C3B72FA2B5D9D8A00B84120 /* The farm problem.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4C3B72F92B5D9D8A00B84120 /* The farm problem.swift */; };
 		4C3B72FE2B5DA26500B84120 /* Boolean to String conversion.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4C3B72FD2B5DA26500B84120 /* Boolean to String conversion.swift */; };
 		4C3B73002B5DA42D00B84120 /* Profitable Gamble.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4C3B72FF2B5DA42D00B84120 /* Profitable Gamble.swift */; };
@@ -135,6 +136,7 @@
 		4C37AC892B7AAACD000B6062 /* Add numbers from single number.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "Add numbers from single number.swift"; sourceTree = "<group>"; };
 		4C37AC8B2B7AAEE4000B6062 /* Find the index.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "Find the index.swift"; sourceTree = "<group>"; };
 		4C37AC8D2B7AB085000B6062 /* Convert numbers to string of dashes.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "Convert numbers to string of dashes.swift"; sourceTree = "<group>"; };
+		4C37AC8F2B7AB363000B6062 /* Count syllables.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "Count syllables.swift"; sourceTree = "<group>"; };
 		4C3B72F92B5D9D8A00B84120 /* The farm problem.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "The farm problem.swift"; sourceTree = "<group>"; };
 		4C3B72FD2B5DA26500B84120 /* Boolean to String conversion.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "Boolean to String conversion.swift"; sourceTree = "<group>"; };
 		4C3B72FF2B5DA42D00B84120 /* Profitable Gamble.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "Profitable Gamble.swift"; sourceTree = "<group>"; };
@@ -313,6 +315,7 @@
 				4C37AC892B7AAACD000B6062 /* Add numbers from single number.swift */,
 				4C37AC8B2B7AAEE4000B6062 /* Find the index.swift */,
 				4C37AC8D2B7AB085000B6062 /* Convert numbers to string of dashes.swift */,
+				4C37AC8F2B7AB363000B6062 /* Count syllables.swift */,
 			);
 			path = Edabit;
 			sourceTree = "<group>";
@@ -435,6 +438,7 @@
 				4CA90F342B6A687900397D78 /* Find out the leap year.swift in Sources */,
 				4C6ADD0B2B4E8C3F0087971C /* Convert Minutes into Seconds.swift in Sources */,
 				4C1AD32A2B5D9B46007244B3 /* Convert hours and minutes into seconds.swift in Sources */,
+				4C37AC902B7AB363000B6062 /* Count syllables.swift in Sources */,
 				4C1AEB4C2B55E1E7001093F4 /* Basic Variable Assignment.swift in Sources */,
 				4CF7B55F2B76481C00F0D2FB /* Convert number to month name.swift in Sources */,
 				4C9C54922B6ECE08008BD33C /* Slice of pie.swift in Sources */,
