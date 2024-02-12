@@ -273,4 +273,7 @@ let noOdds = NoOdds()
 //print(noOdds.noOdds([43, 65, 23, 89, 53, 9, 6]))
 
 let hurdle = HurdleJump()
-print(hurdle.hurdleJump([5, 5, 3, 4, 5], 3))
+//print(hurdle.hurdleJump([5, 5, 3, 4, 5], 3))
+
+let buggyCode = HasBugs()
+print(buggyCode.hasBugs(false))
