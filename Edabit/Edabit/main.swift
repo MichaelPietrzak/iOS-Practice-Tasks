@@ -279,4 +279,7 @@ let buggyCode = HasBugs()
 //print(buggyCode.hasBugs(false))
 
 let gamePositions = TileTactics()
-print(gamePositions.possibleBonus(3, 7))
+//print(gamePositions.possibleBonus(3, 7))
+
+let evenArr = EvenNumbersBug()
+print(evenArr.checkAllEven([5, 6, 8, 10]))

@@ -8,6 +8,7 @@
 
 /* Begin PBXBuildFile section */
 		4C10BE1D2B7B63590058C33A /* Tile teamwork tactics.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4C10BE1C2B7B63590058C33A /* Tile teamwork tactics.swift */; };
+		4C10BE1F2B7B702D0058C33A /* Find the bug; checking even numbers.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4C10BE1E2B7B702D0058C33A /* Find the bug; checking even numbers.swift */; };
 		4C134C1B2B62A4040002ED5E /* Is the string empty.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4C134C1A2B62A4040002ED5E /* Is the string empty.swift */; };
 		4C134C1D2B62A7770002ED5E /* Using the && Operator.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4C134C1C2B62A7770002ED5E /* Using the && Operator.swift */; };
 		4C1A5F6C2B6FD1D000B460F0 /* Return a string as integer.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4C1A5F6B2B6FD1D000B460F0 /* Return a string as integer.swift */; };
@@ -114,6 +115,7 @@
 
 /* Begin PBXFileReference section */
 		4C10BE1C2B7B63590058C33A /* Tile teamwork tactics.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "Tile teamwork tactics.swift"; sourceTree = "<group>"; };
+		4C10BE1E2B7B702D0058C33A /* Find the bug; checking even numbers.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "Find the bug; checking even numbers.swift"; sourceTree = "<group>"; };
 		4C134C1A2B62A4040002ED5E /* Is the string empty.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "Is the string empty.swift"; sourceTree = "<group>"; };
 		4C134C1C2B62A7770002ED5E /* Using the && Operator.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "Using the && Operator.swift"; sourceTree = "<group>"; };
 		4C1A5F6B2B6FD1D000B460F0 /* Return a string as integer.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "Return a string as integer.swift"; sourceTree = "<group>"; };
@@ -328,6 +330,7 @@
 				4C37AC932B7ABAAC000B6062 /* Hurdle jump.swift */,
 				4C37AC952B7ABCF5000B6062 /* Buggy Code.swift */,
 				4C10BE1C2B7B63590058C33A /* Tile teamwork tactics.swift */,
+				4C10BE1E2B7B702D0058C33A /* Find the bug; checking even numbers.swift */,
 			);
 			path = Edabit;
 			sourceTree = "<group>";
@@ -471,6 +474,7 @@
 				4C85F4582B71086C00856305 /* Re-form the word.swift in Sources */,
 				4C54622B2B6BB56B0045E851 /* Reverse an array.swift in Sources */,
 				4CD9C9EC2B5EB53E00DD33FA /* Pair Management.swift in Sources */,
+				4C10BE1F2B7B702D0058C33A /* Find the bug; checking even numbers.swift in Sources */,
 				4C35E73B2B726854002BFF78 /* Triangular number sequence.swift in Sources */,
 				4CA90F282B6A436000397D78 /* Two makes ten.swift in Sources */,
 				4CF7B5572B763C4000F0D2FB /* Leap year function.swift in Sources */,
