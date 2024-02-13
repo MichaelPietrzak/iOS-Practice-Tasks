@@ -276,4 +276,7 @@ let hurdle = HurdleJump()
 //print(hurdle.hurdleJump([5, 5, 3, 4, 5], 3))
 
 let buggyCode = HasBugs()
-print(buggyCode.hasBugs(false))
+//print(buggyCode.hasBugs(false))
+
+let gamePositions = TileTactics()
+print(gamePositions.possibleBonus(3, 7))
