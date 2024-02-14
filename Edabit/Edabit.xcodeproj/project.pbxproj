@@ -12,6 +12,7 @@
 		4C10BE212B7B74D80058C33A /* Calculate the profit.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4C10BE202B7B74D80058C33A /* Calculate the profit.swift */; };
 		4C10BE232B7CAAC90058C33A /* Get word count.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4C10BE222B7CAAC90058C33A /* Get word count.swift */; };
 		4C10BE252B7CAF3D0058C33A /* Return number of parameters.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4C10BE242B7CAF3D0058C33A /* Return number of parameters.swift */; };
+		4C10BE272B7CB24A0058C33A /* Next element in sequence.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4C10BE262B7CB24A0058C33A /* Next element in sequence.swift */; };
 		4C134C1B2B62A4040002ED5E /* Is the string empty.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4C134C1A2B62A4040002ED5E /* Is the string empty.swift */; };
 		4C134C1D2B62A7770002ED5E /* Using the && Operator.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4C134C1C2B62A7770002ED5E /* Using the && Operator.swift */; };
 		4C1A5F6C2B6FD1D000B460F0 /* Return a string as integer.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4C1A5F6B2B6FD1D000B460F0 /* Return a string as integer.swift */; };
@@ -122,6 +123,7 @@
 		4C10BE202B7B74D80058C33A /* Calculate the profit.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "Calculate the profit.swift"; sourceTree = "<group>"; };
 		4C10BE222B7CAAC90058C33A /* Get word count.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "Get word count.swift"; sourceTree = "<group>"; };
 		4C10BE242B7CAF3D0058C33A /* Return number of parameters.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "Return number of parameters.swift"; sourceTree = "<group>"; };
+		4C10BE262B7CB24A0058C33A /* Next element in sequence.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "Next element in sequence.swift"; sourceTree = "<group>"; };
 		4C134C1A2B62A4040002ED5E /* Is the string empty.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "Is the string empty.swift"; sourceTree = "<group>"; };
 		4C134C1C2B62A7770002ED5E /* Using the && Operator.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "Using the && Operator.swift"; sourceTree = "<group>"; };
 		4C1A5F6B2B6FD1D000B460F0 /* Return a string as integer.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "Return a string as integer.swift"; sourceTree = "<group>"; };
@@ -340,6 +342,7 @@
 				4C10BE202B7B74D80058C33A /* Calculate the profit.swift */,
 				4C10BE222B7CAAC90058C33A /* Get word count.swift */,
 				4C10BE242B7CAF3D0058C33A /* Return number of parameters.swift */,
+				4C10BE262B7CB24A0058C33A /* Next element in sequence.swift */,
 			);
 			path = Edabit;
 			sourceTree = "<group>";
@@ -452,6 +455,7 @@
 				4CB16ECD2B57BD4F006EC617 /* Check integer if divisible.swift in Sources */,
 				4C37508F2B515AC800318140 /* Convert Hours into Seconds.swift in Sources */,
 				4C828FAB2B56CC1A0042153A /* Maximum Edge of a triangle.swift in Sources */,
+				4C10BE272B7CB24A0058C33A /* Next element in sequence.swift in Sources */,
 				4C34BA272B500BB000F60A9E /* Are the numbers equal.swift in Sources */,
 				4C6780B92B5AB221006E4691 /* Sum of polygon angles.swift in Sources */,
 				4C22F1B92B79778600386740 /* FizzBuzz Interview Question.swift in Sources */,

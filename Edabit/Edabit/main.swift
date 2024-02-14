@@ -291,4 +291,7 @@ let countStr = CountWords()
 //print(countStr.countWords("This is a test"))
 
 let numOfPara = NumberOfParameters()
-print(numOfPara.numberArgs(10, 20, 30, 40, 50))
+//print(numOfPara.numberArgs(10, 20, 30, 40, 50))
+
+let seqArr = NextElement()
+print(seqArr.nextElement([3, 5, 7, 9]))
