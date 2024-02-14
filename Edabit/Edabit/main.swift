@@ -288,5 +288,7 @@ let profit = Profit()
 //print(profit.profit(["cost price": 32.67, "sell price": 45.00, "inventory": 1200]))
 
 let countStr = CountWords()
-print(countStr.countWords("This is a test"))
+//print(countStr.countWords("This is a test"))
 
+let numOfPara = NumberOfParameters()
+print(numOfPara.numberArgs(10, 20, 30, 40, 50))
