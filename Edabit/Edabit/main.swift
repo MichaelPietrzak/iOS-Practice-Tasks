@@ -294,4 +294,7 @@ let numOfPara = NumberOfParameters()
 //print(numOfPara.numberArgs(10, 20, 30, 40, 50))
 
 let seqArr = NextElement()
-print(seqArr.nextElement([3, 5, 7, 9]))
+//print(seqArr.nextElement([3, 5, 7, 9]))
+
+let avgArr = AvgWholeNumber()
+print(avgArr.isAvgWhole([9, 2, 2, 5]))
