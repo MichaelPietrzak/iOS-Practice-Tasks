@@ -10,6 +10,7 @@
 		4C10BE1D2B7B63590058C33A /* Tile teamwork tactics.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4C10BE1C2B7B63590058C33A /* Tile teamwork tactics.swift */; };
 		4C10BE1F2B7B702D0058C33A /* Find the bug; checking even numbers.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4C10BE1E2B7B702D0058C33A /* Find the bug; checking even numbers.swift */; };
 		4C10BE212B7B74D80058C33A /* Calculate the profit.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4C10BE202B7B74D80058C33A /* Calculate the profit.swift */; };
+		4C10BE232B7CAAC90058C33A /* Get word count.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4C10BE222B7CAAC90058C33A /* Get word count.swift */; };
 		4C134C1B2B62A4040002ED5E /* Is the string empty.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4C134C1A2B62A4040002ED5E /* Is the string empty.swift */; };
 		4C134C1D2B62A7770002ED5E /* Using the && Operator.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4C134C1C2B62A7770002ED5E /* Using the && Operator.swift */; };
 		4C1A5F6C2B6FD1D000B460F0 /* Return a string as integer.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4C1A5F6B2B6FD1D000B460F0 /* Return a string as integer.swift */; };
@@ -118,6 +119,7 @@
 		4C10BE1C2B7B63590058C33A /* Tile teamwork tactics.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "Tile teamwork tactics.swift"; sourceTree = "<group>"; };
 		4C10BE1E2B7B702D0058C33A /* Find the bug; checking even numbers.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "Find the bug; checking even numbers.swift"; sourceTree = "<group>"; };
 		4C10BE202B7B74D80058C33A /* Calculate the profit.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "Calculate the profit.swift"; sourceTree = "<group>"; };
+		4C10BE222B7CAAC90058C33A /* Get word count.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "Get word count.swift"; sourceTree = "<group>"; };
 		4C134C1A2B62A4040002ED5E /* Is the string empty.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "Is the string empty.swift"; sourceTree = "<group>"; };
 		4C134C1C2B62A7770002ED5E /* Using the && Operator.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "Using the && Operator.swift"; sourceTree = "<group>"; };
 		4C1A5F6B2B6FD1D000B460F0 /* Return a string as integer.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "Return a string as integer.swift"; sourceTree = "<group>"; };
@@ -334,6 +336,7 @@
 				4C10BE1C2B7B63590058C33A /* Tile teamwork tactics.swift */,
 				4C10BE1E2B7B702D0058C33A /* Find the bug; checking even numbers.swift */,
 				4C10BE202B7B74D80058C33A /* Calculate the profit.swift */,
+				4C10BE222B7CAAC90058C33A /* Get word count.swift */,
 			);
 			path = Edabit;
 			sourceTree = "<group>";
@@ -426,6 +429,7 @@
 				4C10BE1D2B7B63590058C33A /* Tile teamwork tactics.swift in Sources */,
 				4CC3A66D2B6D382200C72829 /* Return last element in array.swift in Sources */,
 				4CF7B55D2B7645A400F0D2FB /* Get the sum of all array elements.swift in Sources */,
+				4C10BE232B7CAAC90058C33A /* Get word count.swift in Sources */,
 				4C9DA8852B594F11003E4612 /* Basketball Points.swift in Sources */,
 				4C85F4562B7102C100856305 /* Compare strings by count of characters.swift in Sources */,
 				4CA90F262B6A3C1A00397D78 /* Is the number even or odd.swift in Sources */,

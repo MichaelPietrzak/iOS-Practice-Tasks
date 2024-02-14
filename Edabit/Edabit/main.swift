@@ -285,4 +285,8 @@ let evenArr = EvenNumbersBug()
 //print(evenArr.checkAllEven([5, 6, 8, 10]))
 
 let profit = Profit()
-print(profit.profit(["cost price": 32.67, "sell price": 45.00, "inventory": 1200]))
+//print(profit.profit(["cost price": 32.67, "sell price": 45.00, "inventory": 1200]))
+
+let countStr = CountWords()
+print(countStr.countWords("This is a test"))
+
