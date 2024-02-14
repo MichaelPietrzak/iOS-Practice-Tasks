@@ -297,4 +297,7 @@ let seqArr = NextElement()
 //print(seqArr.nextElement([3, 5, 7, 9]))
 
 let avgArr = AvgWholeNumber()
-print(avgArr.isAvgWhole([9, 2, 2, 5]))
+//print(avgArr.isAvgWhole([9, 2, 2, 5]))
+
+let weight = WeightAllowed()
+print(weight.weightAllowed(3200, [220, 101, 115, 228, 15], 1700))
