@@ -9,6 +9,7 @@
 /* Begin PBXBuildFile section */
 		4C10BE1D2B7B63590058C33A /* Tile teamwork tactics.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4C10BE1C2B7B63590058C33A /* Tile teamwork tactics.swift */; };
 		4C10BE1F2B7B702D0058C33A /* Find the bug; checking even numbers.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4C10BE1E2B7B702D0058C33A /* Find the bug; checking even numbers.swift */; };
+		4C10BE212B7B74D80058C33A /* Calculate the profit.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4C10BE202B7B74D80058C33A /* Calculate the profit.swift */; };
 		4C134C1B2B62A4040002ED5E /* Is the string empty.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4C134C1A2B62A4040002ED5E /* Is the string empty.swift */; };
 		4C134C1D2B62A7770002ED5E /* Using the && Operator.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4C134C1C2B62A7770002ED5E /* Using the && Operator.swift */; };
 		4C1A5F6C2B6FD1D000B460F0 /* Return a string as integer.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4C1A5F6B2B6FD1D000B460F0 /* Return a string as integer.swift */; };
@@ -116,6 +117,7 @@
 /* Begin PBXFileReference section */
 		4C10BE1C2B7B63590058C33A /* Tile teamwork tactics.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "Tile teamwork tactics.swift"; sourceTree = "<group>"; };
 		4C10BE1E2B7B702D0058C33A /* Find the bug; checking even numbers.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "Find the bug; checking even numbers.swift"; sourceTree = "<group>"; };
+		4C10BE202B7B74D80058C33A /* Calculate the profit.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "Calculate the profit.swift"; sourceTree = "<group>"; };
 		4C134C1A2B62A4040002ED5E /* Is the string empty.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "Is the string empty.swift"; sourceTree = "<group>"; };
 		4C134C1C2B62A7770002ED5E /* Using the && Operator.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "Using the && Operator.swift"; sourceTree = "<group>"; };
 		4C1A5F6B2B6FD1D000B460F0 /* Return a string as integer.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "Return a string as integer.swift"; sourceTree = "<group>"; };
@@ -331,6 +333,7 @@
 				4C37AC952B7ABCF5000B6062 /* Buggy Code.swift */,
 				4C10BE1C2B7B63590058C33A /* Tile teamwork tactics.swift */,
 				4C10BE1E2B7B702D0058C33A /* Find the bug; checking even numbers.swift */,
+				4C10BE202B7B74D80058C33A /* Calculate the profit.swift */,
 			);
 			path = Edabit;
 			sourceTree = "<group>";
@@ -460,6 +463,7 @@
 				4C37AC902B7AB363000B6062 /* Count syllables.swift in Sources */,
 				4C1AEB4C2B55E1E7001093F4 /* Basic Variable Assignment.swift in Sources */,
 				4CF7B55F2B76481C00F0D2FB /* Convert number to month name.swift in Sources */,
+				4C10BE212B7B74D80058C33A /* Calculate the profit.swift in Sources */,
 				4C9C54922B6ECE08008BD33C /* Slice of pie.swift in Sources */,
 				4CFF79302B5FF70B006F2004 /* Concatenating two integer arrays.swift in Sources */,
 				4C8F28BE2B4C5901006373C7 /* Convert Age to Days.swift in Sources */,

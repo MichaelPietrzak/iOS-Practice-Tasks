@@ -282,4 +282,7 @@ let gamePositions = TileTactics()
 //print(gamePositions.possibleBonus(3, 7))
 
 let evenArr = EvenNumbersBug()
-print(evenArr.checkAllEven([5, 6, 8, 10]))
+//print(evenArr.checkAllEven([5, 6, 8, 10]))
+
+let profit = Profit()
+print(profit.profit(["cost price": 32.67, "sell price": 45.00, "inventory": 1200]))
