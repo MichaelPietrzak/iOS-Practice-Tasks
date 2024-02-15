@@ -303,4 +303,7 @@ let weight = WeightAllowed()
 //print(weight.weightAllowed(3200, [220, 101, 115, 228, 15], 1700))
 
 let strSoup = AlphabetSoup()
-print(strSoup.alphabetSoup("hacker"))
+//print(strSoup.alphabetSoup("hacker"))
+
+let price = Discount()
+print(price.disconut(89, 20))
