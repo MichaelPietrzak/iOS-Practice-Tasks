@@ -306,4 +306,7 @@ let strSoup = AlphabetSoup()
 //print(strSoup.alphabetSoup("hacker"))
 
 let price = Discount()
-print(price.disconut(89, 20))
+//print(price.disconut(89, 20))
+
+let countTrue = CountTrue()
+print(countTrue.countTrue([true, false, true, false, true, true]))

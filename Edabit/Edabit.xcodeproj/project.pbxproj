@@ -70,6 +70,7 @@
 		4C85F45A2B710A5F00856305 /* String to integer and vice versa.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4C85F4592B710A5F00856305 /* String to integer and vice versa.swift */; };
 		4C87F7382B7E41F900DB2E31 /* Alphabet soup.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4C87F7372B7E41F800DB2E31 /* Alphabet soup.swift */; };
 		4C87F73A2B7E43B200DB2E31 /* Find the discount.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4C87F7392B7E43B200DB2E31 /* Find the discount.swift */; };
+		4C87F73C2B7E45A800DB2E31 /* How much is true.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4C87F73B2B7E45A800DB2E31 /* How much is true.swift */; };
 		4C8F28BE2B4C5901006373C7 /* Convert Age to Days.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4C8F28BD2B4C5901006373C7 /* Convert Age to Days.swift */; };
 		4C9C54922B6ECE08008BD33C /* Slice of pie.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4C9C54912B6ECE08008BD33C /* Slice of pie.swift */; };
 		4C9C54942B6EDFBE008BD33C /* Check string for spaces.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4C9C54932B6EDFBE008BD33C /* Check string for spaces.swift */; };
@@ -186,6 +187,7 @@
 		4C85F4592B710A5F00856305 /* String to integer and vice versa.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "String to integer and vice versa.swift"; sourceTree = "<group>"; };
 		4C87F7372B7E41F800DB2E31 /* Alphabet soup.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "Alphabet soup.swift"; sourceTree = "<group>"; };
 		4C87F7392B7E43B200DB2E31 /* Find the discount.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "Find the discount.swift"; sourceTree = "<group>"; };
+		4C87F73B2B7E45A800DB2E31 /* How much is true.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "How much is true.swift"; sourceTree = "<group>"; };
 		4C8F28BD2B4C5901006373C7 /* Convert Age to Days.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "Convert Age to Days.swift"; sourceTree = "<group>"; };
 		4C9C54912B6ECE08008BD33C /* Slice of pie.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "Slice of pie.swift"; sourceTree = "<group>"; };
 		4C9C54932B6EDFBE008BD33C /* Check string for spaces.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "Check string for spaces.swift"; sourceTree = "<group>"; };
@@ -355,6 +357,7 @@
 				4C10BE2C2B7CD17A0058C33A /* Max weight allowed.swift */,
 				4C87F7372B7E41F800DB2E31 /* Alphabet soup.swift */,
 				4C87F7392B7E43B200DB2E31 /* Find the discount.swift */,
+				4C87F73B2B7E45A800DB2E31 /* How much is true.swift */,
 			);
 			path = Edabit;
 			sourceTree = "<group>";
@@ -431,6 +434,7 @@
 				4CA90F322B6A661700397D78 /* Buggy code - Part 4.swift in Sources */,
 				4C22F1B52B79725100386740 /* Difference of max and min numbers in array.swift in Sources */,
 				4C134C1B2B62A4040002ED5E /* Is the string empty.swift in Sources */,
+				4C87F73C2B7E45A800DB2E31 /* How much is true.swift in Sources */,
 				4C3B72FA2B5D9D8A00B84120 /* The farm problem.swift in Sources */,
 				4CD43B6B2B6F9F2B00F5AA79 /* The modulus operator function.swift in Sources */,
 				4C2771D52B61753800130332 /* Football Points.swift in Sources */,
