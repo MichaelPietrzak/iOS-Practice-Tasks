@@ -309,4 +309,8 @@ let price = Discount()
 //print(price.disconut(89, 20))
 
 let countTrue = CountTrue()
-print(countTrue.countTrue([true, false, true, false, true, true]))
+//print(countTrue.countTrue([true, false, true, false, true, true]))
+
+let humanYears = CalculateYears()
+print(humanYears.calculateYears(10))
+
