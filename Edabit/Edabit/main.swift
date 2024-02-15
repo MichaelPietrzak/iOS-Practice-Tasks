@@ -300,4 +300,7 @@ let avgArr = AvgWholeNumber()
 //print(avgArr.isAvgWhole([9, 2, 2, 5]))
 
 let weight = WeightAllowed()
-print(weight.weightAllowed(3200, [220, 101, 115, 228, 15], 1700))
+//print(weight.weightAllowed(3200, [220, 101, 115, 228, 15], 1700))
+
+let strSoup = AlphabetSoup()
+print(strSoup.alphabetSoup("hacker"))
