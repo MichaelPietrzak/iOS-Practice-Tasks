@@ -62,6 +62,7 @@
 		4C6ADD0D2B4E8EF50087971C /* Find the Perimeter of a Rectangle.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4C6ADD0C2B4E8EF50087971C /* Find the Perimeter of a Rectangle.swift */; };
 		4C7659782B4D5E6E0023DF20 /* Area of a Triangle.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4C7659772B4D5E6E0023DF20 /* Area of a Triangle.swift */; };
 		4C76597A2B4D62AB0023DF20 /* Return Next Number from the Integer Passed.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4C7659792B4D62AB0023DF20 /* Return Next Number from the Integer Passed.swift */; };
+		4C8231012B7F8289008C39B2 /* Even number generator.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4C8231002B7F8289008C39B2 /* Even number generator.swift */; };
 		4C828FAB2B56CC1A0042153A /* Maximum Edge of a triangle.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4C828FAA2B56CC1A0042153A /* Maximum Edge of a triangle.swift */; };
 		4C828FAD2B56D0CE0042153A /* Correct the Mistakes.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4C828FAC2B56D0CE0042153A /* Correct the Mistakes.swift */; };
 		4C85F4542B70FC6A00856305 /* Unlucky 13.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4C85F4532B70FC6A00856305 /* Unlucky 13.swift */; };
@@ -180,6 +181,7 @@
 		4C6ADD0C2B4E8EF50087971C /* Find the Perimeter of a Rectangle.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "Find the Perimeter of a Rectangle.swift"; sourceTree = "<group>"; };
 		4C7659772B4D5E6E0023DF20 /* Area of a Triangle.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "Area of a Triangle.swift"; sourceTree = "<group>"; };
 		4C7659792B4D62AB0023DF20 /* Return Next Number from the Integer Passed.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "Return Next Number from the Integer Passed.swift"; sourceTree = "<group>"; };
+		4C8231002B7F8289008C39B2 /* Even number generator.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "Even number generator.swift"; sourceTree = "<group>"; };
 		4C828FAA2B56CC1A0042153A /* Maximum Edge of a triangle.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "Maximum Edge of a triangle.swift"; sourceTree = "<group>"; };
 		4C828FAC2B56D0CE0042153A /* Correct the Mistakes.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "Correct the Mistakes.swift"; sourceTree = "<group>"; };
 		4C85F4532B70FC6A00856305 /* Unlucky 13.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "Unlucky 13.swift"; sourceTree = "<group>"; };
@@ -361,6 +363,7 @@
 				4C87F7392B7E43B200DB2E31 /* Find the discount.swift */,
 				4C87F73B2B7E45A800DB2E31 /* How much is true.swift */,
 				4C87F73D2B7E476E00DB2E31 /* Human, cat and dog years.swift */,
+				4C8231002B7F8289008C39B2 /* Even number generator.swift */,
 			);
 			path = Edabit;
 			sourceTree = "<group>";
@@ -477,6 +480,7 @@
 				4C37508F2B515AC800318140 /* Convert Hours into Seconds.swift in Sources */,
 				4C828FAB2B56CC1A0042153A /* Maximum Edge of a triangle.swift in Sources */,
 				4C10BE2D2B7CD17A0058C33A /* Max weight allowed.swift in Sources */,
+				4C8231012B7F8289008C39B2 /* Even number generator.swift in Sources */,
 				4C10BE272B7CB24A0058C33A /* Next element in sequence.swift in Sources */,
 				4C34BA272B500BB000F60A9E /* Are the numbers equal.swift in Sources */,
 				4C6780B92B5AB221006E4691 /* Sum of polygon angles.swift in Sources */,

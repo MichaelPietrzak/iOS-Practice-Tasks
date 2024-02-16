@@ -312,5 +312,7 @@ let countTrue = CountTrue()
 //print(countTrue.countTrue([true, false, true, false, true, true]))
 
 let humanYears = CalculateYears()
-print(humanYears.calculateYears(10))
+//print(humanYears.calculateYears(10))
 
+let evenNum = EvenNumsGenerator()
+print(evenNum.findEvenNums(25))
