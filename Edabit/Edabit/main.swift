@@ -318,4 +318,7 @@ let evenNum = EvenNumsGenerator()
 //print(evenNum.findEvenNums(25))
 
 let arrNums = SmallestNum()
-print(arrNums.findSmallestNum([34, -345, -1, 100]))
+//print(arrNums.findSmallestNum([34, -345, -1, 100]))
+
+let countdownNum = Countdown()
+print(countdownNum.countdown(9))
