@@ -321,4 +321,7 @@ let arrNums = SmallestNum()
 //print(arrNums.findSmallestNum([34, -345, -1, 100]))
 
 let countdownNum = Countdown()
-print(countdownNum.countdown(9))
+//print(countdownNum.countdown(9))
+
+let amplifyNum = Amplify()
+print(amplifyNum.amplify(25))

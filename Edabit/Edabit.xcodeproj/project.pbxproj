@@ -65,6 +65,7 @@
 		4C8231012B7F8289008C39B2 /* Even number generator.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4C8231002B7F8289008C39B2 /* Even number generator.swift */; };
 		4C8231032B7F847C008C39B2 /* Find the smallest number in array.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4C8231022B7F847C008C39B2 /* Find the smallest number in array.swift */; };
 		4C8231052B7F8681008C39B2 /* Generate countdown of numbers in array.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4C8231042B7F8681008C39B2 /* Generate countdown of numbers in array.swift */; };
+		4C8231072B7F8A8F008C39B2 /* Amplify the multiples of four.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4C8231062B7F8A8F008C39B2 /* Amplify the multiples of four.swift */; };
 		4C828FAB2B56CC1A0042153A /* Maximum Edge of a triangle.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4C828FAA2B56CC1A0042153A /* Maximum Edge of a triangle.swift */; };
 		4C828FAD2B56D0CE0042153A /* Correct the Mistakes.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4C828FAC2B56D0CE0042153A /* Correct the Mistakes.swift */; };
 		4C85F4542B70FC6A00856305 /* Unlucky 13.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4C85F4532B70FC6A00856305 /* Unlucky 13.swift */; };
@@ -186,6 +187,7 @@
 		4C8231002B7F8289008C39B2 /* Even number generator.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "Even number generator.swift"; sourceTree = "<group>"; };
 		4C8231022B7F847C008C39B2 /* Find the smallest number in array.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "Find the smallest number in array.swift"; sourceTree = "<group>"; };
 		4C8231042B7F8681008C39B2 /* Generate countdown of numbers in array.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "Generate countdown of numbers in array.swift"; sourceTree = "<group>"; };
+		4C8231062B7F8A8F008C39B2 /* Amplify the multiples of four.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "Amplify the multiples of four.swift"; sourceTree = "<group>"; };
 		4C828FAA2B56CC1A0042153A /* Maximum Edge of a triangle.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "Maximum Edge of a triangle.swift"; sourceTree = "<group>"; };
 		4C828FAC2B56D0CE0042153A /* Correct the Mistakes.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "Correct the Mistakes.swift"; sourceTree = "<group>"; };
 		4C85F4532B70FC6A00856305 /* Unlucky 13.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "Unlucky 13.swift"; sourceTree = "<group>"; };
@@ -370,6 +372,7 @@
 				4C8231002B7F8289008C39B2 /* Even number generator.swift */,
 				4C8231022B7F847C008C39B2 /* Find the smallest number in array.swift */,
 				4C8231042B7F8681008C39B2 /* Generate countdown of numbers in array.swift */,
+				4C8231062B7F8A8F008C39B2 /* Amplify the multiples of four.swift */,
 			);
 			path = Edabit;
 			sourceTree = "<group>";
@@ -483,6 +486,7 @@
 				4C26AAAD2B52AD7D0038E064 /* Return the first element in array.swift in Sources */,
 				4CB99E4C2B63F0A8002FC554 /* Fix the expression.swift in Sources */,
 				4CF7B5632B76591300F0D2FB /* Find total number of digits the number has.swift in Sources */,
+				4C8231072B7F8A8F008C39B2 /* Amplify the multiples of four.swift in Sources */,
 				4C35E0CF2B4B2BC8009ECE9A /* Return Sum of Two Numbers.swift in Sources */,
 				4CB16ECD2B57BD4F006EC617 /* Check integer if divisible.swift in Sources */,
 				4C37508F2B515AC800318140 /* Convert Hours into Seconds.swift in Sources */,
