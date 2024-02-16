@@ -315,4 +315,7 @@ let humanYears = CalculateYears()
 //print(humanYears.calculateYears(10))
 
 let evenNum = EvenNumsGenerator()
-print(evenNum.findEvenNums(25))
+//print(evenNum.findEvenNums(25))
+
+let arrNums = SmallestNum()
+print(arrNums.findSmallestNum([34, -345, -1, 100]))
