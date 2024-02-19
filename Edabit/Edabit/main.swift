@@ -330,4 +330,7 @@ let wordEnding = WordEnding()
 //print(wordEnding.addEnding(["new", "pander", "scoop"], "er"))
 
 let multiplyLength = MultiplyByLength()
-print(multiplyLength.multiplyByLength([1, 0, 3, 3, 7, 2, 1]))
+//print(multiplyLength.multiplyByLength([1, 0, 3, 3, 7, 2, 1]))
+
+let checkPalindrome = StringPalindrome()
+print(checkPalindrome.checkPalindrome("stressed"))
