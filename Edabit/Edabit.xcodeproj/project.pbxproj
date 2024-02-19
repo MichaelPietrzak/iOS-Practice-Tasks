@@ -68,6 +68,7 @@
 		4C8231072B7F8A8F008C39B2 /* Amplify the multiples of four.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4C8231062B7F8A8F008C39B2 /* Amplify the multiples of four.swift */; };
 		4C828FAB2B56CC1A0042153A /* Maximum Edge of a triangle.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4C828FAA2B56CC1A0042153A /* Maximum Edge of a triangle.swift */; };
 		4C828FAD2B56D0CE0042153A /* Correct the Mistakes.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4C828FAC2B56D0CE0042153A /* Correct the Mistakes.swift */; };
+		4C854A442B838CFA0068A01D /* Word endings.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4C854A432B838CFA0068A01D /* Word endings.swift */; };
 		4C85F4542B70FC6A00856305 /* Unlucky 13.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4C85F4532B70FC6A00856305 /* Unlucky 13.swift */; };
 		4C85F4562B7102C100856305 /* Compare strings by count of characters.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4C85F4552B7102C100856305 /* Compare strings by count of characters.swift */; };
 		4C85F4582B71086C00856305 /* Re-form the word.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4C85F4572B71086C00856305 /* Re-form the word.swift */; };
@@ -190,6 +191,7 @@
 		4C8231062B7F8A8F008C39B2 /* Amplify the multiples of four.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "Amplify the multiples of four.swift"; sourceTree = "<group>"; };
 		4C828FAA2B56CC1A0042153A /* Maximum Edge of a triangle.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "Maximum Edge of a triangle.swift"; sourceTree = "<group>"; };
 		4C828FAC2B56D0CE0042153A /* Correct the Mistakes.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "Correct the Mistakes.swift"; sourceTree = "<group>"; };
+		4C854A432B838CFA0068A01D /* Word endings.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "Word endings.swift"; sourceTree = "<group>"; };
 		4C85F4532B70FC6A00856305 /* Unlucky 13.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "Unlucky 13.swift"; sourceTree = "<group>"; };
 		4C85F4552B7102C100856305 /* Compare strings by count of characters.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "Compare strings by count of characters.swift"; sourceTree = "<group>"; };
 		4C85F4572B71086C00856305 /* Re-form the word.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "Re-form the word.swift"; sourceTree = "<group>"; };
@@ -373,6 +375,7 @@
 				4C8231022B7F847C008C39B2 /* Find the smallest number in array.swift */,
 				4C8231042B7F8681008C39B2 /* Generate countdown of numbers in array.swift */,
 				4C8231062B7F8A8F008C39B2 /* Amplify the multiples of four.swift */,
+				4C854A432B838CFA0068A01D /* Word endings.swift */,
 			);
 			path = Edabit;
 			sourceTree = "<group>";
@@ -539,6 +542,7 @@
 				4CF7B5592B763F3100F0D2FB /* Half, Quarter and Eighth.swift in Sources */,
 				4C134C1D2B62A7770002ED5E /* Using the && Operator.swift in Sources */,
 				4CF7B55B2B76417400F0D2FB /* Check if string ending match second string.swift in Sources */,
+				4C854A442B838CFA0068A01D /* Word endings.swift in Sources */,
 				4C35E0C82B4B2AC3009ECE9A /* main.swift in Sources */,
 				4C37AC8A2B7AAACD000B6062 /* Add numbers from single number.swift in Sources */,
 			);

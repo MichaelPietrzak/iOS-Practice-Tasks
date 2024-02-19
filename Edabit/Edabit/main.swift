@@ -324,4 +324,7 @@ let countdownNum = Countdown()
 //print(countdownNum.countdown(9))
 
 let amplifyNum = Amplify()
-print(amplifyNum.amplify(25))
+//print(amplifyNum.amplify(25))
+
+let wordEnding = WordEnding()
+print(wordEnding.addEnding(["new", "pander", "scoop"], "er"))
