@@ -327,4 +327,7 @@ let amplifyNum = Amplify()
 //print(amplifyNum.amplify(25))
 
 let wordEnding = WordEnding()
-print(wordEnding.addEnding(["new", "pander", "scoop"], "er"))
+//print(wordEnding.addEnding(["new", "pander", "scoop"], "er"))
+
+let multiplyLength = MultiplyByLength()
+print(multiplyLength.multiplyByLength([1, 0, 3, 3, 7, 2, 1]))
