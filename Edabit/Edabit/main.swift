@@ -336,5 +336,8 @@ let checkPalindrome = StringPalindrome()
 //print(checkPalindrome.checkPalindrome("stressed"))
 
 let filterArr = IdenticalFilter()
-print(filterArr.identicalFilter(["aaaaaa", "bc", "d", "eeee", "xyz"]))
+//print(filterArr.identicalFilter(["aaaaaa", "bc", "d", "eeee", "xyz"]))
+
+let additiveNums = AdditiveInverse()
+print(additiveNums.additiveInverse([5, -7, 8, 3]))
  

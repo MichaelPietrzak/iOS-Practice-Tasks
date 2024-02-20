@@ -114,6 +114,7 @@
 		4CF7B5612B7656F800F0D2FB /* Is word singular or plural.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4CF7B5602B7656F800F0D2FB /* Is word singular or plural.swift */; };
 		4CF7B5632B76591300F0D2FB /* Find total number of digits the number has.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4CF7B5622B76591300F0D2FB /* Find total number of digits the number has.swift */; };
 		4CFB81642B84E67300D17CFF /* Filter repeating character strings.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4CFB81632B84E67300D17CFF /* Filter repeating character strings.swift */; };
+		4CFB81662B853E3200D17CFF /* Additive inverse.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4CFB81652B853E3200D17CFF /* Additive inverse.swift */; };
 		4CFF792E2B5FF4CE006F2004 /* Are the number if equal.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4CFF792D2B5FF4CE006F2004 /* Are the number if equal.swift */; };
 		4CFF79302B5FF70B006F2004 /* Concatenating two integer arrays.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4CFF792F2B5FF70B006F2004 /* Concatenating two integer arrays.swift */; };
 		4CFF79322B5FF8A3006F2004 /* Multiple of 100.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4CFF79312B5FF8A3006F2004 /* Multiple of 100.swift */; };
@@ -240,6 +241,7 @@
 		4CF7B5602B7656F800F0D2FB /* Is word singular or plural.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "Is word singular or plural.swift"; sourceTree = "<group>"; };
 		4CF7B5622B76591300F0D2FB /* Find total number of digits the number has.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "Find total number of digits the number has.swift"; sourceTree = "<group>"; };
 		4CFB81632B84E67300D17CFF /* Filter repeating character strings.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "Filter repeating character strings.swift"; sourceTree = "<group>"; };
+		4CFB81652B853E3200D17CFF /* Additive inverse.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "Additive inverse.swift"; sourceTree = "<group>"; };
 		4CFF792D2B5FF4CE006F2004 /* Are the number if equal.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "Are the number if equal.swift"; sourceTree = "<group>"; };
 		4CFF792F2B5FF70B006F2004 /* Concatenating two integer arrays.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "Concatenating two integer arrays.swift"; sourceTree = "<group>"; };
 		4CFF79312B5FF8A3006F2004 /* Multiple of 100.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "Multiple of 100.swift"; sourceTree = "<group>"; };
@@ -385,6 +387,7 @@
 				4C854A452B8391C80068A01D /* Multiply by length.swift */,
 				4C854A472B83933E0068A01D /* String a palindrome.swift */,
 				4CFB81632B84E67300D17CFF /* Filter repeating character strings.swift */,
+				4CFB81652B853E3200D17CFF /* Additive inverse.swift */,
 			);
 			path = Edabit;
 			sourceTree = "<group>";
@@ -533,6 +536,7 @@
 				4C8F28BE2B4C5901006373C7 /* Convert Age to Days.swift in Sources */,
 				4C34BA252B500A8000F60A9E /* Is the number less or equal to zero.swift in Sources */,
 				4CFF79322B5FF8A3006F2004 /* Multiple of 100.swift in Sources */,
+				4CFB81662B853E3200D17CFF /* Additive inverse.swift in Sources */,
 				4C4B58752B74E265005F61B9 /* Maximum difference.swift in Sources */,
 				4CB70C842B73CC7000E688DB /* Recreating abs() function.swift in Sources */,
 				4C2771D32B616BCF00130332 /* less than 100.swift in Sources */,
