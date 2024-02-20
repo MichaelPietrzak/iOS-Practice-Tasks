@@ -333,4 +333,8 @@ let multiplyLength = MultiplyByLength()
 //print(multiplyLength.multiplyByLength([1, 0, 3, 3, 7, 2, 1]))
 
 let checkPalindrome = StringPalindrome()
-print(checkPalindrome.checkPalindrome("stressed"))
+//print(checkPalindrome.checkPalindrome("stressed"))
+
+let filterArr = IdenticalFilter()
+print(filterArr.identicalFilter(["aaaaaa", "bc", "d", "eeee", "xyz"]))
+ 
