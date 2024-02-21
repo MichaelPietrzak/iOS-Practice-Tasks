@@ -357,4 +357,7 @@ let sameUnique = SameUnique()
 //print(sameUnique.same([1, 3, 4, 4, 4], [2, 5, 7]))
 
 let absoluteSum = AbsoluteSum()
-print(absoluteSum.getAbsSum([-3, -4, -10, -2, -3]))
+//print(absoluteSum.getAbsSum([-3, -4, -10, -2, -3]))
+
+let charCount = CharCount()
+print(charCount.charCount("b", "big fat bubble"))
