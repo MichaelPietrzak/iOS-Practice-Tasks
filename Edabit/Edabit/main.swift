@@ -348,4 +348,7 @@ let chineseZodiacYear = ChineseZodiac()
 //print(chineseZodiacYear.chineseZodiac(2021))
 
 let digitCount = DigitsCount()
-print(digitCount.count(-92563))
+//print(digitCount.count(-92563))
+
+let uniqueStrs = CountUnique()
+print(uniqueStrs.countUnique("apple", "play"))
