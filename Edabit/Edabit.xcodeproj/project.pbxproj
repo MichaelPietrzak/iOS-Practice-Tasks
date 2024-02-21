@@ -57,6 +57,7 @@
 		4C5F31282B5427BF0013E75E /* Power Calculator.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4C5F31272B5427BF0013E75E /* Power Calculator.swift */; };
 		4C5F312A2B5428CD0013E75E /* Inches to Feet.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4C5F31292B5428CC0013E75E /* Inches to Feet.swift */; };
 		4C621C5F2B8678C60046237F /* Total number of unique characters.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4C621C5E2B8678C60046237F /* Total number of unique characters.swift */; };
+		4C621C612B8688210046237F /* Same number of unique elements.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4C621C602B8688210046237F /* Same number of unique elements.swift */; };
 		4C6780B72B5AB020006E4691 /* Concatenate First and Last Name into String.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4C6780B62B5AB020006E4691 /* Concatenate First and Last Name into String.swift */; };
 		4C6780B92B5AB221006E4691 /* Sum of polygon angles.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4C6780B82B5AB221006E4691 /* Sum of polygon angles.swift */; };
 		4C6ADD0B2B4E8C3F0087971C /* Convert Minutes into Seconds.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4C6ADD0A2B4E8C3F0087971C /* Convert Minutes into Seconds.swift */; };
@@ -188,6 +189,7 @@
 		4C5F31272B5427BF0013E75E /* Power Calculator.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "Power Calculator.swift"; sourceTree = "<group>"; };
 		4C5F31292B5428CC0013E75E /* Inches to Feet.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "Inches to Feet.swift"; sourceTree = "<group>"; };
 		4C621C5E2B8678C60046237F /* Total number of unique characters.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "Total number of unique characters.swift"; sourceTree = "<group>"; };
+		4C621C602B8688210046237F /* Same number of unique elements.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "Same number of unique elements.swift"; sourceTree = "<group>"; };
 		4C6780B62B5AB020006E4691 /* Concatenate First and Last Name into String.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "Concatenate First and Last Name into String.swift"; sourceTree = "<group>"; };
 		4C6780B82B5AB221006E4691 /* Sum of polygon angles.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "Sum of polygon angles.swift"; sourceTree = "<group>"; };
 		4C6ADD0A2B4E8C3F0087971C /* Convert Minutes into Seconds.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "Convert Minutes into Seconds.swift"; sourceTree = "<group>"; };
@@ -400,6 +402,7 @@
 				4CFB81692B854AAA00D17CFF /* Chinese zodiac.swift */,
 				4CC0FB882B86644600F4D774 /* Integer digits count.swift */,
 				4C621C5E2B8678C60046237F /* Total number of unique characters.swift */,
+				4C621C602B8688210046237F /* Same number of unique elements.swift */,
 			);
 			path = Edabit;
 			sourceTree = "<group>";
@@ -573,6 +576,7 @@
 				4CFB81642B84E67300D17CFF /* Filter repeating character strings.swift in Sources */,
 				4CF7B5592B763F3100F0D2FB /* Half, Quarter and Eighth.swift in Sources */,
 				4C134C1D2B62A7770002ED5E /* Using the && Operator.swift in Sources */,
+				4C621C612B8688210046237F /* Same number of unique elements.swift in Sources */,
 				4CF7B55B2B76417400F0D2FB /* Check if string ending match second string.swift in Sources */,
 				4C854A442B838CFA0068A01D /* Word endings.swift in Sources */,
 				4C35E0C82B4B2AC3009ECE9A /* main.swift in Sources */,
