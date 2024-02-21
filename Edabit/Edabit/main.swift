@@ -354,4 +354,7 @@ let uniqueStrs = CountUnique()
 //print(uniqueStrs.countUnique("apple", "play"))
 
 let sameUnique = SameUnique()
-print(sameUnique.same([1, 3, 4, 4, 4], [2, 5, 7]))
+//print(sameUnique.same([1, 3, 4, 4, 4], [2, 5, 7]))
+
+let absoluteSum = AbsoluteSum()
+print(absoluteSum.getAbsSum([-3, -4, -10, -2, -3]))
