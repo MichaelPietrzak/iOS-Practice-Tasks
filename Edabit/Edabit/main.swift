@@ -360,4 +360,7 @@ let absoluteSum = AbsoluteSum()
 //print(absoluteSum.getAbsSum([-3, -4, -10, -2, -3]))
 
 let charCount = CharCount()
-print(charCount.charCount("b", "big fat bubble"))
+//print(charCount.charCount("b", "big fat bubble"))
+
+let fourLetters = FourLetters()
+print(fourLetters.isFourLetters(["Kangaroo", "Bear", "Fox"]))
