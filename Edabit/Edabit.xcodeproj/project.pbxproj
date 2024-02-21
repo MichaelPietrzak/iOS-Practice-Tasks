@@ -99,6 +99,7 @@
 		4CB70C862B73CE8A00E688DB /* Amazing Edabit.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4CB70C852B73CE8A00E688DB /* Amazing Edabit.swift */; };
 		4CB99E4A2B63EE7E002FC554 /* Minimal1- If boolean then boolean.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4CB99E492B63EE7E002FC554 /* Minimal1- If boolean then boolean.swift */; };
 		4CB99E4C2B63F0A8002FC554 /* Fix the expression.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4CB99E4B2B63F0A8002FC554 /* Fix the expression.swift */; };
+		4CC0FB892B86644600F4D774 /* Integer digits count.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4CC0FB882B86644600F4D774 /* Integer digits count.swift */; };
 		4CC3A66B2B6D28E000C72829 /* Free coffee cups.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4CC3A66A2B6D28E000C72829 /* Free coffee cups.swift */; };
 		4CC3A66D2B6D382200C72829 /* Return last element in array.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4CC3A66C2B6D382200C72829 /* Return last element in array.swift */; };
 		4CD066D72B69A7CA008952D1 /* Movie theatre admittance.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4CD066D62B69A7CA008952D1 /* Movie theatre admittance.swift */; };
@@ -228,6 +229,7 @@
 		4CB70C852B73CE8A00E688DB /* Amazing Edabit.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "Amazing Edabit.swift"; sourceTree = "<group>"; };
 		4CB99E492B63EE7E002FC554 /* Minimal1- If boolean then boolean.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "Minimal1- If boolean then boolean.swift"; sourceTree = "<group>"; };
 		4CB99E4B2B63F0A8002FC554 /* Fix the expression.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "Fix the expression.swift"; sourceTree = "<group>"; };
+		4CC0FB882B86644600F4D774 /* Integer digits count.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "Integer digits count.swift"; sourceTree = "<group>"; };
 		4CC3A66A2B6D28E000C72829 /* Free coffee cups.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "Free coffee cups.swift"; sourceTree = "<group>"; };
 		4CC3A66C2B6D382200C72829 /* Return last element in array.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "Return last element in array.swift"; sourceTree = "<group>"; };
 		4CD066D62B69A7CA008952D1 /* Movie theatre admittance.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "Movie theatre admittance.swift"; sourceTree = "<group>"; };
@@ -394,6 +396,7 @@
 				4CFB81652B853E3200D17CFF /* Additive inverse.swift */,
 				4CFB81672B85409F00D17CFF /* Between words.swift */,
 				4CFB81692B854AAA00D17CFF /* Chinese zodiac.swift */,
+				4CC0FB882B86644600F4D774 /* Integer digits count.swift */,
 			);
 			path = Edabit;
 			sourceTree = "<group>";
@@ -506,6 +509,7 @@
 				4CA90F302B6A62B000397D78 /* Area of rectangle.swift in Sources */,
 				4C37AC962B7ABCF5000B6062 /* Buggy Code.swift in Sources */,
 				4C9DA8872B595D22003E4612 /* Divides Evenly.swift in Sources */,
+				4CC0FB892B86644600F4D774 /* Integer digits count.swift in Sources */,
 				4C26AAAD2B52AD7D0038E064 /* Return the first element in array.swift in Sources */,
 				4CB99E4C2B63F0A8002FC554 /* Fix the expression.swift in Sources */,
 				4CF7B5632B76591300F0D2FB /* Find total number of digits the number has.swift in Sources */,

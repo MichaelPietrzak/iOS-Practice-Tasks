@@ -345,4 +345,7 @@ let betweenWords = BetweenWords()
 //print(betweenWords.isBetween("bookend", "boolean", "boost"))
 
 let chineseZodiacYear = ChineseZodiac()
-print(chineseZodiacYear.chineseZodiac(2021))
+//print(chineseZodiacYear.chineseZodiac(2021))
+
+let digitCount = DigitsCount()
+print(digitCount.count(-92563))
