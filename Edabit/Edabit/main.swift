@@ -342,4 +342,7 @@ let additiveNums = AdditiveInverse()
 //print(additiveNums.additiveInverse([5, -7, 8, 3]))
  
 let betweenWords = BetweenWords()
-print(betweenWords.isBetween("bookend", "boolean", "boost"))
+//print(betweenWords.isBetween("bookend", "boolean", "boost"))
+
+let chineseZodiacYear = ChineseZodiac()
+print(chineseZodiacYear.chineseZodiac(2021))

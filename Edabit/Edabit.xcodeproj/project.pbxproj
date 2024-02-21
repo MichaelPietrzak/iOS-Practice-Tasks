@@ -116,6 +116,7 @@
 		4CFB81642B84E67300D17CFF /* Filter repeating character strings.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4CFB81632B84E67300D17CFF /* Filter repeating character strings.swift */; };
 		4CFB81662B853E3200D17CFF /* Additive inverse.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4CFB81652B853E3200D17CFF /* Additive inverse.swift */; };
 		4CFB81682B85409F00D17CFF /* Between words.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4CFB81672B85409F00D17CFF /* Between words.swift */; };
+		4CFB816A2B854AAA00D17CFF /* Chinese zodiac.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4CFB81692B854AAA00D17CFF /* Chinese zodiac.swift */; };
 		4CFF792E2B5FF4CE006F2004 /* Are the number if equal.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4CFF792D2B5FF4CE006F2004 /* Are the number if equal.swift */; };
 		4CFF79302B5FF70B006F2004 /* Concatenating two integer arrays.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4CFF792F2B5FF70B006F2004 /* Concatenating two integer arrays.swift */; };
 		4CFF79322B5FF8A3006F2004 /* Multiple of 100.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4CFF79312B5FF8A3006F2004 /* Multiple of 100.swift */; };
@@ -244,6 +245,7 @@
 		4CFB81632B84E67300D17CFF /* Filter repeating character strings.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "Filter repeating character strings.swift"; sourceTree = "<group>"; };
 		4CFB81652B853E3200D17CFF /* Additive inverse.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "Additive inverse.swift"; sourceTree = "<group>"; };
 		4CFB81672B85409F00D17CFF /* Between words.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "Between words.swift"; sourceTree = "<group>"; };
+		4CFB81692B854AAA00D17CFF /* Chinese zodiac.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "Chinese zodiac.swift"; sourceTree = "<group>"; };
 		4CFF792D2B5FF4CE006F2004 /* Are the number if equal.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "Are the number if equal.swift"; sourceTree = "<group>"; };
 		4CFF792F2B5FF70B006F2004 /* Concatenating two integer arrays.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "Concatenating two integer arrays.swift"; sourceTree = "<group>"; };
 		4CFF79312B5FF8A3006F2004 /* Multiple of 100.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "Multiple of 100.swift"; sourceTree = "<group>"; };
@@ -391,6 +393,7 @@
 				4CFB81632B84E67300D17CFF /* Filter repeating character strings.swift */,
 				4CFB81652B853E3200D17CFF /* Additive inverse.swift */,
 				4CFB81672B85409F00D17CFF /* Between words.swift */,
+				4CFB81692B854AAA00D17CFF /* Chinese zodiac.swift */,
 			);
 			path = Edabit;
 			sourceTree = "<group>";
@@ -470,6 +473,7 @@
 				4C134C1B2B62A4040002ED5E /* Is the string empty.swift in Sources */,
 				4C87F73C2B7E45A800DB2E31 /* How much is true.swift in Sources */,
 				4C3B72FA2B5D9D8A00B84120 /* The farm problem.swift in Sources */,
+				4CFB816A2B854AAA00D17CFF /* Chinese zodiac.swift in Sources */,
 				4CD43B6B2B6F9F2B00F5AA79 /* The modulus operator function.swift in Sources */,
 				4C2771D52B61753800130332 /* Football Points.swift in Sources */,
 				4C6780B72B5AB020006E4691 /* Concatenate First and Last Name into String.swift in Sources */,
