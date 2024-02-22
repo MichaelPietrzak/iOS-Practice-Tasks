@@ -363,4 +363,7 @@ let charCount = CharCount()
 //print(charCount.charCount("b", "big fat bubble"))
 
 let fourLetters = FourLetters()
-print(fourLetters.isFourLetters(["Kangaroo", "Bear", "Fox"]))
+//print(fourLetters.isFourLetters(["Kangaroo", "Bear", "Fox"]))
+
+let uniqueArr = PurgeOrganize()
+print(uniqueArr.uniqueSort([6, 7, 3, 2, 1, 1, 7]))

@@ -17,6 +17,7 @@
 		4C10BE2D2B7CD17A0058C33A /* Max weight allowed.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4C10BE2C2B7CD17A0058C33A /* Max weight allowed.swift */; };
 		4C134C1B2B62A4040002ED5E /* Is the string empty.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4C134C1A2B62A4040002ED5E /* Is the string empty.swift */; };
 		4C134C1D2B62A7770002ED5E /* Using the && Operator.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4C134C1C2B62A7770002ED5E /* Using the && Operator.swift */; };
+		4C13AFC92B876462009D461F /* Purge and organize.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4C13AFC82B876462009D461F /* Purge and organize.swift */; };
 		4C1A5F6C2B6FD1D000B460F0 /* Return a string as integer.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4C1A5F6B2B6FD1D000B460F0 /* Return a string as integer.swift */; };
 		4C1AD32A2B5D9B46007244B3 /* Convert hours and minutes into seconds.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4C1AD3292B5D9B46007244B3 /* Convert hours and minutes into seconds.swift */; };
 		4C1AEB4C2B55E1E7001093F4 /* Basic Variable Assignment.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4C1AEB4B2B55E1E7001093F4 /* Basic Variable Assignment.swift */; };
@@ -151,6 +152,7 @@
 		4C10BE2C2B7CD17A0058C33A /* Max weight allowed.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "Max weight allowed.swift"; sourceTree = "<group>"; };
 		4C134C1A2B62A4040002ED5E /* Is the string empty.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "Is the string empty.swift"; sourceTree = "<group>"; };
 		4C134C1C2B62A7770002ED5E /* Using the && Operator.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "Using the && Operator.swift"; sourceTree = "<group>"; };
+		4C13AFC82B876462009D461F /* Purge and organize.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "Purge and organize.swift"; sourceTree = "<group>"; };
 		4C1A5F6B2B6FD1D000B460F0 /* Return a string as integer.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "Return a string as integer.swift"; sourceTree = "<group>"; };
 		4C1AD3292B5D9B46007244B3 /* Convert hours and minutes into seconds.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "Convert hours and minutes into seconds.swift"; sourceTree = "<group>"; };
 		4C1AEB4B2B55E1E7001093F4 /* Basic Variable Assignment.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "Basic Variable Assignment.swift"; sourceTree = "<group>"; };
@@ -412,6 +414,7 @@
 				4C621C622B868F3E0046237F /* Absolute sum.swift */,
 				4C621C642B869CCE0046237F /* Count instances of character in string.swift */,
 				4C621C662B86B6FE0046237F /* Four letter strings.swift */,
+				4C13AFC82B876462009D461F /* Purge and organize.swift */,
 			);
 			path = Edabit;
 			sourceTree = "<group>";
@@ -474,6 +477,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				4C13AFC92B876462009D461F /* Purge and organize.swift in Sources */,
 				4C8231032B7F847C008C39B2 /* Find the smallest number in array.swift in Sources */,
 				4C10BE252B7CAF3D0058C33A /* Return number of parameters.swift in Sources */,
 				4C828FAD2B56D0CE0042153A /* Correct the Mistakes.swift in Sources */,
