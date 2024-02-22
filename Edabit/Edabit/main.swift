@@ -372,4 +372,7 @@ let factorizeNum = Factorize()
 //print(factorizeNum.factorize(12))
 
 let matrix = DeterminantMatrix()
-print(matrix.calcDeterminant([[1, 2], [3, 4]]))
+//print(matrix.calcDeterminant([[1, 2], [3, 4]]))
+
+let oddProduct = OddProduct()
+print(oddProduct.oddProduct([5, 5, 8, 2, 4, 32]))
