@@ -18,6 +18,7 @@
 		4C134C1B2B62A4040002ED5E /* Is the string empty.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4C134C1A2B62A4040002ED5E /* Is the string empty.swift */; };
 		4C134C1D2B62A7770002ED5E /* Using the && Operator.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4C134C1C2B62A7770002ED5E /* Using the && Operator.swift */; };
 		4C13AFC92B876462009D461F /* Purge and organize.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4C13AFC82B876462009D461F /* Purge and organize.swift */; };
+		4C13AFCB2B8765E4009D461F /* Factorize number.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4C13AFCA2B8765E4009D461F /* Factorize number.swift */; };
 		4C1A5F6C2B6FD1D000B460F0 /* Return a string as integer.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4C1A5F6B2B6FD1D000B460F0 /* Return a string as integer.swift */; };
 		4C1AD32A2B5D9B46007244B3 /* Convert hours and minutes into seconds.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4C1AD3292B5D9B46007244B3 /* Convert hours and minutes into seconds.swift */; };
 		4C1AEB4C2B55E1E7001093F4 /* Basic Variable Assignment.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4C1AEB4B2B55E1E7001093F4 /* Basic Variable Assignment.swift */; };
@@ -153,6 +154,7 @@
 		4C134C1A2B62A4040002ED5E /* Is the string empty.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "Is the string empty.swift"; sourceTree = "<group>"; };
 		4C134C1C2B62A7770002ED5E /* Using the && Operator.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "Using the && Operator.swift"; sourceTree = "<group>"; };
 		4C13AFC82B876462009D461F /* Purge and organize.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "Purge and organize.swift"; sourceTree = "<group>"; };
+		4C13AFCA2B8765E4009D461F /* Factorize number.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "Factorize number.swift"; sourceTree = "<group>"; };
 		4C1A5F6B2B6FD1D000B460F0 /* Return a string as integer.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "Return a string as integer.swift"; sourceTree = "<group>"; };
 		4C1AD3292B5D9B46007244B3 /* Convert hours and minutes into seconds.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "Convert hours and minutes into seconds.swift"; sourceTree = "<group>"; };
 		4C1AEB4B2B55E1E7001093F4 /* Basic Variable Assignment.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "Basic Variable Assignment.swift"; sourceTree = "<group>"; };
@@ -415,6 +417,7 @@
 				4C621C642B869CCE0046237F /* Count instances of character in string.swift */,
 				4C621C662B86B6FE0046237F /* Four letter strings.swift */,
 				4C13AFC82B876462009D461F /* Purge and organize.swift */,
+				4C13AFCA2B8765E4009D461F /* Factorize number.swift */,
 			);
 			path = Edabit;
 			sourceTree = "<group>";
@@ -551,6 +554,7 @@
 				4C5F31282B5427BF0013E75E /* Power Calculator.swift in Sources */,
 				4CD066D72B69A7CA008952D1 /* Movie theatre admittance.swift in Sources */,
 				4C37AC8E2B7AB085000B6062 /* Convert numbers to string of dashes.swift in Sources */,
+				4C13AFCB2B8765E4009D461F /* Factorize number.swift in Sources */,
 				4C35E7392B725C1B002BFF78 /* Hello-Hello World-World.swift in Sources */,
 				4C5CCD972B7A65060047090B /* Missing third angle.swift in Sources */,
 				4C37AC942B7ABAAC000B6062 /* Hurdle jump.swift in Sources */,
