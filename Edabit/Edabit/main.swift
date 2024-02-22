@@ -369,4 +369,7 @@ let uniqueArr = PurgeOrganize()
 //print(uniqueArr.uniqueSort([6, 7, 3, 2, 1, 1, 7]))
 
 let factorizeNum = Factorize()
-print(factorizeNum.factorize(12))
+//print(factorizeNum.factorize(12))
+
+let matrix = DeterminantMatrix()
+print(matrix.calcDeterminant([[1, 2], [3, 4]]))

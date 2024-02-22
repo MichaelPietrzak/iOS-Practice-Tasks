@@ -19,6 +19,7 @@
 		4C134C1D2B62A7770002ED5E /* Using the && Operator.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4C134C1C2B62A7770002ED5E /* Using the && Operator.swift */; };
 		4C13AFC92B876462009D461F /* Purge and organize.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4C13AFC82B876462009D461F /* Purge and organize.swift */; };
 		4C13AFCB2B8765E4009D461F /* Factorize number.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4C13AFCA2B8765E4009D461F /* Factorize number.swift */; };
+		4C13AFCD2B876ABA009D461F /* Calculate determinant 2x2 Matrix.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4C13AFCC2B876ABA009D461F /* Calculate determinant 2x2 Matrix.swift */; };
 		4C1A5F6C2B6FD1D000B460F0 /* Return a string as integer.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4C1A5F6B2B6FD1D000B460F0 /* Return a string as integer.swift */; };
 		4C1AD32A2B5D9B46007244B3 /* Convert hours and minutes into seconds.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4C1AD3292B5D9B46007244B3 /* Convert hours and minutes into seconds.swift */; };
 		4C1AEB4C2B55E1E7001093F4 /* Basic Variable Assignment.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4C1AEB4B2B55E1E7001093F4 /* Basic Variable Assignment.swift */; };
@@ -155,6 +156,7 @@
 		4C134C1C2B62A7770002ED5E /* Using the && Operator.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "Using the && Operator.swift"; sourceTree = "<group>"; };
 		4C13AFC82B876462009D461F /* Purge and organize.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "Purge and organize.swift"; sourceTree = "<group>"; };
 		4C13AFCA2B8765E4009D461F /* Factorize number.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "Factorize number.swift"; sourceTree = "<group>"; };
+		4C13AFCC2B876ABA009D461F /* Calculate determinant 2x2 Matrix.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "Calculate determinant 2x2 Matrix.swift"; sourceTree = "<group>"; };
 		4C1A5F6B2B6FD1D000B460F0 /* Return a string as integer.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "Return a string as integer.swift"; sourceTree = "<group>"; };
 		4C1AD3292B5D9B46007244B3 /* Convert hours and minutes into seconds.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "Convert hours and minutes into seconds.swift"; sourceTree = "<group>"; };
 		4C1AEB4B2B55E1E7001093F4 /* Basic Variable Assignment.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "Basic Variable Assignment.swift"; sourceTree = "<group>"; };
@@ -418,6 +420,7 @@
 				4C621C662B86B6FE0046237F /* Four letter strings.swift */,
 				4C13AFC82B876462009D461F /* Purge and organize.swift */,
 				4C13AFCA2B8765E4009D461F /* Factorize number.swift */,
+				4C13AFCC2B876ABA009D461F /* Calculate determinant 2x2 Matrix.swift */,
 			);
 			path = Edabit;
 			sourceTree = "<group>";
@@ -507,6 +510,7 @@
 				4C7659782B4D5E6E0023DF20 /* Area of a Triangle.swift in Sources */,
 				4C35E7372B723EC0002BFF78 /* Nth even number.swift in Sources */,
 				4C3B72FE2B5DA26500B84120 /* Boolean to String conversion.swift in Sources */,
+				4C13AFCD2B876ABA009D461F /* Calculate determinant 2x2 Matrix.swift in Sources */,
 				4CD43B692B6F9B6B00F5AA79 /* Check if array contains a number.swift in Sources */,
 				4C22F1BB2B797A7F00386740 /* Check if the same case.swift in Sources */,
 				4C8231052B7F8681008C39B2 /* Generate countdown of numbers in array.swift in Sources */,
