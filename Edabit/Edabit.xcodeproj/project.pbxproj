@@ -60,6 +60,7 @@
 		4C5C609A2B88AF04008B9723 /* Equality of 3 values.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4C5C60992B88AF04008B9723 /* Equality of 3 values.swift */; };
 		4C5C609C2B88B492008B9723 /* Sum of cubes.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4C5C609B2B88B492008B9723 /* Sum of cubes.swift */; };
 		4C5C609E2B88B725008B9723 /* Odd up, even down.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4C5C609D2B88B725008B9723 /* Odd up, even down.swift */; };
+		4C5C60A02B88C2F2008B9723 /* To the power.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4C5C609F2B88C2F2008B9723 /* To the power.swift */; };
 		4C5CCD972B7A65060047090B /* Missing third angle.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4C5CCD962B7A65060047090B /* Missing third angle.swift */; };
 		4C5F31282B5427BF0013E75E /* Power Calculator.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4C5F31272B5427BF0013E75E /* Power Calculator.swift */; };
 		4C5F312A2B5428CD0013E75E /* Inches to Feet.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4C5F31292B5428CC0013E75E /* Inches to Feet.swift */; };
@@ -202,6 +203,7 @@
 		4C5C60992B88AF04008B9723 /* Equality of 3 values.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "Equality of 3 values.swift"; sourceTree = "<group>"; };
 		4C5C609B2B88B492008B9723 /* Sum of cubes.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "Sum of cubes.swift"; sourceTree = "<group>"; };
 		4C5C609D2B88B725008B9723 /* Odd up, even down.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "Odd up, even down.swift"; sourceTree = "<group>"; };
+		4C5C609F2B88C2F2008B9723 /* To the power.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "To the power.swift"; sourceTree = "<group>"; };
 		4C5CCD962B7A65060047090B /* Missing third angle.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "Missing third angle.swift"; sourceTree = "<group>"; };
 		4C5F31272B5427BF0013E75E /* Power Calculator.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "Power Calculator.swift"; sourceTree = "<group>"; };
 		4C5F31292B5428CC0013E75E /* Inches to Feet.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "Inches to Feet.swift"; sourceTree = "<group>"; };
@@ -433,6 +435,7 @@
 				4C5C60992B88AF04008B9723 /* Equality of 3 values.swift */,
 				4C5C609B2B88B492008B9723 /* Sum of cubes.swift */,
 				4C5C609D2B88B725008B9723 /* Odd up, even down.swift */,
+				4C5C609F2B88C2F2008B9723 /* To the power.swift */,
 			);
 			path = Edabit;
 			sourceTree = "<group>";
@@ -502,6 +505,7 @@
 				4CFF792E2B5FF4CE006F2004 /* Are the number if equal.swift in Sources */,
 				4C35E73D2B726B30002BFF78 /* No conditionals.swift in Sources */,
 				4CA90F2C2B6A4CBB00397D78 /* Buggy Code - Part 3.swift in Sources */,
+				4C5C60A02B88C2F2008B9723 /* To the power.swift in Sources */,
 				4C6ADD0D2B4E8EF50087971C /* Find the Perimeter of a Rectangle.swift in Sources */,
 				4C1A5F6C2B6FD1D000B460F0 /* Return a string as integer.swift in Sources */,
 				4CB70C822B73C5D400E688DB /* Buggy code - Part 5.swift in Sources */,

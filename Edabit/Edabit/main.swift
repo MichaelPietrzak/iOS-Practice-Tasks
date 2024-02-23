@@ -384,4 +384,7 @@ let cubes = SumOfCubes()
 //print(cubes.sumOfCubes([3, 4, 5]))
 
 let transformArr = Transform()
-print(transformArr.transform([1, 2, 3, 4, 5]))
+//print(transformArr.transform([1, 2, 3, 4, 5]))
+
+let powerCalc = ToThePower()
+print(powerCalc.calculateExponent(5, 5))
