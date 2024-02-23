@@ -375,4 +375,7 @@ let matrix = DeterminantMatrix()
 //print(matrix.calcDeterminant([[1, 2], [3, 4]]))
 
 let oddProduct = OddProduct()
-print(oddProduct.oddProduct([5, 5, 8, 2, 4, 32]))
+//print(oddProduct.oddProduct([5, 5, 8, 2, 4, 32]))
+
+let equalValue = EqualityValues()
+print(equalValue.equal(3, 4, 3))

@@ -57,6 +57,7 @@
 		4C4B58752B74E265005F61B9 /* Maximum difference.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4C4B58742B74E265005F61B9 /* Maximum difference.swift */; };
 		4C5462292B6BB03F0045E851 /* Return negative.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4C5462282B6BB03F0045E851 /* Return negative.swift */; };
 		4C54622B2B6BB56B0045E851 /* Reverse an array.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4C54622A2B6BB56B0045E851 /* Reverse an array.swift */; };
+		4C5C609A2B88AF04008B9723 /* Equality of 3 values.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4C5C60992B88AF04008B9723 /* Equality of 3 values.swift */; };
 		4C5CCD972B7A65060047090B /* Missing third angle.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4C5CCD962B7A65060047090B /* Missing third angle.swift */; };
 		4C5F31282B5427BF0013E75E /* Power Calculator.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4C5F31272B5427BF0013E75E /* Power Calculator.swift */; };
 		4C5F312A2B5428CD0013E75E /* Inches to Feet.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4C5F31292B5428CC0013E75E /* Inches to Feet.swift */; };
@@ -196,6 +197,7 @@
 		4C4B58742B74E265005F61B9 /* Maximum difference.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "Maximum difference.swift"; sourceTree = "<group>"; };
 		4C5462282B6BB03F0045E851 /* Return negative.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "Return negative.swift"; sourceTree = "<group>"; };
 		4C54622A2B6BB56B0045E851 /* Reverse an array.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "Reverse an array.swift"; sourceTree = "<group>"; };
+		4C5C60992B88AF04008B9723 /* Equality of 3 values.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "Equality of 3 values.swift"; sourceTree = "<group>"; };
 		4C5CCD962B7A65060047090B /* Missing third angle.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "Missing third angle.swift"; sourceTree = "<group>"; };
 		4C5F31272B5427BF0013E75E /* Power Calculator.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "Power Calculator.swift"; sourceTree = "<group>"; };
 		4C5F31292B5428CC0013E75E /* Inches to Feet.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "Inches to Feet.swift"; sourceTree = "<group>"; };
@@ -424,6 +426,7 @@
 				4C13AFCA2B8765E4009D461F /* Factorize number.swift */,
 				4C13AFCC2B876ABA009D461F /* Calculate determinant 2x2 Matrix.swift */,
 				4C13AFCE2B878EB3009D461F /* Product of all odd integers.swift */,
+				4C5C60992B88AF04008B9723 /* Equality of 3 values.swift */,
 			);
 			path = Edabit;
 			sourceTree = "<group>";
@@ -597,6 +600,7 @@
 				4C35E73B2B726854002BFF78 /* Triangular number sequence.swift in Sources */,
 				4CA90F282B6A436000397D78 /* Two makes ten.swift in Sources */,
 				4CF7B5572B763C4000F0D2FB /* Leap year function.swift in Sources */,
+				4C5C609A2B88AF04008B9723 /* Equality of 3 values.swift in Sources */,
 				4C22F1B32B79712D00386740 /* Largest number in array.swift in Sources */,
 				4CFB81682B85409F00D17CFF /* Between words.swift in Sources */,
 				4C76597A2B4D62AB0023DF20 /* Return Next Number from the Integer Passed.swift in Sources */,
