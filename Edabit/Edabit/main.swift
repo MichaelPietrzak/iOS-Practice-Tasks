@@ -378,4 +378,7 @@ let oddProduct = OddProduct()
 //print(oddProduct.oddProduct([5, 5, 8, 2, 4, 32]))
 
 let equalValue = EqualityValues()
-print(equalValue.equal(3, 4, 3))
+//print(equalValue.equal(3, 4, 3))
+
+let cubes = SumOfCubes()
+print(cubes.sumOfCubes([3, 4, 5]))
