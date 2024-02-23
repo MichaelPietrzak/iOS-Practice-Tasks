@@ -381,4 +381,7 @@ let equalValue = EqualityValues()
 //print(equalValue.equal(3, 4, 3))
 
 let cubes = SumOfCubes()
-print(cubes.sumOfCubes([3, 4, 5]))
+//print(cubes.sumOfCubes([3, 4, 5]))
+
+let transformArr = Transform()
+print(transformArr.transform([1, 2, 3, 4, 5]))
