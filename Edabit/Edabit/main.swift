@@ -387,4 +387,7 @@ let transformArr = Transform()
 //print(transformArr.transform([1, 2, 3, 4, 5]))
 
 let powerCalc = ToThePower()
-print(powerCalc.calculateExponent(5, 5))
+//print(powerCalc.calculateExponent(5, 5))
+
+let minimumRemovals = MinimumRemovals()
+print(minimumRemovals.minimumRemovals([5, 7, 9, 12]))
