@@ -390,4 +390,7 @@ let powerCalc = ToThePower()
 //print(powerCalc.calculateExponent(5, 5))
 
 let minimumRemovals = MinimumRemovals()
-print(minimumRemovals.minimumRemovals([5, 7, 9, 12]))
+//print(minimumRemovals.minimumRemovals([5, 7, 9, 12]))
+
+let omnipresentArr = Omnipresent()
+print(omnipresentArr.isOmnipresent([[1, 1], [1, 3], [5, 1], [6, 1]], 6))
