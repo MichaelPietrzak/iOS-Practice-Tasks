@@ -396,4 +396,7 @@ let omnipresentArr = Omnipresent()
 //print(omnipresentArr.isOmnipresent([[1, 1], [1, 3], [5, 1], [6, 1]], 6))
 
 let strangePair = StrangePair()
-print(strangePair.isStrangePair("bush", "hubris"))
+//print(strangePair.isStrangePair("bush", "hubris"))
+
+let capNames = CapitalizeNames()
+print(capNames.capMe(["samuel", "MABELLE", "letitia", "meridith"]))

@@ -55,6 +55,7 @@
 		4C3DFB2D2B8E0A8000C065B1 /* Minimum removals to make sum even.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4C3DFB2C2B8E0A8000C065B1 /* Minimum removals to make sum even.swift */; };
 		4C3DFB2F2B8E0FE100C065B1 /* Omnipresent value.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4C3DFB2E2B8E0FE100C065B1 /* Omnipresent value.swift */; };
 		4C3DFB312B8E3B2D00C065B1 /* Strange pair.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4C3DFB302B8E3B2D00C065B1 /* Strange pair.swift */; };
+		4C3DFB332B8E3DD400C065B1 /* Capitalize the names.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4C3DFB322B8E3DD400C065B1 /* Capitalize the names.swift */; };
 		4C4B3C722B6939E8005A1EE5 /* Frames per second.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4C4B3C712B6939E8005A1EE5 /* Frames per second.swift */; };
 		4C4B3C742B693F53005A1EE5 /* Flip the boolean.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4C4B3C732B693F53005A1EE5 /* Flip the boolean.swift */; };
 		4C4B58752B74E265005F61B9 /* Maximum difference.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4C4B58742B74E265005F61B9 /* Maximum difference.swift */; };
@@ -201,6 +202,7 @@
 		4C3DFB2C2B8E0A8000C065B1 /* Minimum removals to make sum even.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "Minimum removals to make sum even.swift"; sourceTree = "<group>"; };
 		4C3DFB2E2B8E0FE100C065B1 /* Omnipresent value.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "Omnipresent value.swift"; sourceTree = "<group>"; };
 		4C3DFB302B8E3B2D00C065B1 /* Strange pair.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "Strange pair.swift"; sourceTree = "<group>"; };
+		4C3DFB322B8E3DD400C065B1 /* Capitalize the names.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "Capitalize the names.swift"; sourceTree = "<group>"; };
 		4C4B3C712B6939E8005A1EE5 /* Frames per second.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "Frames per second.swift"; sourceTree = "<group>"; };
 		4C4B3C732B693F53005A1EE5 /* Flip the boolean.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "Flip the boolean.swift"; sourceTree = "<group>"; };
 		4C4B58742B74E265005F61B9 /* Maximum difference.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "Maximum difference.swift"; sourceTree = "<group>"; };
@@ -445,6 +447,7 @@
 				4C3DFB2C2B8E0A8000C065B1 /* Minimum removals to make sum even.swift */,
 				4C3DFB2E2B8E0FE100C065B1 /* Omnipresent value.swift */,
 				4C3DFB302B8E3B2D00C065B1 /* Strange pair.swift */,
+				4C3DFB322B8E3DD400C065B1 /* Capitalize the names.swift */,
 			);
 			path = Edabit;
 			sourceTree = "<group>";
@@ -522,6 +525,7 @@
 				4C10BE292B7CB8550058C33A /* Average of elements as whole number.swift in Sources */,
 				4C5462292B6BB03F0045E851 /* Return negative.swift in Sources */,
 				4CA90F322B6A661700397D78 /* Buggy code - Part 4.swift in Sources */,
+				4C3DFB332B8E3DD400C065B1 /* Capitalize the names.swift in Sources */,
 				4C22F1B52B79725100386740 /* Difference of max and min numbers in array.swift in Sources */,
 				4C134C1B2B62A4040002ED5E /* Is the string empty.swift in Sources */,
 				4C87F73C2B7E45A800DB2E31 /* How much is true.swift in Sources */,
