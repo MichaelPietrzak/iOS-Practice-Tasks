@@ -402,4 +402,7 @@ let capNames = CapitalizeNames()
 //print(capNames.capMe(["samuel", "MABELLE", "letitia", "meridith"]))
 
 let matchHouses = MatchstickHouse()
-print(matchHouses.matchHouses(87))
+//print(matchHouses.matchHouses(87))
+
+let existsHigher = ExistsHigher()
+print(existsHigher.existsHigher([1, 2, 3, 4, 5], 8))
