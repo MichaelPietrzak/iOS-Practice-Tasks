@@ -408,4 +408,7 @@ let existsHigher = ExistsHigher()
 //print(existsHigher.existsHigher([1, 2, 3, 4, 5], 8))
 
 let reverseWords = ReverseWords()
-print(reverseWords.reverse("This is a typical sentence."))
+//print(reverseWords.reverse("This is a typical sentence."))
+
+let quadraticSolutions = QuadraticSolutions()
+print(quadraticSolutions.solutions(1, 0, 0))
