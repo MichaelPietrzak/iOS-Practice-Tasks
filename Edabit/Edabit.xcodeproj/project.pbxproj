@@ -58,6 +58,7 @@
 		4C3DFB332B8E3DD400C065B1 /* Capitalize the names.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4C3DFB322B8E3DD400C065B1 /* Capitalize the names.swift */; };
 		4C46C79F2B8F36E700558986 /* Matchstick houses.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4C46C79E2B8F36E700558986 /* Matchstick houses.swift */; };
 		4C46C7A12B8F39BD00558986 /* Exists a number higher.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4C46C7A02B8F39BD00558986 /* Exists a number higher.swift */; };
+		4C46C7A32B8F416A00558986 /* Reverse order of words.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4C46C7A22B8F416A00558986 /* Reverse order of words.swift */; };
 		4C4B3C722B6939E8005A1EE5 /* Frames per second.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4C4B3C712B6939E8005A1EE5 /* Frames per second.swift */; };
 		4C4B3C742B693F53005A1EE5 /* Flip the boolean.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4C4B3C732B693F53005A1EE5 /* Flip the boolean.swift */; };
 		4C4B58752B74E265005F61B9 /* Maximum difference.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4C4B58742B74E265005F61B9 /* Maximum difference.swift */; };
@@ -207,6 +208,7 @@
 		4C3DFB322B8E3DD400C065B1 /* Capitalize the names.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "Capitalize the names.swift"; sourceTree = "<group>"; };
 		4C46C79E2B8F36E700558986 /* Matchstick houses.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "Matchstick houses.swift"; sourceTree = "<group>"; };
 		4C46C7A02B8F39BD00558986 /* Exists a number higher.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "Exists a number higher.swift"; sourceTree = "<group>"; };
+		4C46C7A22B8F416A00558986 /* Reverse order of words.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "Reverse order of words.swift"; sourceTree = "<group>"; };
 		4C4B3C712B6939E8005A1EE5 /* Frames per second.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "Frames per second.swift"; sourceTree = "<group>"; };
 		4C4B3C732B693F53005A1EE5 /* Flip the boolean.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "Flip the boolean.swift"; sourceTree = "<group>"; };
 		4C4B58742B74E265005F61B9 /* Maximum difference.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "Maximum difference.swift"; sourceTree = "<group>"; };
@@ -454,6 +456,7 @@
 				4C3DFB322B8E3DD400C065B1 /* Capitalize the names.swift */,
 				4C46C79E2B8F36E700558986 /* Matchstick houses.swift */,
 				4C46C7A02B8F39BD00558986 /* Exists a number higher.swift */,
+				4C46C7A22B8F416A00558986 /* Reverse order of words.swift */,
 			);
 			path = Edabit;
 			sourceTree = "<group>";
@@ -627,6 +630,7 @@
 				4C85F4582B71086C00856305 /* Re-form the word.swift in Sources */,
 				4C621C652B869CCE0046237F /* Count instances of character in string.swift in Sources */,
 				4C87F73A2B7E43B200DB2E31 /* Find the discount.swift in Sources */,
+				4C46C7A32B8F416A00558986 /* Reverse order of words.swift in Sources */,
 				4C54622B2B6BB56B0045E851 /* Reverse an array.swift in Sources */,
 				4C3DFB2D2B8E0A8000C065B1 /* Minimum removals to make sum even.swift in Sources */,
 				4C87F7382B7E41F900DB2E31 /* Alphabet soup.swift in Sources */,

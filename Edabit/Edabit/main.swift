@@ -405,4 +405,7 @@ let matchHouses = MatchstickHouse()
 //print(matchHouses.matchHouses(87))
 
 let existsHigher = ExistsHigher()
-print(existsHigher.existsHigher([1, 2, 3, 4, 5], 8))
+//print(existsHigher.existsHigher([1, 2, 3, 4, 5], 8))
+
+let reverseWords = ReverseWords()
+print(reverseWords.reverse("This is a typical sentence."))
