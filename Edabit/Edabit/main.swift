@@ -399,4 +399,7 @@ let strangePair = StrangePair()
 //print(strangePair.isStrangePair("bush", "hubris"))
 
 let capNames = CapitalizeNames()
-print(capNames.capMe(["samuel", "MABELLE", "letitia", "meridith"]))
+//print(capNames.capMe(["samuel", "MABELLE", "letitia", "meridith"]))
+
+let matchHouses = MatchstickHouse()
+print(matchHouses.matchHouses(87))

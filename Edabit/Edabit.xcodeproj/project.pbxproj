@@ -56,6 +56,7 @@
 		4C3DFB2F2B8E0FE100C065B1 /* Omnipresent value.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4C3DFB2E2B8E0FE100C065B1 /* Omnipresent value.swift */; };
 		4C3DFB312B8E3B2D00C065B1 /* Strange pair.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4C3DFB302B8E3B2D00C065B1 /* Strange pair.swift */; };
 		4C3DFB332B8E3DD400C065B1 /* Capitalize the names.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4C3DFB322B8E3DD400C065B1 /* Capitalize the names.swift */; };
+		4C46C79F2B8F36E700558986 /* Matchstick houses.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4C46C79E2B8F36E700558986 /* Matchstick houses.swift */; };
 		4C4B3C722B6939E8005A1EE5 /* Frames per second.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4C4B3C712B6939E8005A1EE5 /* Frames per second.swift */; };
 		4C4B3C742B693F53005A1EE5 /* Flip the boolean.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4C4B3C732B693F53005A1EE5 /* Flip the boolean.swift */; };
 		4C4B58752B74E265005F61B9 /* Maximum difference.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4C4B58742B74E265005F61B9 /* Maximum difference.swift */; };
@@ -203,6 +204,7 @@
 		4C3DFB2E2B8E0FE100C065B1 /* Omnipresent value.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "Omnipresent value.swift"; sourceTree = "<group>"; };
 		4C3DFB302B8E3B2D00C065B1 /* Strange pair.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "Strange pair.swift"; sourceTree = "<group>"; };
 		4C3DFB322B8E3DD400C065B1 /* Capitalize the names.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "Capitalize the names.swift"; sourceTree = "<group>"; };
+		4C46C79E2B8F36E700558986 /* Matchstick houses.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "Matchstick houses.swift"; sourceTree = "<group>"; };
 		4C4B3C712B6939E8005A1EE5 /* Frames per second.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "Frames per second.swift"; sourceTree = "<group>"; };
 		4C4B3C732B693F53005A1EE5 /* Flip the boolean.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "Flip the boolean.swift"; sourceTree = "<group>"; };
 		4C4B58742B74E265005F61B9 /* Maximum difference.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "Maximum difference.swift"; sourceTree = "<group>"; };
@@ -448,6 +450,7 @@
 				4C3DFB2E2B8E0FE100C065B1 /* Omnipresent value.swift */,
 				4C3DFB302B8E3B2D00C065B1 /* Strange pair.swift */,
 				4C3DFB322B8E3DD400C065B1 /* Capitalize the names.swift */,
+				4C46C79E2B8F36E700558986 /* Matchstick houses.swift */,
 			);
 			path = Edabit;
 			sourceTree = "<group>";
@@ -510,6 +513,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				4C46C79F2B8F36E700558986 /* Matchstick houses.swift in Sources */,
 				4C13AFC92B876462009D461F /* Purge and organize.swift in Sources */,
 				4C8231032B7F847C008C39B2 /* Find the smallest number in array.swift in Sources */,
 				4C10BE252B7CAF3D0058C33A /* Return number of parameters.swift in Sources */,
