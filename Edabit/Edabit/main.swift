@@ -414,4 +414,7 @@ let quadraticSolutions = QuadraticSolutions()
 //print(quadraticSolutions.solutions(1, 0, 0))
 
 let littleDict = LittleDictionary()
-print(littleDict.dictionary("tri", ["triplet", "tries", "trip", "piano", "tree"]))
+//print(littleDict.dictionary("tri", ["triplet", "tries", "trip", "piano", "tree"]))
+
+let filterDigitLength = FilterDigitLength()
+print(filterDigitLength.filterDigitLength([88, 232, 4, 9721, 555], 3))
