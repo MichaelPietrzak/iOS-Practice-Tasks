@@ -83,6 +83,7 @@
 		4C6ADD0D2B4E8EF50087971C /* Find the Perimeter of a Rectangle.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4C6ADD0C2B4E8EF50087971C /* Find the Perimeter of a Rectangle.swift */; };
 		4C7659782B4D5E6E0023DF20 /* Area of a Triangle.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4C7659772B4D5E6E0023DF20 /* Area of a Triangle.swift */; };
 		4C76597A2B4D62AB0023DF20 /* Return Next Number from the Integer Passed.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4C7659792B4D62AB0023DF20 /* Return Next Number from the Integer Passed.swift */; };
+		4C7B8C912B935B9900483B5A /* Little dictionary.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4C7B8C902B935B9900483B5A /* Little dictionary.swift */; };
 		4C8231012B7F8289008C39B2 /* Even number generator.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4C8231002B7F8289008C39B2 /* Even number generator.swift */; };
 		4C8231032B7F847C008C39B2 /* Find the smallest number in array.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4C8231022B7F847C008C39B2 /* Find the smallest number in array.swift */; };
 		4C8231052B7F8681008C39B2 /* Generate countdown of numbers in array.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4C8231042B7F8681008C39B2 /* Generate countdown of numbers in array.swift */; };
@@ -234,6 +235,7 @@
 		4C6ADD0C2B4E8EF50087971C /* Find the Perimeter of a Rectangle.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "Find the Perimeter of a Rectangle.swift"; sourceTree = "<group>"; };
 		4C7659772B4D5E6E0023DF20 /* Area of a Triangle.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "Area of a Triangle.swift"; sourceTree = "<group>"; };
 		4C7659792B4D62AB0023DF20 /* Return Next Number from the Integer Passed.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "Return Next Number from the Integer Passed.swift"; sourceTree = "<group>"; };
+		4C7B8C902B935B9900483B5A /* Little dictionary.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "Little dictionary.swift"; sourceTree = "<group>"; };
 		4C8231002B7F8289008C39B2 /* Even number generator.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "Even number generator.swift"; sourceTree = "<group>"; };
 		4C8231022B7F847C008C39B2 /* Find the smallest number in array.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "Find the smallest number in array.swift"; sourceTree = "<group>"; };
 		4C8231042B7F8681008C39B2 /* Generate countdown of numbers in array.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "Generate countdown of numbers in array.swift"; sourceTree = "<group>"; };
@@ -460,6 +462,7 @@
 				4C46C7A02B8F39BD00558986 /* Exists a number higher.swift */,
 				4C46C7A22B8F416A00558986 /* Reverse order of words.swift */,
 				4C46C7A42B8F59C600558986 /* How many solutions quadratic have.swift */,
+				4C7B8C902B935B9900483B5A /* Little dictionary.swift */,
 			);
 			path = Edabit;
 			sourceTree = "<group>";
@@ -600,6 +603,7 @@
 				4C22F1B92B79778600386740 /* FizzBuzz Interview Question.swift in Sources */,
 				4C37AC8C2B7AAEE4000B6062 /* Find the index.swift in Sources */,
 				4C37508D2B5156EE00318140 /* Return the remainder from two numbers.swift in Sources */,
+				4C7B8C912B935B9900483B5A /* Little dictionary.swift in Sources */,
 				4C621C5F2B8678C60046237F /* Total number of unique characters.swift in Sources */,
 				4C5F31282B5427BF0013E75E /* Power Calculator.swift in Sources */,
 				4CD066D72B69A7CA008952D1 /* Movie theatre admittance.swift in Sources */,

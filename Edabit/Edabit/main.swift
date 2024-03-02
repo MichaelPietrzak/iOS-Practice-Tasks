@@ -411,4 +411,7 @@ let reverseWords = ReverseWords()
 //print(reverseWords.reverse("This is a typical sentence."))
 
 let quadraticSolutions = QuadraticSolutions()
-print(quadraticSolutions.solutions(1, 0, 0))
+//print(quadraticSolutions.solutions(1, 0, 0))
+
+let littleDict = LittleDictionary()
+print(littleDict.dictionary("tri", ["triplet", "tries", "trip", "piano", "tree"]))
