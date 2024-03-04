@@ -15,6 +15,7 @@
 		4C10BE272B7CB24A0058C33A /* Next element in sequence.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4C10BE262B7CB24A0058C33A /* Next element in sequence.swift */; };
 		4C10BE292B7CB8550058C33A /* Average of elements as whole number.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4C10BE282B7CB8550058C33A /* Average of elements as whole number.swift */; };
 		4C10BE2D2B7CD17A0058C33A /* Max weight allowed.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4C10BE2C2B7CD17A0058C33A /* Max weight allowed.swift */; };
+		4C12D1EC2B95F660003FCA65 /* Chocolate dilemma.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4C12D1EB2B95F660003FCA65 /* Chocolate dilemma.swift */; };
 		4C134C1B2B62A4040002ED5E /* Is the string empty.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4C134C1A2B62A4040002ED5E /* Is the string empty.swift */; };
 		4C134C1D2B62A7770002ED5E /* Using the && Operator.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4C134C1C2B62A7770002ED5E /* Using the && Operator.swift */; };
 		4C13AFC92B876462009D461F /* Purge and organize.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4C13AFC82B876462009D461F /* Purge and organize.swift */; };
@@ -167,6 +168,7 @@
 		4C10BE262B7CB24A0058C33A /* Next element in sequence.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "Next element in sequence.swift"; sourceTree = "<group>"; };
 		4C10BE282B7CB8550058C33A /* Average of elements as whole number.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "Average of elements as whole number.swift"; sourceTree = "<group>"; };
 		4C10BE2C2B7CD17A0058C33A /* Max weight allowed.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "Max weight allowed.swift"; sourceTree = "<group>"; };
+		4C12D1EB2B95F660003FCA65 /* Chocolate dilemma.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "Chocolate dilemma.swift"; sourceTree = "<group>"; };
 		4C134C1A2B62A4040002ED5E /* Is the string empty.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "Is the string empty.swift"; sourceTree = "<group>"; };
 		4C134C1C2B62A7770002ED5E /* Using the && Operator.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "Using the && Operator.swift"; sourceTree = "<group>"; };
 		4C13AFC82B876462009D461F /* Purge and organize.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "Purge and organize.swift"; sourceTree = "<group>"; };
@@ -466,6 +468,7 @@
 				4C46C7A42B8F59C600558986 /* How many solutions quadratic have.swift */,
 				4C7B8C902B935B9900483B5A /* Little dictionary.swift */,
 				4C7B8C922B935CAA00483B5A /* Filter by digit length.swift */,
+				4C12D1EB2B95F660003FCA65 /* Chocolate dilemma.swift */,
 			);
 			path = Edabit;
 			sourceTree = "<group>";
@@ -609,6 +612,7 @@
 				4C7B8C912B935B9900483B5A /* Little dictionary.swift in Sources */,
 				4C621C5F2B8678C60046237F /* Total number of unique characters.swift in Sources */,
 				4C5F31282B5427BF0013E75E /* Power Calculator.swift in Sources */,
+				4C12D1EC2B95F660003FCA65 /* Chocolate dilemma.swift in Sources */,
 				4CD066D72B69A7CA008952D1 /* Movie theatre admittance.swift in Sources */,
 				4C37AC8E2B7AB085000B6062 /* Convert numbers to string of dashes.swift in Sources */,
 				4C13AFCB2B8765E4009D461F /* Factorize number.swift in Sources */,

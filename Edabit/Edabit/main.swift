@@ -417,4 +417,7 @@ let littleDict = LittleDictionary()
 //print(littleDict.dictionary("tri", ["triplet", "tries", "trip", "piano", "tree"]))
 
 let filterDigitLength = FilterDigitLength()
-print(filterDigitLength.filterDigitLength([88, 232, 4, 9721, 555], 3))
+//print(filterDigitLength.filterDigitLength([88, 232, 4, 9721, 555], 3))
+
+let chocolateDilemma = ChocolateDilemma()
+print(chocolateDilemma.testFairness([[1, 2], [2, 1]], [[2, 2], [4, 4]]))
