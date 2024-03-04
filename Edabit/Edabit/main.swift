@@ -420,4 +420,7 @@ let filterDigitLength = FilterDigitLength()
 //print(filterDigitLength.filterDigitLength([88, 232, 4, 9721, 555], 3))
 
 let chocolateDilemma = ChocolateDilemma()
-print(chocolateDilemma.testFairness([[1, 2], [2, 1]], [[2, 2], [4, 4]]))
+//print(chocolateDilemma.testFairness([[1, 2], [2, 1]], [[2, 2], [4, 4]]))
+
+let nameShuffle = NameShuffle()
+print(nameShuffle.nameShuffle("Donald Trump"))
