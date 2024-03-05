@@ -423,4 +423,7 @@ let chocolateDilemma = ChocolateDilemma()
 //print(chocolateDilemma.testFairness([[1, 2], [2, 1]], [[2, 2], [4, 4]]))
 
 let nameShuffle = NameShuffle()
-print(nameShuffle.nameShuffle("Donald Trump"))
+//print(nameShuffle.nameShuffle("Donald Trump"))
+
+let sumTwoSmallestNums = SumTwoSmallestNums()
+print(sumTwoSmallestNums.sumTwoSmallestNums([10, 343445353, 3453445, 3453545353453]))

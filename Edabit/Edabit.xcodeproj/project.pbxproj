@@ -128,6 +128,7 @@
 		4CC3A66B2B6D28E000C72829 /* Free coffee cups.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4CC3A66A2B6D28E000C72829 /* Free coffee cups.swift */; };
 		4CC3A66D2B6D382200C72829 /* Return last element in array.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4CC3A66C2B6D382200C72829 /* Return last element in array.swift */; };
 		4CD066D72B69A7CA008952D1 /* Movie theatre admittance.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4CD066D62B69A7CA008952D1 /* Movie theatre admittance.swift */; };
+		4CD39F872B9735A700D4837C /* Sum of two smallest numbers.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4CD39F862B9735A700D4837C /* Sum of two smallest numbers.swift */; };
 		4CD43B692B6F9B6B00F5AA79 /* Check if array contains a number.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4CD43B682B6F9B6B00F5AA79 /* Check if array contains a number.swift */; };
 		4CD43B6B2B6F9F2B00F5AA79 /* The modulus operator function.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4CD43B6A2B6F9F2B00F5AA79 /* The modulus operator function.swift */; };
 		4CD9C9EC2B5EB53E00DD33FA /* Pair Management.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4CD9C9EB2B5EB53E00DD33FA /* Pair Management.swift */; };
@@ -283,6 +284,7 @@
 		4CC3A66A2B6D28E000C72829 /* Free coffee cups.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "Free coffee cups.swift"; sourceTree = "<group>"; };
 		4CC3A66C2B6D382200C72829 /* Return last element in array.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "Return last element in array.swift"; sourceTree = "<group>"; };
 		4CD066D62B69A7CA008952D1 /* Movie theatre admittance.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "Movie theatre admittance.swift"; sourceTree = "<group>"; };
+		4CD39F862B9735A700D4837C /* Sum of two smallest numbers.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "Sum of two smallest numbers.swift"; sourceTree = "<group>"; };
 		4CD43B682B6F9B6B00F5AA79 /* Check if array contains a number.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "Check if array contains a number.swift"; sourceTree = "<group>"; };
 		4CD43B6A2B6F9F2B00F5AA79 /* The modulus operator function.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "The modulus operator function.swift"; sourceTree = "<group>"; };
 		4CD9C9EB2B5EB53E00DD33FA /* Pair Management.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "Pair Management.swift"; sourceTree = "<group>"; };
@@ -472,6 +474,7 @@
 				4C7B8C922B935CAA00483B5A /* Filter by digit length.swift */,
 				4C12D1EB2B95F660003FCA65 /* Chocolate dilemma.swift */,
 				4C12D1ED2B9609BA003FCA65 /* Shuffle the name.swift */,
+				4CD39F862B9735A700D4837C /* Sum of two smallest numbers.swift */,
 			);
 			path = Edabit;
 			sourceTree = "<group>";
@@ -549,6 +552,7 @@
 				4C4B3C722B6939E8005A1EE5 /* Frames per second.swift in Sources */,
 				4C10BE292B7CB8550058C33A /* Average of elements as whole number.swift in Sources */,
 				4C5462292B6BB03F0045E851 /* Return negative.swift in Sources */,
+				4CD39F872B9735A700D4837C /* Sum of two smallest numbers.swift in Sources */,
 				4CA90F322B6A661700397D78 /* Buggy code - Part 4.swift in Sources */,
 				4C3DFB332B8E3DD400C065B1 /* Capitalize the names.swift in Sources */,
 				4C22F1B52B79725100386740 /* Difference of max and min numbers in array.swift in Sources */,
