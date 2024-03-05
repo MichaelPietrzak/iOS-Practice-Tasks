@@ -129,6 +129,7 @@
 		4CC3A66D2B6D382200C72829 /* Return last element in array.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4CC3A66C2B6D382200C72829 /* Return last element in array.swift */; };
 		4CD066D72B69A7CA008952D1 /* Movie theatre admittance.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4CD066D62B69A7CA008952D1 /* Movie theatre admittance.swift */; };
 		4CD39F872B9735A700D4837C /* Sum of two smallest numbers.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4CD39F862B9735A700D4837C /* Sum of two smallest numbers.swift */; };
+		4CD39F8B2B97957100D4837C /* Secret society.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4CD39F8A2B97957100D4837C /* Secret society.swift */; };
 		4CD43B692B6F9B6B00F5AA79 /* Check if array contains a number.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4CD43B682B6F9B6B00F5AA79 /* Check if array contains a number.swift */; };
 		4CD43B6B2B6F9F2B00F5AA79 /* The modulus operator function.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4CD43B6A2B6F9F2B00F5AA79 /* The modulus operator function.swift */; };
 		4CD9C9EC2B5EB53E00DD33FA /* Pair Management.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4CD9C9EB2B5EB53E00DD33FA /* Pair Management.swift */; };
@@ -285,6 +286,7 @@
 		4CC3A66C2B6D382200C72829 /* Return last element in array.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "Return last element in array.swift"; sourceTree = "<group>"; };
 		4CD066D62B69A7CA008952D1 /* Movie theatre admittance.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "Movie theatre admittance.swift"; sourceTree = "<group>"; };
 		4CD39F862B9735A700D4837C /* Sum of two smallest numbers.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "Sum of two smallest numbers.swift"; sourceTree = "<group>"; };
+		4CD39F8A2B97957100D4837C /* Secret society.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "Secret society.swift"; sourceTree = "<group>"; };
 		4CD43B682B6F9B6B00F5AA79 /* Check if array contains a number.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "Check if array contains a number.swift"; sourceTree = "<group>"; };
 		4CD43B6A2B6F9F2B00F5AA79 /* The modulus operator function.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "The modulus operator function.swift"; sourceTree = "<group>"; };
 		4CD9C9EB2B5EB53E00DD33FA /* Pair Management.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "Pair Management.swift"; sourceTree = "<group>"; };
@@ -475,6 +477,7 @@
 				4C12D1EB2B95F660003FCA65 /* Chocolate dilemma.swift */,
 				4C12D1ED2B9609BA003FCA65 /* Shuffle the name.swift */,
 				4CD39F862B9735A700D4837C /* Sum of two smallest numbers.swift */,
+				4CD39F8A2B97957100D4837C /* Secret society.swift */,
 			);
 			path = Edabit;
 			sourceTree = "<group>";
@@ -571,6 +574,7 @@
 				4C3B72FE2B5DA26500B84120 /* Boolean to String conversion.swift in Sources */,
 				4C13AFCD2B876ABA009D461F /* Calculate determinant 2x2 Matrix.swift in Sources */,
 				4CD43B692B6F9B6B00F5AA79 /* Check if array contains a number.swift in Sources */,
+				4CD39F8B2B97957100D4837C /* Secret society.swift in Sources */,
 				4C22F1BB2B797A7F00386740 /* Check if the same case.swift in Sources */,
 				4C8231052B7F8681008C39B2 /* Generate countdown of numbers in array.swift in Sources */,
 				4C854A462B8391C80068A01D /* Multiply by length.swift in Sources */,

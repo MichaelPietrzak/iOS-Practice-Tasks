@@ -426,4 +426,7 @@ let nameShuffle = NameShuffle()
 //print(nameShuffle.nameShuffle("Donald Trump"))
 
 let sumTwoSmallestNums = SumTwoSmallestNums()
-print(sumTwoSmallestNums.sumTwoSmallestNums([10, 343445353, 3453445, 3453545353453]))
+//print(sumTwoSmallestNums.sumTwoSmallestNums([10, 343445353, 3453445, 3453545353453]))
+
+let secretSociety = SecretSociety()
+print(secretSociety.secretSociety(["Harry", "Newt", "Luna", "Cho"]))
