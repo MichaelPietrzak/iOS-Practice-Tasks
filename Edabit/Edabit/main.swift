@@ -432,4 +432,7 @@ let secretSociety = SecretSociety()
 //print(secretSociety.secretSociety(["Harry", "Newt", "Luna", "Cho"]))
 
 let evenOddTransform = EvenOddTransform()
-print(evenOddTransform.evenOddTransform([0, 0, 0], 10))
+//print(evenOddTransform.evenOddTransform([0, 0, 0], 10))
+
+let secondLargest = SecondLargestNum()
+print(secondLargest.secondLargest([25, 143, 89, 13, 105]))
