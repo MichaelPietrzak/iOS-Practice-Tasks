@@ -429,4 +429,7 @@ let sumTwoSmallestNums = SumTwoSmallestNums()
 //print(sumTwoSmallestNums.sumTwoSmallestNums([10, 343445353, 3453445, 3453545353453]))
 
 let secretSociety = SecretSociety()
-print(secretSociety.secretSociety(["Harry", "Newt", "Luna", "Cho"]))
+//print(secretSociety.secretSociety(["Harry", "Newt", "Luna", "Cho"]))
+
+let evenOddTransform = EvenOddTransform()
+print(evenOddTransform.evenOddTransform([0, 0, 0], 10))
