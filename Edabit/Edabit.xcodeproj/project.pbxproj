@@ -136,6 +136,7 @@
 		4CD43B6B2B6F9F2B00F5AA79 /* The modulus operator function.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4CD43B6A2B6F9F2B00F5AA79 /* The modulus operator function.swift */; };
 		4CD9C9EC2B5EB53E00DD33FA /* Pair Management.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4CD9C9EB2B5EB53E00DD33FA /* Pair Management.swift */; };
 		4CD9C9EE2B5EBFCA00DD33FA /* Return something to me.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4CD9C9ED2B5EBFCA00DD33FA /* Return something to me.swift */; };
+		4CF11DA22B99D02B0044F45B /* Reverse order of string.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4CF11DA12B99D02B0044F45B /* Reverse order of string.swift */; };
 		4CF7B5572B763C4000F0D2FB /* Leap year function.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4CF7B5562B763C4000F0D2FB /* Leap year function.swift */; };
 		4CF7B5592B763F3100F0D2FB /* Half, Quarter and Eighth.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4CF7B5582B763F3100F0D2FB /* Half, Quarter and Eighth.swift */; };
 		4CF7B55B2B76417400F0D2FB /* Check if string ending match second string.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4CF7B55A2B76417400F0D2FB /* Check if string ending match second string.swift */; };
@@ -295,6 +296,7 @@
 		4CD43B6A2B6F9F2B00F5AA79 /* The modulus operator function.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "The modulus operator function.swift"; sourceTree = "<group>"; };
 		4CD9C9EB2B5EB53E00DD33FA /* Pair Management.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "Pair Management.swift"; sourceTree = "<group>"; };
 		4CD9C9ED2B5EBFCA00DD33FA /* Return something to me.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "Return something to me.swift"; sourceTree = "<group>"; };
+		4CF11DA12B99D02B0044F45B /* Reverse order of string.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "Reverse order of string.swift"; sourceTree = "<group>"; };
 		4CF7B5562B763C4000F0D2FB /* Leap year function.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "Leap year function.swift"; sourceTree = "<group>"; };
 		4CF7B5582B763F3100F0D2FB /* Half, Quarter and Eighth.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "Half, Quarter and Eighth.swift"; sourceTree = "<group>"; };
 		4CF7B55A2B76417400F0D2FB /* Check if string ending match second string.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "Check if string ending match second string.swift"; sourceTree = "<group>"; };
@@ -484,6 +486,7 @@
 				4CD39F8A2B97957100D4837C /* Secret society.swift */,
 				4C8952E12B9855F80026A546 /* Odd up, even down - N times.swift */,
 				4C8952E32B985F6D0026A546 /* Find the second largest number.swift */,
+				4CF11DA12B99D02B0044F45B /* Reverse order of string.swift */,
 			);
 			path = Edabit;
 			sourceTree = "<group>";
@@ -670,6 +673,7 @@
 				4C54622B2B6BB56B0045E851 /* Reverse an array.swift in Sources */,
 				4C3DFB2D2B8E0A8000C065B1 /* Minimum removals to make sum even.swift in Sources */,
 				4C87F7382B7E41F900DB2E31 /* Alphabet soup.swift in Sources */,
+				4CF11DA22B99D02B0044F45B /* Reverse order of string.swift in Sources */,
 				4CD9C9EC2B5EB53E00DD33FA /* Pair Management.swift in Sources */,
 				4C10BE1F2B7B702D0058C33A /* Find the bug; checking even numbers.swift in Sources */,
 				4C35E73B2B726854002BFF78 /* Triangular number sequence.swift in Sources */,
