@@ -137,6 +137,7 @@
 		4CD9C9EC2B5EB53E00DD33FA /* Pair Management.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4CD9C9EB2B5EB53E00DD33FA /* Pair Management.swift */; };
 		4CD9C9EE2B5EBFCA00DD33FA /* Return something to me.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4CD9C9ED2B5EBFCA00DD33FA /* Return something to me.swift */; };
 		4CF11DA22B99D02B0044F45B /* Reverse order of string.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4CF11DA12B99D02B0044F45B /* Reverse order of string.swift */; };
+		4CF11DA62B99F3000044F45B /* Check factors.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4CF11DA52B99F3000044F45B /* Check factors.swift */; };
 		4CF7B5572B763C4000F0D2FB /* Leap year function.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4CF7B5562B763C4000F0D2FB /* Leap year function.swift */; };
 		4CF7B5592B763F3100F0D2FB /* Half, Quarter and Eighth.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4CF7B5582B763F3100F0D2FB /* Half, Quarter and Eighth.swift */; };
 		4CF7B55B2B76417400F0D2FB /* Check if string ending match second string.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4CF7B55A2B76417400F0D2FB /* Check if string ending match second string.swift */; };
@@ -297,6 +298,7 @@
 		4CD9C9EB2B5EB53E00DD33FA /* Pair Management.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "Pair Management.swift"; sourceTree = "<group>"; };
 		4CD9C9ED2B5EBFCA00DD33FA /* Return something to me.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "Return something to me.swift"; sourceTree = "<group>"; };
 		4CF11DA12B99D02B0044F45B /* Reverse order of string.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "Reverse order of string.swift"; sourceTree = "<group>"; };
+		4CF11DA52B99F3000044F45B /* Check factors.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "Check factors.swift"; sourceTree = "<group>"; };
 		4CF7B5562B763C4000F0D2FB /* Leap year function.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "Leap year function.swift"; sourceTree = "<group>"; };
 		4CF7B5582B763F3100F0D2FB /* Half, Quarter and Eighth.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "Half, Quarter and Eighth.swift"; sourceTree = "<group>"; };
 		4CF7B55A2B76417400F0D2FB /* Check if string ending match second string.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "Check if string ending match second string.swift"; sourceTree = "<group>"; };
@@ -487,6 +489,7 @@
 				4C8952E12B9855F80026A546 /* Odd up, even down - N times.swift */,
 				4C8952E32B985F6D0026A546 /* Find the second largest number.swift */,
 				4CF11DA12B99D02B0044F45B /* Reverse order of string.swift */,
+				4CF11DA52B99F3000044F45B /* Check factors.swift */,
 			);
 			path = Edabit;
 			sourceTree = "<group>";
@@ -686,6 +689,7 @@
 				4C5C609E2B88B725008B9723 /* Odd up, even down.swift in Sources */,
 				4CFB81642B84E67300D17CFF /* Filter repeating character strings.swift in Sources */,
 				4CF7B5592B763F3100F0D2FB /* Half, Quarter and Eighth.swift in Sources */,
+				4CF11DA62B99F3000044F45B /* Check factors.swift in Sources */,
 				4C134C1D2B62A7770002ED5E /* Using the && Operator.swift in Sources */,
 				4C621C612B8688210046237F /* Same number of unique elements.swift in Sources */,
 				4CF7B55B2B76417400F0D2FB /* Check if string ending match second string.swift in Sources */,

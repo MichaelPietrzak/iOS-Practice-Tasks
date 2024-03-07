@@ -438,4 +438,7 @@ let secondLargest = SecondLargestNum()
 //print(secondLargest.secondLargest([25, 143, 89, 13, 105]))
 
 let reverseStr = ReverseString()
-print(reverseStr.reverseString("Hello World"))
+//print(reverseStr.reverseString("Hello World"))
+
+let checkFactors = CheckFactors()
+print(checkFactors.checkFactors([1, 2, 50], 100))
