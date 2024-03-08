@@ -137,6 +137,7 @@
 		4CD9C9EC2B5EB53E00DD33FA /* Pair Management.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4CD9C9EB2B5EB53E00DD33FA /* Pair Management.swift */; };
 		4CD9C9EE2B5EBFCA00DD33FA /* Return something to me.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4CD9C9ED2B5EBFCA00DD33FA /* Return something to me.swift */; };
 		4CE68A542B9B3510004B0285 /* Hitting the jackpot.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4CE68A532B9B3510004B0285 /* Hitting the jackpot.swift */; };
+		4CE68A562B9B3ABD004B0285 /* Chat room status.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4CE68A552B9B3ABD004B0285 /* Chat room status.swift */; };
 		4CF11DA22B99D02B0044F45B /* Reverse order of string.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4CF11DA12B99D02B0044F45B /* Reverse order of string.swift */; };
 		4CF11DA62B99F3000044F45B /* Check factors.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4CF11DA52B99F3000044F45B /* Check factors.swift */; };
 		4CF7B5572B763C4000F0D2FB /* Leap year function.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4CF7B5562B763C4000F0D2FB /* Leap year function.swift */; };
@@ -299,6 +300,7 @@
 		4CD9C9EB2B5EB53E00DD33FA /* Pair Management.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "Pair Management.swift"; sourceTree = "<group>"; };
 		4CD9C9ED2B5EBFCA00DD33FA /* Return something to me.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "Return something to me.swift"; sourceTree = "<group>"; };
 		4CE68A532B9B3510004B0285 /* Hitting the jackpot.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "Hitting the jackpot.swift"; sourceTree = "<group>"; };
+		4CE68A552B9B3ABD004B0285 /* Chat room status.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "Chat room status.swift"; sourceTree = "<group>"; };
 		4CF11DA12B99D02B0044F45B /* Reverse order of string.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "Reverse order of string.swift"; sourceTree = "<group>"; };
 		4CF11DA52B99F3000044F45B /* Check factors.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "Check factors.swift"; sourceTree = "<group>"; };
 		4CF7B5562B763C4000F0D2FB /* Leap year function.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "Leap year function.swift"; sourceTree = "<group>"; };
@@ -493,6 +495,7 @@
 				4CF11DA12B99D02B0044F45B /* Reverse order of string.swift */,
 				4CF11DA52B99F3000044F45B /* Check factors.swift */,
 				4CE68A532B9B3510004B0285 /* Hitting the jackpot.swift */,
+				4CE68A552B9B3ABD004B0285 /* Chat room status.swift */,
 			);
 			path = Edabit;
 			sourceTree = "<group>";
@@ -566,6 +569,7 @@
 				4C5C60A02B88C2F2008B9723 /* To the power.swift in Sources */,
 				4C6ADD0D2B4E8EF50087971C /* Find the Perimeter of a Rectangle.swift in Sources */,
 				4C1A5F6C2B6FD1D000B460F0 /* Return a string as integer.swift in Sources */,
+				4CE68A562B9B3ABD004B0285 /* Chat room status.swift in Sources */,
 				4CB70C822B73C5D400E688DB /* Buggy code - Part 5.swift in Sources */,
 				4C4B3C722B6939E8005A1EE5 /* Frames per second.swift in Sources */,
 				4C10BE292B7CB8550058C33A /* Average of elements as whole number.swift in Sources */,

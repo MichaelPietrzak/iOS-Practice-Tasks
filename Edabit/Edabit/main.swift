@@ -444,4 +444,7 @@ let checkFactors = CheckFactors()
 //print(checkFactors.checkFactors([1, 2, 50], 100))
 
 let testJackpot = HittingJackpot()
-print(testJackpot.testJackpot(["&&", "&", "&&&", "&&&&"]))
+//print(testJackpot.testJackpot(["&&", "&", "&&&", "&&&&"]))
+
+let chatRoom = chatRoomStatus()
+print(chatRoom.chatRoomStatus(["s234f", "mailbox2"]))
