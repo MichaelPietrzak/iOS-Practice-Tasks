@@ -441,4 +441,7 @@ let reverseStr = ReverseString()
 //print(reverseStr.reverseString("Hello World"))
 
 let checkFactors = CheckFactors()
-print(checkFactors.checkFactors([1, 2, 50], 100))
+//print(checkFactors.checkFactors([1, 2, 50], 100))
+
+let testJackpot = HittingJackpot()
+print(testJackpot.testJackpot(["&&", "&", "&&&", "&&&&"]))
