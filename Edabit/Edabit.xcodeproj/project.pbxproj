@@ -55,6 +55,7 @@
 		4C3B72FE2B5DA26500B84120 /* Boolean to String conversion.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4C3B72FD2B5DA26500B84120 /* Boolean to String conversion.swift */; };
 		4C3B73002B5DA42D00B84120 /* Profitable Gamble.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4C3B72FF2B5DA42D00B84120 /* Profitable Gamble.swift */; };
 		4C3D090A2BA0621F007063B2 /* Moving to the end.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4C3D09092BA0621F007063B2 /* Moving to the end.swift */; };
+		4C3D090E2BA073E7007063B2 /* Repeat same item multiple times.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4C3D090D2BA073E7007063B2 /* Repeat same item multiple times.swift */; };
 		4C3DFB2D2B8E0A8000C065B1 /* Minimum removals to make sum even.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4C3DFB2C2B8E0A8000C065B1 /* Minimum removals to make sum even.swift */; };
 		4C3DFB2F2B8E0FE100C065B1 /* Omnipresent value.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4C3DFB2E2B8E0FE100C065B1 /* Omnipresent value.swift */; };
 		4C3DFB312B8E3B2D00C065B1 /* Strange pair.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4C3DFB302B8E3B2D00C065B1 /* Strange pair.swift */; };
@@ -219,6 +220,7 @@
 		4C3B72FD2B5DA26500B84120 /* Boolean to String conversion.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "Boolean to String conversion.swift"; sourceTree = "<group>"; };
 		4C3B72FF2B5DA42D00B84120 /* Profitable Gamble.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "Profitable Gamble.swift"; sourceTree = "<group>"; };
 		4C3D09092BA0621F007063B2 /* Moving to the end.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "Moving to the end.swift"; sourceTree = "<group>"; };
+		4C3D090D2BA073E7007063B2 /* Repeat same item multiple times.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "Repeat same item multiple times.swift"; sourceTree = "<group>"; };
 		4C3DFB2C2B8E0A8000C065B1 /* Minimum removals to make sum even.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "Minimum removals to make sum even.swift"; sourceTree = "<group>"; };
 		4C3DFB2E2B8E0FE100C065B1 /* Omnipresent value.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "Omnipresent value.swift"; sourceTree = "<group>"; };
 		4C3DFB302B8E3B2D00C065B1 /* Strange pair.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "Strange pair.swift"; sourceTree = "<group>"; };
@@ -499,6 +501,7 @@
 				4CE68A532B9B3510004B0285 /* Hitting the jackpot.swift */,
 				4CE68A552B9B3ABD004B0285 /* Chat room status.swift */,
 				4C3D09092BA0621F007063B2 /* Moving to the end.swift */,
+				4C3D090D2BA073E7007063B2 /* Repeat same item multiple times.swift */,
 			);
 			path = Edabit;
 			sourceTree = "<group>";
@@ -597,6 +600,7 @@
 				4C3B72FE2B5DA26500B84120 /* Boolean to String conversion.swift in Sources */,
 				4C13AFCD2B876ABA009D461F /* Calculate determinant 2x2 Matrix.swift in Sources */,
 				4CD43B692B6F9B6B00F5AA79 /* Check if array contains a number.swift in Sources */,
+				4C3D090E2BA073E7007063B2 /* Repeat same item multiple times.swift in Sources */,
 				4CD39F8B2B97957100D4837C /* Secret society.swift in Sources */,
 				4C22F1BB2B797A7F00386740 /* Check if the same case.swift in Sources */,
 				4C8231052B7F8681008C39B2 /* Generate countdown of numbers in array.swift in Sources */,
