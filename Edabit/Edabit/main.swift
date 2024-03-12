@@ -447,4 +447,7 @@ let testJackpot = HittingJackpot()
 //print(testJackpot.testJackpot(["&&", "&", "&&&", "&&&&"]))
 
 let chatRoom = chatRoomStatus()
-print(chatRoom.chatRoomStatus(["s234f", "mailbox2"]))
+//print(chatRoom.chatRoomStatus(["s234f", "mailbox2"]))
+
+let moveToEnd = MoveToEnd()
+print(moveToEnd.moveToEnd([1, 3, 2, 4, 4, 1], 1))

@@ -54,6 +54,7 @@
 		4C3B72FA2B5D9D8A00B84120 /* The farm problem.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4C3B72F92B5D9D8A00B84120 /* The farm problem.swift */; };
 		4C3B72FE2B5DA26500B84120 /* Boolean to String conversion.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4C3B72FD2B5DA26500B84120 /* Boolean to String conversion.swift */; };
 		4C3B73002B5DA42D00B84120 /* Profitable Gamble.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4C3B72FF2B5DA42D00B84120 /* Profitable Gamble.swift */; };
+		4C3D090A2BA0621F007063B2 /* Moving to the end.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4C3D09092BA0621F007063B2 /* Moving to the end.swift */; };
 		4C3DFB2D2B8E0A8000C065B1 /* Minimum removals to make sum even.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4C3DFB2C2B8E0A8000C065B1 /* Minimum removals to make sum even.swift */; };
 		4C3DFB2F2B8E0FE100C065B1 /* Omnipresent value.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4C3DFB2E2B8E0FE100C065B1 /* Omnipresent value.swift */; };
 		4C3DFB312B8E3B2D00C065B1 /* Strange pair.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4C3DFB302B8E3B2D00C065B1 /* Strange pair.swift */; };
@@ -217,6 +218,7 @@
 		4C3B72F92B5D9D8A00B84120 /* The farm problem.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "The farm problem.swift"; sourceTree = "<group>"; };
 		4C3B72FD2B5DA26500B84120 /* Boolean to String conversion.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "Boolean to String conversion.swift"; sourceTree = "<group>"; };
 		4C3B72FF2B5DA42D00B84120 /* Profitable Gamble.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "Profitable Gamble.swift"; sourceTree = "<group>"; };
+		4C3D09092BA0621F007063B2 /* Moving to the end.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "Moving to the end.swift"; sourceTree = "<group>"; };
 		4C3DFB2C2B8E0A8000C065B1 /* Minimum removals to make sum even.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "Minimum removals to make sum even.swift"; sourceTree = "<group>"; };
 		4C3DFB2E2B8E0FE100C065B1 /* Omnipresent value.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "Omnipresent value.swift"; sourceTree = "<group>"; };
 		4C3DFB302B8E3B2D00C065B1 /* Strange pair.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "Strange pair.swift"; sourceTree = "<group>"; };
@@ -496,6 +498,7 @@
 				4CF11DA52B99F3000044F45B /* Check factors.swift */,
 				4CE68A532B9B3510004B0285 /* Hitting the jackpot.swift */,
 				4CE68A552B9B3ABD004B0285 /* Chat room status.swift */,
+				4C3D09092BA0621F007063B2 /* Moving to the end.swift */,
 			);
 			path = Edabit;
 			sourceTree = "<group>";
@@ -627,6 +630,7 @@
 				4C46C7A52B8F59C600558986 /* How many solutions quadratic have.swift in Sources */,
 				4C621C632B868F3E0046237F /* Absolute sum.swift in Sources */,
 				4C854A482B83933E0068A01D /* String a palindrome.swift in Sources */,
+				4C3D090A2BA0621F007063B2 /* Moving to the end.swift in Sources */,
 				4C35E0CF2B4B2BC8009ECE9A /* Return Sum of Two Numbers.swift in Sources */,
 				4C46C7A12B8F39BD00558986 /* Exists a number higher.swift in Sources */,
 				4CB16ECD2B57BD4F006EC617 /* Check integer if divisible.swift in Sources */,
