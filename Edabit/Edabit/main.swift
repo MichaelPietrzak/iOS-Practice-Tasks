@@ -456,4 +456,11 @@ let repeatItem = RepeatSameItem()
 //print(repeatItem.repeating("edabit", 3))
 
 let minMaxNums = MinMaxNumbers()
-print(minMaxNums.minMax([2334454, 5]))
+//print(minMaxNums.minMax([2334454, 5]))
+
+let reverseImage = ReverseImage()
+print(reverseImage.reverseImage([
+    [1, 0, 0],
+    [0, 1, 0],
+    [0, 0, 1]
+  ]))
