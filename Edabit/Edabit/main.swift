@@ -453,4 +453,7 @@ let moveToEnd = MoveToEnd()
 //print(moveToEnd.moveToEnd([1, 3, 2, 4, 4, 1], 1))
 
 let repeatItem = RepeatSameItem()
-print(repeatItem.repeating("edabit", 3))
+//print(repeatItem.repeating("edabit", 3))
+
+let minMaxNums = MinMaxNumbers()
+print(minMaxNums.minMax([2334454, 5]))

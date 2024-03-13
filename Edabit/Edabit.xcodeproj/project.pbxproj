@@ -67,6 +67,7 @@
 		4C4B3C722B6939E8005A1EE5 /* Frames per second.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4C4B3C712B6939E8005A1EE5 /* Frames per second.swift */; };
 		4C4B3C742B693F53005A1EE5 /* Flip the boolean.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4C4B3C732B693F53005A1EE5 /* Flip the boolean.swift */; };
 		4C4B58752B74E265005F61B9 /* Maximum difference.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4C4B58742B74E265005F61B9 /* Maximum difference.swift */; };
+		4C52B9732BA18C85008C7A5E /* Find smallest and biggest number.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4C52B9722BA18C85008C7A5E /* Find smallest and biggest number.swift */; };
 		4C5462292B6BB03F0045E851 /* Return negative.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4C5462282B6BB03F0045E851 /* Return negative.swift */; };
 		4C54622B2B6BB56B0045E851 /* Reverse an array.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4C54622A2B6BB56B0045E851 /* Reverse an array.swift */; };
 		4C5C609A2B88AF04008B9723 /* Equality of 3 values.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4C5C60992B88AF04008B9723 /* Equality of 3 values.swift */; };
@@ -232,6 +233,7 @@
 		4C4B3C712B6939E8005A1EE5 /* Frames per second.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "Frames per second.swift"; sourceTree = "<group>"; };
 		4C4B3C732B693F53005A1EE5 /* Flip the boolean.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "Flip the boolean.swift"; sourceTree = "<group>"; };
 		4C4B58742B74E265005F61B9 /* Maximum difference.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "Maximum difference.swift"; sourceTree = "<group>"; };
+		4C52B9722BA18C85008C7A5E /* Find smallest and biggest number.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "Find smallest and biggest number.swift"; sourceTree = "<group>"; };
 		4C5462282B6BB03F0045E851 /* Return negative.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "Return negative.swift"; sourceTree = "<group>"; };
 		4C54622A2B6BB56B0045E851 /* Reverse an array.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "Reverse an array.swift"; sourceTree = "<group>"; };
 		4C5C60992B88AF04008B9723 /* Equality of 3 values.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "Equality of 3 values.swift"; sourceTree = "<group>"; };
@@ -502,6 +504,7 @@
 				4CE68A552B9B3ABD004B0285 /* Chat room status.swift */,
 				4C3D09092BA0621F007063B2 /* Moving to the end.swift */,
 				4C3D090D2BA073E7007063B2 /* Repeat same item multiple times.swift */,
+				4C52B9722BA18C85008C7A5E /* Find smallest and biggest number.swift */,
 			);
 			path = Edabit;
 			sourceTree = "<group>";
@@ -644,6 +647,7 @@
 				4C8231012B7F8289008C39B2 /* Even number generator.swift in Sources */,
 				4C10BE272B7CB24A0058C33A /* Next element in sequence.swift in Sources */,
 				4C12D1EE2B9609BA003FCA65 /* Shuffle the name.swift in Sources */,
+				4C52B9732BA18C85008C7A5E /* Find smallest and biggest number.swift in Sources */,
 				4C34BA272B500BB000F60A9E /* Are the numbers equal.swift in Sources */,
 				4C6780B92B5AB221006E4691 /* Sum of polygon angles.swift in Sources */,
 				4C22F1B92B79778600386740 /* FizzBuzz Interview Question.swift in Sources */,
