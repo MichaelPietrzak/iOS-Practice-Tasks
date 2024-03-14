@@ -466,5 +466,8 @@ let reverseImage = ReverseImage()
 //  ]))
 
 let prefixSuffix = PrefixSuffix()
-print(prefixSuffix.isPrefix("retrospect", "sub-"))
-print(prefixSuffix.isSuffix("arachnophobia", "-phobia"))
+//print(prefixSuffix.isPrefix("retrospect", "sub-"))
+//print(prefixSuffix.isSuffix("arachnophobia", "-phobia"))
+
+let internaGreetings = InternaGreetings()
+print(internaGreetings.greeting("Randy"))
