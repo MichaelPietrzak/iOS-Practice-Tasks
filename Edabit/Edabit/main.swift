@@ -459,8 +459,12 @@ let minMaxNums = MinMaxNumbers()
 //print(minMaxNums.minMax([2334454, 5]))
 
 let reverseImage = ReverseImage()
-print(reverseImage.reverseImage([
-    [1, 0, 0],
-    [0, 1, 0],
-    [0, 0, 1]
-  ]))
+//print(reverseImage.reverseImage([
+//    [1, 0, 0],
+//    [0, 1, 0],
+//    [0, 0, 1]
+//  ]))
+
+let prefixSuffix = PrefixSuffix()
+print(prefixSuffix.isPrefix("retrospect", "sub-"))
+print(prefixSuffix.isSuffix("arachnophobia", "-phobia"))

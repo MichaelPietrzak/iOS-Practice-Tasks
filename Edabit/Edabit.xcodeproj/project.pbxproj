@@ -133,6 +133,7 @@
 		4CC0FB892B86644600F4D774 /* Integer digits count.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4CC0FB882B86644600F4D774 /* Integer digits count.swift */; };
 		4CC3A66B2B6D28E000C72829 /* Free coffee cups.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4CC3A66A2B6D28E000C72829 /* Free coffee cups.swift */; };
 		4CC3A66D2B6D382200C72829 /* Return last element in array.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4CC3A66C2B6D382200C72829 /* Return last element in array.swift */; };
+		4CC6A9922BA3807A0025F5DD /* Prefixes vs. Suffixes.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4CC6A9912BA3807A0025F5DD /* Prefixes vs. Suffixes.swift */; };
 		4CD066D72B69A7CA008952D1 /* Movie theatre admittance.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4CD066D62B69A7CA008952D1 /* Movie theatre admittance.swift */; };
 		4CD39F872B9735A700D4837C /* Sum of two smallest numbers.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4CD39F862B9735A700D4837C /* Sum of two smallest numbers.swift */; };
 		4CD39F8B2B97957100D4837C /* Secret society.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4CD39F8A2B97957100D4837C /* Secret society.swift */; };
@@ -300,6 +301,7 @@
 		4CC0FB882B86644600F4D774 /* Integer digits count.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "Integer digits count.swift"; sourceTree = "<group>"; };
 		4CC3A66A2B6D28E000C72829 /* Free coffee cups.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "Free coffee cups.swift"; sourceTree = "<group>"; };
 		4CC3A66C2B6D382200C72829 /* Return last element in array.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "Return last element in array.swift"; sourceTree = "<group>"; };
+		4CC6A9912BA3807A0025F5DD /* Prefixes vs. Suffixes.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "Prefixes vs. Suffixes.swift"; sourceTree = "<group>"; };
 		4CD066D62B69A7CA008952D1 /* Movie theatre admittance.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "Movie theatre admittance.swift"; sourceTree = "<group>"; };
 		4CD39F862B9735A700D4837C /* Sum of two smallest numbers.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "Sum of two smallest numbers.swift"; sourceTree = "<group>"; };
 		4CD39F8A2B97957100D4837C /* Secret society.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "Secret society.swift"; sourceTree = "<group>"; };
@@ -508,6 +510,7 @@
 				4C3D090D2BA073E7007063B2 /* Repeat same item multiple times.swift */,
 				4C52B9722BA18C85008C7A5E /* Find smallest and biggest number.swift */,
 				4C52B9742BA191FB008C7A5E /* Negative image.swift */,
+				4CC6A9912BA3807A0025F5DD /* Prefixes vs. Suffixes.swift */,
 			);
 			path = Edabit;
 			sourceTree = "<group>";
@@ -690,6 +693,7 @@
 				4C2771D32B616BCF00130332 /* less than 100.swift in Sources */,
 				4CB70C862B73CE8A00E688DB /* Amazing Edabit.swift in Sources */,
 				4C4B3C742B693F53005A1EE5 /* Flip the boolean.swift in Sources */,
+				4CC6A9922BA3807A0025F5DD /* Prefixes vs. Suffixes.swift in Sources */,
 				4C3B73002B5DA42D00B84120 /* Profitable Gamble.swift in Sources */,
 				4C85F4582B71086C00856305 /* Re-form the word.swift in Sources */,
 				4C621C652B869CCE0046237F /* Count instances of character in string.swift in Sources */,
