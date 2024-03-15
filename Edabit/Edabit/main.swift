@@ -473,4 +473,7 @@ let internaGreetings = InternaGreetings()
 //print(internaGreetings.greeting("Randy"))
 
 let removeVowels = RemoveVowels()
-print(removeVowels.removeVowels("I have never seen a thin person drinking Diet Coke."))
+//print(removeVowels.removeVowels("I have never seen a thin person drinking Diet Coke."))
+
+let isogram = Isogram()
+print(isogram.isIsogram("Consecutive"))
