@@ -470,4 +470,7 @@ let prefixSuffix = PrefixSuffix()
 //print(prefixSuffix.isSuffix("arachnophobia", "-phobia"))
 
 let internaGreetings = InternaGreetings()
-print(internaGreetings.greeting("Randy"))
+//print(internaGreetings.greeting("Randy"))
+
+let removeVowels = RemoveVowels()
+print(removeVowels.removeVowels("I have never seen a thin person drinking Diet Coke."))
