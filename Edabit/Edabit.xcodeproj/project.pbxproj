@@ -8,6 +8,7 @@
 
 /* Begin PBXBuildFile section */
 		4C03FEB32BA645A800EFB331 /* Get the century.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4C03FEB22BA645A800EFB331 /* Get the century.swift */; };
+		4C03FEB72BA64D0400EFB331 /* Vowel replacer.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4C03FEB62BA64D0400EFB331 /* Vowel replacer.swift */; };
 		4C10BE1D2B7B63590058C33A /* Tile teamwork tactics.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4C10BE1C2B7B63590058C33A /* Tile teamwork tactics.swift */; };
 		4C10BE1F2B7B702D0058C33A /* Find the bug; checking even numbers.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4C10BE1E2B7B702D0058C33A /* Find the bug; checking even numbers.swift */; };
 		4C10BE212B7B74D80058C33A /* Calculate the profit.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4C10BE202B7B74D80058C33A /* Calculate the profit.swift */; };
@@ -179,6 +180,7 @@
 
 /* Begin PBXFileReference section */
 		4C03FEB22BA645A800EFB331 /* Get the century.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "Get the century.swift"; sourceTree = "<group>"; };
+		4C03FEB62BA64D0400EFB331 /* Vowel replacer.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "Vowel replacer.swift"; sourceTree = "<group>"; };
 		4C10BE1C2B7B63590058C33A /* Tile teamwork tactics.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "Tile teamwork tactics.swift"; sourceTree = "<group>"; };
 		4C10BE1E2B7B702D0058C33A /* Find the bug; checking even numbers.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "Find the bug; checking even numbers.swift"; sourceTree = "<group>"; };
 		4C10BE202B7B74D80058C33A /* Calculate the profit.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "Calculate the profit.swift"; sourceTree = "<group>"; };
@@ -523,6 +525,7 @@
 				4CDA328B2BA455110090D2F0 /* Remove every vowel from a string.swift */,
 				4CDA328D2BA46C6F0090D2F0 /* Is the word an isogram.swift */,
 				4C03FEB22BA645A800EFB331 /* Get the century.swift */,
+				4C03FEB62BA64D0400EFB331 /* Vowel replacer.swift */,
 			);
 			path = Edabit;
 			sourceTree = "<group>";
@@ -635,6 +638,7 @@
 				4CC3A66D2B6D382200C72829 /* Return last element in array.swift in Sources */,
 				4CF7B55D2B7645A400F0D2FB /* Get the sum of all array elements.swift in Sources */,
 				4C10BE232B7CAAC90058C33A /* Get word count.swift in Sources */,
+				4C03FEB72BA64D0400EFB331 /* Vowel replacer.swift in Sources */,
 				4C9DA8852B594F11003E4612 /* Basketball Points.swift in Sources */,
 				4C03FEB32BA645A800EFB331 /* Get the century.swift in Sources */,
 				4C85F4562B7102C100856305 /* Compare strings by count of characters.swift in Sources */,

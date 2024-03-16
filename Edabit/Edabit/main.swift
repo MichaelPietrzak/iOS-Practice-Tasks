@@ -479,4 +479,7 @@ let isogram = Isogram()
 //print(isogram.isIsogram("Consecutive"))
 
 let century = Century()
-print(century.century(2005))
+//print(century.century(2005))
+
+let vowelReplacer = VowelReplacer()
+print(vowelReplacer.replaceVowels("minnie mouse", "?"))
