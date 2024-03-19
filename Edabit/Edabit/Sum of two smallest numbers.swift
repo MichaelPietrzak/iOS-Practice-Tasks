@@ -12,8 +12,8 @@ import Foundation
 
 struct SumTwoSmallestNums {
     func sumTwoSmallestNums(_ arr: [Int]) -> Int {
-        var lowest = arr.filter { $0 >= 0 }.min()!
-        var secondLowest = arr.filter { $0 > lowest }.min()!
+        let lowest = arr.filter { $0 >= 0 }.min()!
+        let secondLowest = arr.filter { $0 > lowest }.min()!
         
         return lowest + secondLowest
     }

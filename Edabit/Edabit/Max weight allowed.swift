@@ -14,8 +14,7 @@ import Foundation
 
 struct WeightAllowed {
     func weightAllowed(_ car: Int, _ arr: [Int], _ maxWeight: Int) -> Bool {
-        
-        var maxWeightToPounds = Double(maxWeight) / 0.453592
+        let maxWeightToPounds = Double(maxWeight) / 0.453592
         return car + arr.reduce(0, +) < Int(maxWeightToPounds) ? true : false
     }
 }
