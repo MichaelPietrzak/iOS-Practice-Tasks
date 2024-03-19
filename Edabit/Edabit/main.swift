@@ -482,4 +482,7 @@ let century = Century()
 //print(century.century(2005))
 
 let vowelReplacer = VowelReplacer()
-print(vowelReplacer.replaceVowels("minnie mouse", "?"))
+//print(vowelReplacer.replaceVowels("minnie mouse", "?"))
+
+let findOdd = FindOddInteger()
+print(findOdd.findOdd([1, 1, 2, -2, 5, 2, 4, 4, -1, -2, 5]))
