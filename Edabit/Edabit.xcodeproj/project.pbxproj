@@ -147,6 +147,7 @@
 		4CDA328C2BA455110090D2F0 /* Remove every vowel from a string.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4CDA328B2BA455110090D2F0 /* Remove every vowel from a string.swift */; };
 		4CDA328E2BA46C6F0090D2F0 /* Is the word an isogram.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4CDA328D2BA46C6F0090D2F0 /* Is the word an isogram.swift */; };
 		4CE540462BA9774B00280A3F /* FInd the odd integer.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4CE540452BA9774B00280A3F /* FInd the odd integer.swift */; };
+		4CE540482BA9886100280A3F /* Nth smallest integer.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4CE540472BA9886100280A3F /* Nth smallest integer.swift */; };
 		4CE68A542B9B3510004B0285 /* Hitting the jackpot.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4CE68A532B9B3510004B0285 /* Hitting the jackpot.swift */; };
 		4CE68A562B9B3ABD004B0285 /* Chat room status.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4CE68A552B9B3ABD004B0285 /* Chat room status.swift */; };
 		4CF11DA22B99D02B0044F45B /* Reverse order of string.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4CF11DA12B99D02B0044F45B /* Reverse order of string.swift */; };
@@ -321,6 +322,7 @@
 		4CDA328B2BA455110090D2F0 /* Remove every vowel from a string.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "Remove every vowel from a string.swift"; sourceTree = "<group>"; };
 		4CDA328D2BA46C6F0090D2F0 /* Is the word an isogram.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "Is the word an isogram.swift"; sourceTree = "<group>"; };
 		4CE540452BA9774B00280A3F /* FInd the odd integer.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "FInd the odd integer.swift"; sourceTree = "<group>"; };
+		4CE540472BA9886100280A3F /* Nth smallest integer.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "Nth smallest integer.swift"; sourceTree = "<group>"; };
 		4CE68A532B9B3510004B0285 /* Hitting the jackpot.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "Hitting the jackpot.swift"; sourceTree = "<group>"; };
 		4CE68A552B9B3ABD004B0285 /* Chat room status.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "Chat room status.swift"; sourceTree = "<group>"; };
 		4CF11DA12B99D02B0044F45B /* Reverse order of string.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "Reverse order of string.swift"; sourceTree = "<group>"; };
@@ -529,6 +531,7 @@
 				4C03FEB22BA645A800EFB331 /* Get the century.swift */,
 				4C03FEB62BA64D0400EFB331 /* Vowel replacer.swift */,
 				4CE540452BA9774B00280A3F /* FInd the odd integer.swift */,
+				4CE540472BA9886100280A3F /* Nth smallest integer.swift */,
 			);
 			path = Edabit;
 			sourceTree = "<group>";
@@ -643,6 +646,7 @@
 				4CF7B55D2B7645A400F0D2FB /* Get the sum of all array elements.swift in Sources */,
 				4C10BE232B7CAAC90058C33A /* Get word count.swift in Sources */,
 				4C03FEB72BA64D0400EFB331 /* Vowel replacer.swift in Sources */,
+				4CE540482BA9886100280A3F /* Nth smallest integer.swift in Sources */,
 				4C9DA8852B594F11003E4612 /* Basketball Points.swift in Sources */,
 				4C03FEB32BA645A800EFB331 /* Get the century.swift in Sources */,
 				4C85F4562B7102C100856305 /* Compare strings by count of characters.swift in Sources */,

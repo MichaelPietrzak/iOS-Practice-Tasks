@@ -485,4 +485,7 @@ let vowelReplacer = VowelReplacer()
 //print(vowelReplacer.replaceVowels("minnie mouse", "?"))
 
 let findOdd = FindOddInteger()
-print(findOdd.findOdd([1, 1, 2, -2, 5, 2, 4, 4, -1, -2, 5]))
+//print(findOdd.findOdd([1, 1, 2, -2, 5, 2, 4, 4, -1, -2, 5]))
+
+let nthSmallest = NthSmallest()
+print(nthSmallest.nthSmallest([1, 3, 5, 7], 3)!)
