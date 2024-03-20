@@ -88,6 +88,7 @@
 		4C6780B72B5AB020006E4691 /* Concatenate First and Last Name into String.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4C6780B62B5AB020006E4691 /* Concatenate First and Last Name into String.swift */; };
 		4C6780B92B5AB221006E4691 /* Sum of polygon angles.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4C6780B82B5AB221006E4691 /* Sum of polygon angles.swift */; };
 		4C67A1DA2BAAD7970022B704 /* Numbers to arrays and vice versa.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4C67A1D92BAAD7970022B704 /* Numbers to arrays and vice versa.swift */; };
+		4C67A1DC2BAAEEFD0022B704 /* Sort numbers in ascending order.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4C67A1DB2BAAEEFD0022B704 /* Sort numbers in ascending order.swift */; };
 		4C6ADD0B2B4E8C3F0087971C /* Convert Minutes into Seconds.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4C6ADD0A2B4E8C3F0087971C /* Convert Minutes into Seconds.swift */; };
 		4C6ADD0D2B4E8EF50087971C /* Find the Perimeter of a Rectangle.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4C6ADD0C2B4E8EF50087971C /* Find the Perimeter of a Rectangle.swift */; };
 		4C7659782B4D5E6E0023DF20 /* Area of a Triangle.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4C7659772B4D5E6E0023DF20 /* Area of a Triangle.swift */; };
@@ -264,6 +265,7 @@
 		4C6780B62B5AB020006E4691 /* Concatenate First and Last Name into String.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "Concatenate First and Last Name into String.swift"; sourceTree = "<group>"; };
 		4C6780B82B5AB221006E4691 /* Sum of polygon angles.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "Sum of polygon angles.swift"; sourceTree = "<group>"; };
 		4C67A1D92BAAD7970022B704 /* Numbers to arrays and vice versa.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "Numbers to arrays and vice versa.swift"; sourceTree = "<group>"; };
+		4C67A1DB2BAAEEFD0022B704 /* Sort numbers in ascending order.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "Sort numbers in ascending order.swift"; sourceTree = "<group>"; };
 		4C6ADD0A2B4E8C3F0087971C /* Convert Minutes into Seconds.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "Convert Minutes into Seconds.swift"; sourceTree = "<group>"; };
 		4C6ADD0C2B4E8EF50087971C /* Find the Perimeter of a Rectangle.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "Find the Perimeter of a Rectangle.swift"; sourceTree = "<group>"; };
 		4C7659772B4D5E6E0023DF20 /* Area of a Triangle.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "Area of a Triangle.swift"; sourceTree = "<group>"; };
@@ -535,6 +537,7 @@
 				4CE540452BA9774B00280A3F /* FInd the odd integer.swift */,
 				4CE540472BA9886100280A3F /* Nth smallest integer.swift */,
 				4C67A1D92BAAD7970022B704 /* Numbers to arrays and vice versa.swift */,
+				4C67A1DB2BAAEEFD0022B704 /* Sort numbers in ascending order.swift */,
 			);
 			path = Edabit;
 			sourceTree = "<group>";
@@ -627,6 +630,7 @@
 				4CD43B6B2B6F9F2B00F5AA79 /* The modulus operator function.swift in Sources */,
 				4C2771D52B61753800130332 /* Football Points.swift in Sources */,
 				4C6780B72B5AB020006E4691 /* Concatenate First and Last Name into String.swift in Sources */,
+				4C67A1DC2BAAEEFD0022B704 /* Sort numbers in ascending order.swift in Sources */,
 				4C37AC922B7AB6D7000B6062 /* Eliminate odd numbers within array.swift in Sources */,
 				4CB99E4A2B63EE7E002FC554 /* Minimal1- If boolean then boolean.swift in Sources */,
 				4C7659782B4D5E6E0023DF20 /* Area of a Triangle.swift in Sources */,

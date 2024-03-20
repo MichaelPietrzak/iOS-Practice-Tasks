@@ -491,6 +491,8 @@ let nthSmallest = NthSmallest()
 //print(nthSmallest.nthSmallest([1, 3, 5, 7], 3)!)
 
 let numConvert = NumArrayViceVersa()
-print(numConvert.toArray(235))
-print(numConvert.toNumber([2, 3, 5]))
+//print(numConvert.toArray(235))
+//print(numConvert.toNumber([2, 3, 5]))
 
+let sortNumsAscending = SortNumInAscending()
+print(sortNumsAscending.sortNumsAscending([1, 2, 10, 50, 5]))
