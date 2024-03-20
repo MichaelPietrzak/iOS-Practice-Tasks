@@ -488,4 +488,9 @@ let findOdd = FindOddInteger()
 //print(findOdd.findOdd([1, 1, 2, -2, 5, 2, 4, 4, -1, -2, 5]))
 
 let nthSmallest = NthSmallest()
-print(nthSmallest.nthSmallest([1, 3, 5, 7], 3)!)
+//print(nthSmallest.nthSmallest([1, 3, 5, 7], 3)!)
+
+let numConvert = NumArrayViceVersa()
+print(numConvert.toArray(235))
+print(numConvert.toNumber([2, 3, 5]))
+
