@@ -495,4 +495,7 @@ let numConvert = NumArrayViceVersa()
 //print(numConvert.toNumber([2, 3, 5]))
 
 let sortNumsAscending = SortNumInAscending()
-print(sortNumsAscending.sortNumsAscending([1, 2, 10, 50, 5]))
+//print(sortNumsAscending.sortNumsAscending([1, 2, 10, 50, 5]))
+
+let squareAndCubes = SquareAndCubes()
+print(squareAndCubes.checkSquareAndCube([9, 27]))
