@@ -498,4 +498,7 @@ let sortNumsAscending = SortNumInAscending()
 //print(sortNumsAscending.sortNumsAscending([1, 2, 10, 50, 5]))
 
 let squareAndCubes = SquareAndCubes()
-print(squareAndCubes.checkSquareAndCube([9, 27]))
+//print(squareAndCubes.checkSquareAndCube([9, 27]))
+
+let convertCartesian = ConvertCartesian()
+print(convertCartesian.convertCartesian([9, 8, 3], [1, 1, 1]))
