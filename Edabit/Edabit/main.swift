@@ -501,4 +501,7 @@ let squareAndCubes = SquareAndCubes()
 //print(squareAndCubes.checkSquareAndCube([9, 27]))
 
 let convertCartesian = ConvertCartesian()
-print(convertCartesian.convertCartesian([9, 8, 3], [1, 1, 1]))
+//print(convertCartesian.convertCartesian([9, 8, 3], [1, 1, 1]))
+
+let onlyIdenticalChars = OnlyIdenticalCharacters()
+print(onlyIdenticalChars.isIdentical("aaaabb"))
