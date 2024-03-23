@@ -504,4 +504,11 @@ let convertCartesian = ConvertCartesian()
 //print(convertCartesian.convertCartesian([9, 8, 3], [1, 1, 1]))
 
 let onlyIdenticalChars = OnlyIdenticalCharacters()
-print(onlyIdenticalChars.isIdentical("aaaabb"))
+//print(onlyIdenticalChars.isIdentical("aaaabb"))
+
+let countOnes = CountOnesArr()
+print(countOnes.countOnes([
+    [1, 2, 3],
+    [0, 2, 1],
+    [5, 7, 33]
+  ]))

@@ -86,6 +86,7 @@
 		4C621C652B869CCE0046237F /* Count instances of character in string.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4C621C642B869CCE0046237F /* Count instances of character in string.swift */; };
 		4C621C672B86B6FE0046237F /* Four letter strings.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4C621C662B86B6FE0046237F /* Four letter strings.swift */; };
 		4C624DC72BAF11E500388AC8 /* String contains only identical characters.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4C624DC62BAF11E500388AC8 /* String contains only identical characters.swift */; };
+		4C624DC92BAF143C00388AC8 /* Count ones in 2D Array.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4C624DC82BAF143C00388AC8 /* Count ones in 2D Array.swift */; };
 		4C6780B72B5AB020006E4691 /* Concatenate First and Last Name into String.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4C6780B62B5AB020006E4691 /* Concatenate First and Last Name into String.swift */; };
 		4C6780B92B5AB221006E4691 /* Sum of polygon angles.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4C6780B82B5AB221006E4691 /* Sum of polygon angles.swift */; };
 		4C67A1DA2BAAD7970022B704 /* Numbers to arrays and vice versa.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4C67A1D92BAAD7970022B704 /* Numbers to arrays and vice versa.swift */; };
@@ -266,6 +267,7 @@
 		4C621C642B869CCE0046237F /* Count instances of character in string.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "Count instances of character in string.swift"; sourceTree = "<group>"; };
 		4C621C662B86B6FE0046237F /* Four letter strings.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "Four letter strings.swift"; sourceTree = "<group>"; };
 		4C624DC62BAF11E500388AC8 /* String contains only identical characters.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "String contains only identical characters.swift"; sourceTree = "<group>"; };
+		4C624DC82BAF143C00388AC8 /* Count ones in 2D Array.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "Count ones in 2D Array.swift"; sourceTree = "<group>"; };
 		4C6780B62B5AB020006E4691 /* Concatenate First and Last Name into String.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "Concatenate First and Last Name into String.swift"; sourceTree = "<group>"; };
 		4C6780B82B5AB221006E4691 /* Sum of polygon angles.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "Sum of polygon angles.swift"; sourceTree = "<group>"; };
 		4C67A1D92BAAD7970022B704 /* Numbers to arrays and vice versa.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "Numbers to arrays and vice versa.swift"; sourceTree = "<group>"; };
@@ -547,6 +549,7 @@
 				4C67A1DD2BAC1E8C0022B704 /* Squares and cubes.swift */,
 				4C67A1DF2BAC26940022B704 /* X and Y coordinates.swift */,
 				4C624DC62BAF11E500388AC8 /* String contains only identical characters.swift */,
+				4C624DC82BAF143C00388AC8 /* Count ones in 2D Array.swift */,
 			);
 			path = Edabit;
 			sourceTree = "<group>";
@@ -629,6 +632,7 @@
 				4C5462292B6BB03F0045E851 /* Return negative.swift in Sources */,
 				4CD39F872B9735A700D4837C /* Sum of two smallest numbers.swift in Sources */,
 				4CA90F322B6A661700397D78 /* Buggy code - Part 4.swift in Sources */,
+				4C624DC92BAF143C00388AC8 /* Count ones in 2D Array.swift in Sources */,
 				4C3DFB332B8E3DD400C065B1 /* Capitalize the names.swift in Sources */,
 				4C22F1B52B79725100386740 /* Difference of max and min numbers in array.swift in Sources */,
 				4C134C1B2B62A4040002ED5E /* Is the string empty.swift in Sources */,
