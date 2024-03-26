@@ -507,8 +507,11 @@ let onlyIdenticalChars = OnlyIdenticalCharacters()
 //print(onlyIdenticalChars.isIdentical("aaaabb"))
 
 let countOnes = CountOnesArr()
-print(countOnes.countOnes([
-    [1, 2, 3],
-    [0, 2, 1],
-    [5, 7, 33]
-  ]))
+//print(countOnes.countOnes([
+//    [1, 2, 3],
+//    [0, 2, 1],
+//    [5, 7, 33]
+//  ]))
+
+let evenOddPartition = EvenOddPartition()
+print(evenOddPartition.evenOddPartition([5, 8, 9, 2, 0]))
