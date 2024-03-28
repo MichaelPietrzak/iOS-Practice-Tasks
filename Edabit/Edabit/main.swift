@@ -520,4 +520,7 @@ let gcd = GCD()
 //print(gcd.gcd(32, 8))
 
 let upperLowerCase = UpperLowerCase()
-print(upperLowerCase.stepsToConvert("abC"))
+//print(upperLowerCase.stepsToConvert("abC"))
+
+let sortBylength = SortByLength()
+print(sortBylength.sortByLength(["Turing", "Einstein", "Jung"]))
