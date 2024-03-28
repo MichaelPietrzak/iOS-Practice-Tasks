@@ -53,6 +53,7 @@
 		4C37AC922B7AB6D7000B6062 /* Eliminate odd numbers within array.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4C37AC912B7AB6D7000B6062 /* Eliminate odd numbers within array.swift */; };
 		4C37AC942B7ABAAC000B6062 /* Hurdle jump.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4C37AC932B7ABAAC000B6062 /* Hurdle jump.swift */; };
 		4C37AC962B7ABCF5000B6062 /* Buggy Code.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4C37AC952B7ABCF5000B6062 /* Buggy Code.swift */; };
+		4C3886B42BB5C3540079B749 /* Upper or Lower case.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4C3886B32BB5C3540079B749 /* Upper or Lower case.swift */; };
 		4C3B72FA2B5D9D8A00B84120 /* The farm problem.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4C3B72F92B5D9D8A00B84120 /* The farm problem.swift */; };
 		4C3B72FE2B5DA26500B84120 /* Boolean to String conversion.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4C3B72FD2B5DA26500B84120 /* Boolean to String conversion.swift */; };
 		4C3B73002B5DA42D00B84120 /* Profitable Gamble.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4C3B72FF2B5DA42D00B84120 /* Profitable Gamble.swift */; };
@@ -236,6 +237,7 @@
 		4C37AC912B7AB6D7000B6062 /* Eliminate odd numbers within array.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "Eliminate odd numbers within array.swift"; sourceTree = "<group>"; };
 		4C37AC932B7ABAAC000B6062 /* Hurdle jump.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "Hurdle jump.swift"; sourceTree = "<group>"; };
 		4C37AC952B7ABCF5000B6062 /* Buggy Code.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "Buggy Code.swift"; sourceTree = "<group>"; };
+		4C3886B32BB5C3540079B749 /* Upper or Lower case.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "Upper or Lower case.swift"; sourceTree = "<group>"; };
 		4C3B72F92B5D9D8A00B84120 /* The farm problem.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "The farm problem.swift"; sourceTree = "<group>"; };
 		4C3B72FD2B5DA26500B84120 /* Boolean to String conversion.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "Boolean to String conversion.swift"; sourceTree = "<group>"; };
 		4C3B72FF2B5DA42D00B84120 /* Profitable Gamble.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "Profitable Gamble.swift"; sourceTree = "<group>"; };
@@ -556,6 +558,7 @@
 				4C624DC82BAF143C00388AC8 /* Count ones in 2D Array.swift */,
 				4C5A5ED22BB2E70C00AA7158 /* Even odd partition.swift */,
 				4C5A5ED42BB2EB7D00AA7158 /* GCD of two numbers.swift */,
+				4C3886B32BB5C3540079B749 /* Upper or Lower case.swift */,
 			);
 			path = Edabit;
 			sourceTree = "<group>";
@@ -712,6 +715,7 @@
 				4C52B9732BA18C85008C7A5E /* Find smallest and biggest number.swift in Sources */,
 				4C34BA272B500BB000F60A9E /* Are the numbers equal.swift in Sources */,
 				4C6780B92B5AB221006E4691 /* Sum of polygon angles.swift in Sources */,
+				4C3886B42BB5C3540079B749 /* Upper or Lower case.swift in Sources */,
 				4C22F1B92B79778600386740 /* FizzBuzz Interview Question.swift in Sources */,
 				4C37AC8C2B7AAEE4000B6062 /* Find the index.swift in Sources */,
 				4C37508D2B5156EE00318140 /* Return the remainder from two numbers.swift in Sources */,

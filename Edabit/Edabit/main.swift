@@ -517,4 +517,7 @@ let evenOddPartition = EvenOddPartition()
 //print(evenOddPartition.evenOddPartition([5, 8, 9, 2, 0]))
 
 let gcd = GCD()
-print(gcd.gcd(32, 8))
+//print(gcd.gcd(32, 8))
+
+let upperLowerCase = UpperLowerCase()
+print(upperLowerCase.stepsToConvert("abC"))
