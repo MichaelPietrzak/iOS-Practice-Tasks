@@ -117,6 +117,7 @@
 		4C85F4582B71086C00856305 /* Re-form the word.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4C85F4572B71086C00856305 /* Re-form the word.swift */; };
 		4C85F45A2B710A5F00856305 /* String to integer and vice versa.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4C85F4592B710A5F00856305 /* String to integer and vice versa.swift */; };
 		4C87D5212BB7169500969644 /* Xs and Os, Nobody knows.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4C87D5202BB7169500969644 /* Xs and Os, Nobody knows.swift */; };
+		4C87D5252BB7207100969644 /* Product divisible by sum.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4C87D5242BB7207100969644 /* Product divisible by sum.swift */; };
 		4C87F7382B7E41F900DB2E31 /* Alphabet soup.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4C87F7372B7E41F800DB2E31 /* Alphabet soup.swift */; };
 		4C87F73A2B7E43B200DB2E31 /* Find the discount.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4C87F7392B7E43B200DB2E31 /* Find the discount.swift */; };
 		4C87F73C2B7E45A800DB2E31 /* How much is true.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4C87F73B2B7E45A800DB2E31 /* How much is true.swift */; };
@@ -303,6 +304,7 @@
 		4C85F4572B71086C00856305 /* Re-form the word.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "Re-form the word.swift"; sourceTree = "<group>"; };
 		4C85F4592B710A5F00856305 /* String to integer and vice versa.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "String to integer and vice versa.swift"; sourceTree = "<group>"; };
 		4C87D5202BB7169500969644 /* Xs and Os, Nobody knows.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "Xs and Os, Nobody knows.swift"; sourceTree = "<group>"; };
+		4C87D5242BB7207100969644 /* Product divisible by sum.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "Product divisible by sum.swift"; sourceTree = "<group>"; };
 		4C87F7372B7E41F800DB2E31 /* Alphabet soup.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "Alphabet soup.swift"; sourceTree = "<group>"; };
 		4C87F7392B7E43B200DB2E31 /* Find the discount.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "Find the discount.swift"; sourceTree = "<group>"; };
 		4C87F73B2B7E45A800DB2E31 /* How much is true.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "How much is true.swift"; sourceTree = "<group>"; };
@@ -565,6 +567,7 @@
 				4C3886B32BB5C3540079B749 /* Upper or Lower case.swift */,
 				4C3886B72BB5D0730079B749 /* Sort an array by string length.swift */,
 				4C87D5202BB7169500969644 /* Xs and Os, Nobody knows.swift */,
+				4C87D5242BB7207100969644 /* Product divisible by sum.swift */,
 			);
 			path = Edabit;
 			sourceTree = "<group>";
@@ -738,6 +741,7 @@
 				4C5CCD972B7A65060047090B /* Missing third angle.swift in Sources */,
 				4C37AC942B7ABAAC000B6062 /* Hurdle jump.swift in Sources */,
 				4C9C54942B6EDFBE008BD33C /* Check string for spaces.swift in Sources */,
+				4C87D5252BB7207100969644 /* Product divisible by sum.swift in Sources */,
 				4CD9C9EE2B5EBFCA00DD33FA /* Return something to me.swift in Sources */,
 				4C621C672B86B6FE0046237F /* Four letter strings.swift in Sources */,
 				4C5C609C2B88B492008B9723 /* Sum of cubes.swift in Sources */,

@@ -526,4 +526,7 @@ let sortBylength = SortByLength()
 //print(sortBylength.sortByLength(["Turing", "Einstein", "Jung"]))
 
 let xsOs = XsOs()
-print(xsOs.xo("ooxx"))
+//print(xsOs.xo("ooxx"))
+
+let divisible = Divisible()
+print(divisible.divisible([4, 2, 6]))
