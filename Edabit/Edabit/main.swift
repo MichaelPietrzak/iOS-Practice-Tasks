@@ -523,4 +523,7 @@ let upperLowerCase = UpperLowerCase()
 //print(upperLowerCase.stepsToConvert("abC"))
 
 let sortBylength = SortByLength()
-print(sortBylength.sortByLength(["Turing", "Einstein", "Jung"]))
+//print(sortBylength.sortByLength(["Turing", "Einstein", "Jung"]))
+
+let xsOs = XsOs()
+print(xsOs.xo("ooxx"))
