@@ -529,4 +529,11 @@ let xsOs = XsOs()
 //print(xsOs.xo("ooxx"))
 
 let divisible = Divisible()
-print(divisible.divisible([4, 2, 6]))
+//print(divisible.divisible([4, 2, 6]))
+
+let sumOfEvens = SumOfEvens()
+print(sumOfEvens.sumOfEvens([
+    [1, 0, 2],
+    [5, 5, 7],
+    [9, 4, 3]
+  ]))
