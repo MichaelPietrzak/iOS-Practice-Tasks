@@ -159,6 +159,7 @@
 		4CDA328C2BA455110090D2F0 /* Remove every vowel from a string.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4CDA328B2BA455110090D2F0 /* Remove every vowel from a string.swift */; };
 		4CDA328E2BA46C6F0090D2F0 /* Is the word an isogram.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4CDA328D2BA46C6F0090D2F0 /* Is the word an isogram.swift */; };
 		4CDED7C52BBC1C7D00AD2B60 /* Sum of all evens in matrix.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4CDED7C42BBC1C7D00AD2B60 /* Sum of all evens in matrix.swift */; };
+		4CDED7C72BBC226A00AD2B60 /* Smaller string number.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4CDED7C62BBC226A00AD2B60 /* Smaller string number.swift */; };
 		4CE540462BA9774B00280A3F /* FInd the odd integer.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4CE540452BA9774B00280A3F /* FInd the odd integer.swift */; };
 		4CE540482BA9886100280A3F /* Nth smallest integer.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4CE540472BA9886100280A3F /* Nth smallest integer.swift */; };
 		4CE68A542B9B3510004B0285 /* Hitting the jackpot.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4CE68A532B9B3510004B0285 /* Hitting the jackpot.swift */; };
@@ -347,6 +348,7 @@
 		4CDA328B2BA455110090D2F0 /* Remove every vowel from a string.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "Remove every vowel from a string.swift"; sourceTree = "<group>"; };
 		4CDA328D2BA46C6F0090D2F0 /* Is the word an isogram.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "Is the word an isogram.swift"; sourceTree = "<group>"; };
 		4CDED7C42BBC1C7D00AD2B60 /* Sum of all evens in matrix.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "Sum of all evens in matrix.swift"; sourceTree = "<group>"; };
+		4CDED7C62BBC226A00AD2B60 /* Smaller string number.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "Smaller string number.swift"; sourceTree = "<group>"; };
 		4CE540452BA9774B00280A3F /* FInd the odd integer.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "FInd the odd integer.swift"; sourceTree = "<group>"; };
 		4CE540472BA9886100280A3F /* Nth smallest integer.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "Nth smallest integer.swift"; sourceTree = "<group>"; };
 		4CE68A532B9B3510004B0285 /* Hitting the jackpot.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "Hitting the jackpot.swift"; sourceTree = "<group>"; };
@@ -571,6 +573,7 @@
 				4C87D5202BB7169500969644 /* Xs and Os, Nobody knows.swift */,
 				4C87D5242BB7207100969644 /* Product divisible by sum.swift */,
 				4CDED7C42BBC1C7D00AD2B60 /* Sum of all evens in matrix.swift */,
+				4CDED7C62BBC226A00AD2B60 /* Smaller string number.swift */,
 			);
 			path = Edabit;
 			sourceTree = "<group>";
@@ -761,6 +764,7 @@
 				4C8F28BE2B4C5901006373C7 /* Convert Age to Days.swift in Sources */,
 				4C34BA252B500A8000F60A9E /* Is the number less or equal to zero.swift in Sources */,
 				4CFF79322B5FF8A3006F2004 /* Multiple of 100.swift in Sources */,
+				4CDED7C72BBC226A00AD2B60 /* Smaller string number.swift in Sources */,
 				4CFB81662B853E3200D17CFF /* Additive inverse.swift in Sources */,
 				4C4B58752B74E265005F61B9 /* Maximum difference.swift in Sources */,
 				4CB70C842B73CC7000E688DB /* Recreating abs() function.swift in Sources */,

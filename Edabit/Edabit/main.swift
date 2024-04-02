@@ -532,8 +532,11 @@ let divisible = Divisible()
 //print(divisible.divisible([4, 2, 6]))
 
 let sumOfEvens = SumOfEvens()
-print(sumOfEvens.sumOfEvens([
-    [1, 0, 2],
-    [5, 5, 7],
-    [9, 4, 3]
-  ]))
+//print(sumOfEvens.sumOfEvens([
+//    [1, 0, 2],
+//    [5, 5, 7],
+//    [9, 4, 3]
+//  ]))
+
+let smallerNum = SmallerNum()
+print(smallerNum.smallerNum("21", "44"))
