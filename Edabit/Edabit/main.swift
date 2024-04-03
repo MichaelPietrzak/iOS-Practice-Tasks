@@ -539,4 +539,7 @@ let sumOfEvens = SumOfEvens()
 //  ]))
 
 let smallerNum = SmallerNum()
-print(smallerNum.smallerNum("21", "44"))
+//print(smallerNum.smallerNum("21", "44"))
+
+let changeEnough = ConvenienceStore()
+print(changeEnough.changeEnough([2, 100, 0, 0], 14.11))

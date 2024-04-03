@@ -136,6 +136,7 @@
 		4CA90F302B6A62B000397D78 /* Area of rectangle.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4CA90F2F2B6A62B000397D78 /* Area of rectangle.swift */; };
 		4CA90F322B6A661700397D78 /* Buggy code - Part 4.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4CA90F312B6A661700397D78 /* Buggy code - Part 4.swift */; };
 		4CA90F342B6A687900397D78 /* Find out the leap year.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4CA90F332B6A687900397D78 /* Find out the leap year.swift */; };
+		4CAFB6AF2BBD5561007C7B20 /* Convenience store.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4CAFB6AE2BBD5561007C7B20 /* Convenience store.swift */; };
 		4CB16ECB2B57BB82006EC617 /* Name Greeting.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4CB16ECA2B57BB82006EC617 /* Name Greeting.swift */; };
 		4CB16ECD2B57BD4F006EC617 /* Check integer if divisible.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4CB16ECC2B57BD4F006EC617 /* Check integer if divisible.swift */; };
 		4CB70C802B73A06900E688DB /* Fix basic calculator.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4CB70C7F2B73A06900E688DB /* Fix basic calculator.swift */; };
@@ -325,6 +326,7 @@
 		4CA90F2F2B6A62B000397D78 /* Area of rectangle.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "Area of rectangle.swift"; sourceTree = "<group>"; };
 		4CA90F312B6A661700397D78 /* Buggy code - Part 4.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "Buggy code - Part 4.swift"; sourceTree = "<group>"; };
 		4CA90F332B6A687900397D78 /* Find out the leap year.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "Find out the leap year.swift"; sourceTree = "<group>"; };
+		4CAFB6AE2BBD5561007C7B20 /* Convenience store.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "Convenience store.swift"; sourceTree = "<group>"; };
 		4CB16ECA2B57BB82006EC617 /* Name Greeting.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "Name Greeting.swift"; sourceTree = "<group>"; };
 		4CB16ECC2B57BD4F006EC617 /* Check integer if divisible.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "Check integer if divisible.swift"; sourceTree = "<group>"; };
 		4CB70C7F2B73A06900E688DB /* Fix basic calculator.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "Fix basic calculator.swift"; sourceTree = "<group>"; };
@@ -574,6 +576,7 @@
 				4C87D5242BB7207100969644 /* Product divisible by sum.swift */,
 				4CDED7C42BBC1C7D00AD2B60 /* Sum of all evens in matrix.swift */,
 				4CDED7C62BBC226A00AD2B60 /* Smaller string number.swift */,
+				4CAFB6AE2BBD5561007C7B20 /* Convenience store.swift */,
 			);
 			path = Edabit;
 			sourceTree = "<group>";
@@ -642,6 +645,7 @@
 				4C8231032B7F847C008C39B2 /* Find the smallest number in array.swift in Sources */,
 				4C10BE252B7CAF3D0058C33A /* Return number of parameters.swift in Sources */,
 				4C828FAD2B56D0CE0042153A /* Correct the Mistakes.swift in Sources */,
+				4CAFB6AF2BBD5561007C7B20 /* Convenience store.swift in Sources */,
 				4CFF792E2B5FF4CE006F2004 /* Are the number if equal.swift in Sources */,
 				4C35E73D2B726B30002BFF78 /* No conditionals.swift in Sources */,
 				4CA90F2C2B6A4CBB00397D78 /* Buggy Code - Part 3.swift in Sources */,
