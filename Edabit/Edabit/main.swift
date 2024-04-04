@@ -545,4 +545,7 @@ let changeEnough = ConvenienceStore()
 //print(changeEnough.changeEnough([2, 100, 0, 0], 14.11))
 
 let hammingDistance = HammingDistance()
-print(hammingDistance.hammingDistance("abcde", "bcdef"))
+//print(hammingDistance.hammingDistance("abcde", "bcdef"))
+
+let removeSpecialCharacters = RemoveSpecialCharacters()
+print(removeSpecialCharacters.removeSpecialCharacters("The quick brown fox!"))

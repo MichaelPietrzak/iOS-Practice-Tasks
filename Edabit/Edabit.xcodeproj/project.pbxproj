@@ -151,6 +151,7 @@
 		4CC3A66D2B6D382200C72829 /* Return last element in array.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4CC3A66C2B6D382200C72829 /* Return last element in array.swift */; };
 		4CC6A9922BA3807A0025F5DD /* Prefixes vs. Suffixes.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4CC6A9912BA3807A0025F5DD /* Prefixes vs. Suffixes.swift */; };
 		4CC6A9942BA387840025F5DD /* International greetings.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4CC6A9932BA387840025F5DD /* International greetings.swift */; };
+		4CCC0C872BBEA32700DED27E /* Remove special characters from string.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4CCC0C862BBEA32700DED27E /* Remove special characters from string.swift */; };
 		4CD066D72B69A7CA008952D1 /* Movie theatre admittance.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4CD066D62B69A7CA008952D1 /* Movie theatre admittance.swift */; };
 		4CD39F872B9735A700D4837C /* Sum of two smallest numbers.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4CD39F862B9735A700D4837C /* Sum of two smallest numbers.swift */; };
 		4CD39F8B2B97957100D4837C /* Secret society.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4CD39F8A2B97957100D4837C /* Secret society.swift */; };
@@ -342,6 +343,7 @@
 		4CC3A66C2B6D382200C72829 /* Return last element in array.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "Return last element in array.swift"; sourceTree = "<group>"; };
 		4CC6A9912BA3807A0025F5DD /* Prefixes vs. Suffixes.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "Prefixes vs. Suffixes.swift"; sourceTree = "<group>"; };
 		4CC6A9932BA387840025F5DD /* International greetings.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "International greetings.swift"; sourceTree = "<group>"; };
+		4CCC0C862BBEA32700DED27E /* Remove special characters from string.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "Remove special characters from string.swift"; sourceTree = "<group>"; };
 		4CD066D62B69A7CA008952D1 /* Movie theatre admittance.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "Movie theatre admittance.swift"; sourceTree = "<group>"; };
 		4CD39F862B9735A700D4837C /* Sum of two smallest numbers.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "Sum of two smallest numbers.swift"; sourceTree = "<group>"; };
 		4CD39F8A2B97957100D4837C /* Secret society.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "Secret society.swift"; sourceTree = "<group>"; };
@@ -580,6 +582,7 @@
 				4CDED7C62BBC226A00AD2B60 /* Smaller string number.swift */,
 				4CAFB6AE2BBD5561007C7B20 /* Convenience store.swift */,
 				4CAFB6B02BBD5DA9007C7B20 /* Hamming distance.swift */,
+				4CCC0C862BBEA32700DED27E /* Remove special characters from string.swift */,
 			);
 			path = Edabit;
 			sourceTree = "<group>";
@@ -706,6 +709,7 @@
 				4CB16ECB2B57BB82006EC617 /* Name Greeting.swift in Sources */,
 				4CB70C802B73A06900E688DB /* Fix basic calculator.swift in Sources */,
 				4C52B9752BA191FB008C7A5E /* Negative image.swift in Sources */,
+				4CCC0C872BBEA32700DED27E /* Remove special characters from string.swift in Sources */,
 				4C3886B82BB5D0730079B749 /* Sort an array by string length.swift in Sources */,
 				4C85F4542B70FC6A00856305 /* Unlucky 13.swift in Sources */,
 				4C87F73E2B7E476E00DB2E31 /* Human, cat and dog years.swift in Sources */,
