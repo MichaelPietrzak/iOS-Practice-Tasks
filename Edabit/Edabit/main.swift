@@ -548,4 +548,7 @@ let hammingDistance = HammingDistance()
 //print(hammingDistance.hammingDistance("abcde", "bcdef"))
 
 let removeSpecialCharacters = RemoveSpecialCharacters()
-print(removeSpecialCharacters.removeSpecialCharacters("The quick brown fox!"))
+//print(removeSpecialCharacters.removeSpecialCharacters("The quick brown fox!"))
+
+let sortDescending = SortDescending()
+print(sortDescending.sortDescending(123))
