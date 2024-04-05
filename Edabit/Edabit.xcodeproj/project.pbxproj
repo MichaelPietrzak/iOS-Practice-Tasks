@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		4C00F7702BBFF05B00161C5D /* Say hello to guests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4C00F76F2BBFF05B00161C5D /* Say hello to guests.swift */; };
 		4C03FEB32BA645A800EFB331 /* Get the century.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4C03FEB22BA645A800EFB331 /* Get the century.swift */; };
 		4C03FEB72BA64D0400EFB331 /* Vowel replacer.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4C03FEB62BA64D0400EFB331 /* Vowel replacer.swift */; };
 		4C10BE1D2B7B63590058C33A /* Tile teamwork tactics.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4C10BE1C2B7B63590058C33A /* Tile teamwork tactics.swift */; };
@@ -199,6 +200,7 @@
 /* End PBXCopyFilesBuildPhase section */
 
 /* Begin PBXFileReference section */
+		4C00F76F2BBFF05B00161C5D /* Say hello to guests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "Say hello to guests.swift"; sourceTree = "<group>"; };
 		4C03FEB22BA645A800EFB331 /* Get the century.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "Get the century.swift"; sourceTree = "<group>"; };
 		4C03FEB62BA64D0400EFB331 /* Vowel replacer.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "Vowel replacer.swift"; sourceTree = "<group>"; };
 		4C10BE1C2B7B63590058C33A /* Tile teamwork tactics.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "Tile teamwork tactics.swift"; sourceTree = "<group>"; };
@@ -586,6 +588,7 @@
 				4CAFB6B02BBD5DA9007C7B20 /* Hamming distance.swift */,
 				4CCC0C862BBEA32700DED27E /* Remove special characters from string.swift */,
 				4CCC0C8C2BBECD0900DED27E /* Sort numbers in descending order.swift */,
+				4C00F76F2BBFF05B00161C5D /* Say hello to guests.swift */,
 			);
 			path = Edabit;
 			sourceTree = "<group>";
@@ -743,6 +746,7 @@
 				4C10BE272B7CB24A0058C33A /* Next element in sequence.swift in Sources */,
 				4C12D1EE2B9609BA003FCA65 /* Shuffle the name.swift in Sources */,
 				4C52B9732BA18C85008C7A5E /* Find smallest and biggest number.swift in Sources */,
+				4C00F7702BBFF05B00161C5D /* Say hello to guests.swift in Sources */,
 				4C34BA272B500BB000F60A9E /* Are the numbers equal.swift in Sources */,
 				4C6780B92B5AB221006E4691 /* Sum of polygon angles.swift in Sources */,
 				4C3886B42BB5C3540079B749 /* Upper or Lower case.swift in Sources */,

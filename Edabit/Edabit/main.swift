@@ -551,4 +551,7 @@ let removeSpecialCharacters = RemoveSpecialCharacters()
 //print(removeSpecialCharacters.removeSpecialCharacters("The quick brown fox!"))
 
 let sortDescending = SortDescending()
-print(sortDescending.sortDescending(123))
+//print(sortDescending.sortDescending(123))
+
+let greetPeople = GreetPeople()
+print(greetPeople.greetPeople(["Angela", "Joe"]))
