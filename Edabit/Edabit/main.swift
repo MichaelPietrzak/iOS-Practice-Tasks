@@ -554,4 +554,7 @@ let sortDescending = SortDescending()
 //print(sortDescending.sortDescending(123))
 
 let greetPeople = GreetPeople()
-print(greetPeople.greetPeople(["Angela", "Joe"]))
+//print(greetPeople.greetPeople(["Angela", "Joe"]))
+
+let carsNeeded = CarsNeeded()
+print(carsNeeded.carsNeeded(11))

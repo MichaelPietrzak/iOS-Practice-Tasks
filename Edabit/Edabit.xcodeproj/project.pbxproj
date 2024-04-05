@@ -8,6 +8,7 @@
 
 /* Begin PBXBuildFile section */
 		4C00F7702BBFF05B00161C5D /* Say hello to guests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4C00F76F2BBFF05B00161C5D /* Say hello to guests.swift */; };
+		4C00F7742BBFF8BB00161C5D /* Four passengers and driver.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4C00F7732BBFF8BB00161C5D /* Four passengers and driver.swift */; };
 		4C03FEB32BA645A800EFB331 /* Get the century.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4C03FEB22BA645A800EFB331 /* Get the century.swift */; };
 		4C03FEB72BA64D0400EFB331 /* Vowel replacer.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4C03FEB62BA64D0400EFB331 /* Vowel replacer.swift */; };
 		4C10BE1D2B7B63590058C33A /* Tile teamwork tactics.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4C10BE1C2B7B63590058C33A /* Tile teamwork tactics.swift */; };
@@ -201,6 +202,7 @@
 
 /* Begin PBXFileReference section */
 		4C00F76F2BBFF05B00161C5D /* Say hello to guests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "Say hello to guests.swift"; sourceTree = "<group>"; };
+		4C00F7732BBFF8BB00161C5D /* Four passengers and driver.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "Four passengers and driver.swift"; sourceTree = "<group>"; };
 		4C03FEB22BA645A800EFB331 /* Get the century.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "Get the century.swift"; sourceTree = "<group>"; };
 		4C03FEB62BA64D0400EFB331 /* Vowel replacer.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "Vowel replacer.swift"; sourceTree = "<group>"; };
 		4C10BE1C2B7B63590058C33A /* Tile teamwork tactics.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "Tile teamwork tactics.swift"; sourceTree = "<group>"; };
@@ -589,6 +591,7 @@
 				4CCC0C862BBEA32700DED27E /* Remove special characters from string.swift */,
 				4CCC0C8C2BBECD0900DED27E /* Sort numbers in descending order.swift */,
 				4C00F76F2BBFF05B00161C5D /* Say hello to guests.swift */,
+				4C00F7732BBFF8BB00161C5D /* Four passengers and driver.swift */,
 			);
 			path = Edabit;
 			sourceTree = "<group>";
@@ -781,6 +784,7 @@
 				4C9C54922B6ECE08008BD33C /* Slice of pie.swift in Sources */,
 				4CFF79302B5FF70B006F2004 /* Concatenating two integer arrays.swift in Sources */,
 				4C8F28BE2B4C5901006373C7 /* Convert Age to Days.swift in Sources */,
+				4C00F7742BBFF8BB00161C5D /* Four passengers and driver.swift in Sources */,
 				4C34BA252B500A8000F60A9E /* Is the number less or equal to zero.swift in Sources */,
 				4CFF79322B5FF8A3006F2004 /* Multiple of 100.swift in Sources */,
 				4CDED7C72BBC226A00AD2B60 /* Smaller string number.swift in Sources */,
