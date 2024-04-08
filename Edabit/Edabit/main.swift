@@ -560,4 +560,7 @@ let carsNeeded = CarsNeeded()
 //print(carsNeeded.carsNeeded(11))
 
 let totalVolume = TotalVolume()
-print(totalVolume.totalVolume([4, 2, 4], [3, 3, 3], [1, 1, 2], [2, 1, 1]))
+//print(totalVolume.totalVolume([4, 2, 4], [3, 3, 3], [1, 1, 2], [2, 1, 1]))
+
+let daysInMonth = DaysInMonth()
+print(daysInMonth.daysInMonth(2, 2018))

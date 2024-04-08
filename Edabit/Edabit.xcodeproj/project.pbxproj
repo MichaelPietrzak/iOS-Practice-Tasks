@@ -71,6 +71,7 @@
 		4C46C7A32B8F416A00558986 /* Reverse order of words.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4C46C7A22B8F416A00558986 /* Reverse order of words.swift */; };
 		4C46C7A52B8F59C600558986 /* How many solutions quadratic have.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4C46C7A42B8F59C600558986 /* How many solutions quadratic have.swift */; };
 		4C4859BD2BC437F00089C9A8 /* Total volume of all boxes.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4C4859BC2BC437F00089C9A8 /* Total volume of all boxes.swift */; };
+		4C4859BF2BC439C30089C9A8 /* Days in month.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4C4859BE2BC439C30089C9A8 /* Days in month.swift */; };
 		4C4B3C722B6939E8005A1EE5 /* Frames per second.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4C4B3C712B6939E8005A1EE5 /* Frames per second.swift */; };
 		4C4B3C742B693F53005A1EE5 /* Flip the boolean.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4C4B3C732B693F53005A1EE5 /* Flip the boolean.swift */; };
 		4C4B58752B74E265005F61B9 /* Maximum difference.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4C4B58742B74E265005F61B9 /* Maximum difference.swift */; };
@@ -267,6 +268,7 @@
 		4C46C7A22B8F416A00558986 /* Reverse order of words.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "Reverse order of words.swift"; sourceTree = "<group>"; };
 		4C46C7A42B8F59C600558986 /* How many solutions quadratic have.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "How many solutions quadratic have.swift"; sourceTree = "<group>"; };
 		4C4859BC2BC437F00089C9A8 /* Total volume of all boxes.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "Total volume of all boxes.swift"; sourceTree = "<group>"; };
+		4C4859BE2BC439C30089C9A8 /* Days in month.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "Days in month.swift"; sourceTree = "<group>"; };
 		4C4B3C712B6939E8005A1EE5 /* Frames per second.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "Frames per second.swift"; sourceTree = "<group>"; };
 		4C4B3C732B693F53005A1EE5 /* Flip the boolean.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "Flip the boolean.swift"; sourceTree = "<group>"; };
 		4C4B58742B74E265005F61B9 /* Maximum difference.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "Maximum difference.swift"; sourceTree = "<group>"; };
@@ -595,6 +597,7 @@
 				4C00F76F2BBFF05B00161C5D /* Say hello to guests.swift */,
 				4C00F7732BBFF8BB00161C5D /* Four passengers and driver.swift */,
 				4C4859BC2BC437F00089C9A8 /* Total volume of all boxes.swift */,
+				4C4859BE2BC439C30089C9A8 /* Days in month.swift */,
 			);
 			path = Edabit;
 			sourceTree = "<group>";
@@ -800,6 +803,7 @@
 				4C4B3C742B693F53005A1EE5 /* Flip the boolean.swift in Sources */,
 				4C67A1E02BAC26940022B704 /* X and Y coordinates.swift in Sources */,
 				4CC6A9922BA3807A0025F5DD /* Prefixes vs. Suffixes.swift in Sources */,
+				4C4859BF2BC439C30089C9A8 /* Days in month.swift in Sources */,
 				4C624DC72BAF11E500388AC8 /* String contains only identical characters.swift in Sources */,
 				4C3B73002B5DA42D00B84120 /* Profitable Gamble.swift in Sources */,
 				4C85F4582B71086C00856305 /* Re-form the word.swift in Sources */,
