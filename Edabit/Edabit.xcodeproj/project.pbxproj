@@ -70,6 +70,7 @@
 		4C46C7A12B8F39BD00558986 /* Exists a number higher.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4C46C7A02B8F39BD00558986 /* Exists a number higher.swift */; };
 		4C46C7A32B8F416A00558986 /* Reverse order of words.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4C46C7A22B8F416A00558986 /* Reverse order of words.swift */; };
 		4C46C7A52B8F59C600558986 /* How many solutions quadratic have.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4C46C7A42B8F59C600558986 /* How many solutions quadratic have.swift */; };
+		4C4859BD2BC437F00089C9A8 /* Total volume of all boxes.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4C4859BC2BC437F00089C9A8 /* Total volume of all boxes.swift */; };
 		4C4B3C722B6939E8005A1EE5 /* Frames per second.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4C4B3C712B6939E8005A1EE5 /* Frames per second.swift */; };
 		4C4B3C742B693F53005A1EE5 /* Flip the boolean.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4C4B3C732B693F53005A1EE5 /* Flip the boolean.swift */; };
 		4C4B58752B74E265005F61B9 /* Maximum difference.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4C4B58742B74E265005F61B9 /* Maximum difference.swift */; };
@@ -265,6 +266,7 @@
 		4C46C7A02B8F39BD00558986 /* Exists a number higher.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "Exists a number higher.swift"; sourceTree = "<group>"; };
 		4C46C7A22B8F416A00558986 /* Reverse order of words.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "Reverse order of words.swift"; sourceTree = "<group>"; };
 		4C46C7A42B8F59C600558986 /* How many solutions quadratic have.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "How many solutions quadratic have.swift"; sourceTree = "<group>"; };
+		4C4859BC2BC437F00089C9A8 /* Total volume of all boxes.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "Total volume of all boxes.swift"; sourceTree = "<group>"; };
 		4C4B3C712B6939E8005A1EE5 /* Frames per second.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "Frames per second.swift"; sourceTree = "<group>"; };
 		4C4B3C732B693F53005A1EE5 /* Flip the boolean.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "Flip the boolean.swift"; sourceTree = "<group>"; };
 		4C4B58742B74E265005F61B9 /* Maximum difference.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "Maximum difference.swift"; sourceTree = "<group>"; };
@@ -592,6 +594,7 @@
 				4CCC0C8C2BBECD0900DED27E /* Sort numbers in descending order.swift */,
 				4C00F76F2BBFF05B00161C5D /* Say hello to guests.swift */,
 				4C00F7732BBFF8BB00161C5D /* Four passengers and driver.swift */,
+				4C4859BC2BC437F00089C9A8 /* Total volume of all boxes.swift */,
 			);
 			path = Edabit;
 			sourceTree = "<group>";
@@ -743,6 +746,7 @@
 				4CB16ECD2B57BD4F006EC617 /* Check integer if divisible.swift in Sources */,
 				4C37508F2B515AC800318140 /* Convert Hours into Seconds.swift in Sources */,
 				4C828FAB2B56CC1A0042153A /* Maximum Edge of a triangle.swift in Sources */,
+				4C4859BD2BC437F00089C9A8 /* Total volume of all boxes.swift in Sources */,
 				4C5A5ED32BB2E70C00AA7158 /* Even odd partition.swift in Sources */,
 				4C10BE2D2B7CD17A0058C33A /* Max weight allowed.swift in Sources */,
 				4C8231012B7F8289008C39B2 /* Even number generator.swift in Sources */,

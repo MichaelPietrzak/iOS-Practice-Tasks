@@ -557,4 +557,7 @@ let greetPeople = GreetPeople()
 //print(greetPeople.greetPeople(["Angela", "Joe"]))
 
 let carsNeeded = CarsNeeded()
-print(carsNeeded.carsNeeded(11))
+//print(carsNeeded.carsNeeded(11))
+
+let totalVolume = TotalVolume()
+print(totalVolume.totalVolume([4, 2, 4], [3, 3, 3], [1, 1, 2], [2, 1, 1]))
