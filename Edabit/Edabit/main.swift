@@ -566,4 +566,7 @@ let daysInMonth = DaysInMonth()
 //print(daysInMonth.daysInMonth(2, 2018))
 
 let removeFirstLast = RemoveFirstLast()
-print(removeFirstLast.removeFirstLast("benefit"))
+//print(removeFirstLast.removeFirstLast("benefit"))
+
+let missingNum = MissingNum()
+print(missingNum.missingNum([7, 2, 3, 6, 5, 9, 1, 4, 8]))
