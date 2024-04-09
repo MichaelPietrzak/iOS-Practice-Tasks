@@ -563,4 +563,7 @@ let totalVolume = TotalVolume()
 //print(totalVolume.totalVolume([4, 2, 4], [3, 3, 3], [1, 1, 2], [2, 1, 1]))
 
 let daysInMonth = DaysInMonth()
-print(daysInMonth.daysInMonth(2, 2018))
+//print(daysInMonth.daysInMonth(2, 2018))
+
+let removeFirstLast = RemoveFirstLast()
+print(removeFirstLast.removeFirstLast("benefit"))
