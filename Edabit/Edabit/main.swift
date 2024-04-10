@@ -569,4 +569,7 @@ let removeFirstLast = RemoveFirstLast()
 //print(removeFirstLast.removeFirstLast("benefit"))
 
 let missingNum = MissingNum()
-print(missingNum.missingNum([7, 2, 3, 6, 5, 9, 1, 4, 8]))
+//print(missingNum.missingNum([7, 2, 3, 6, 5, 9, 1, 4, 8]))
+
+let olderThanMe = OlderThanMe()
+print(olderThanMe.p1.compareAge(olderThanMe.p2))
