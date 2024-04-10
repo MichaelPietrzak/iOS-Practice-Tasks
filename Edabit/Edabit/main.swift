@@ -572,4 +572,7 @@ let missingNum = MissingNum()
 //print(missingNum.missingNum([7, 2, 3, 6, 5, 9, 1, 4, 8]))
 
 let olderThanMe = OlderThanMe()
-print(olderThanMe.p1.compareAge(olderThanMe.p2))
+//print(olderThanMe.p1.compareAge(olderThanMe.p2))
+
+let convertToDecimal = ConvertToDecimal()
+print(convertToDecimal.convertToDecimal(["45%", "32%", "97%", "33%"]))
