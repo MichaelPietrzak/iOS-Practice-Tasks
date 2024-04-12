@@ -159,6 +159,7 @@
 		4CC3A66D2B6D382200C72829 /* Return last element in array.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4CC3A66C2B6D382200C72829 /* Return last element in array.swift */; };
 		4CC6A9922BA3807A0025F5DD /* Prefixes vs. Suffixes.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4CC6A9912BA3807A0025F5DD /* Prefixes vs. Suffixes.swift */; };
 		4CC6A9942BA387840025F5DD /* International greetings.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4CC6A9932BA387840025F5DD /* International greetings.swift */; };
+		4CCB4FC92BC929D100C72C5D /* Sum of digits between two numbers.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4CCB4FC82BC929D100C72C5D /* Sum of digits between two numbers.swift */; };
 		4CCC0C872BBEA32700DED27E /* Remove special characters from string.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4CCC0C862BBEA32700DED27E /* Remove special characters from string.swift */; };
 		4CCC0C8D2BBECD0900DED27E /* Sort numbers in descending order.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4CCC0C8C2BBECD0900DED27E /* Sort numbers in descending order.swift */; };
 		4CD066D72B69A7CA008952D1 /* Movie theatre admittance.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4CD066D62B69A7CA008952D1 /* Movie theatre admittance.swift */; };
@@ -360,6 +361,7 @@
 		4CC3A66C2B6D382200C72829 /* Return last element in array.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "Return last element in array.swift"; sourceTree = "<group>"; };
 		4CC6A9912BA3807A0025F5DD /* Prefixes vs. Suffixes.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "Prefixes vs. Suffixes.swift"; sourceTree = "<group>"; };
 		4CC6A9932BA387840025F5DD /* International greetings.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "International greetings.swift"; sourceTree = "<group>"; };
+		4CCB4FC82BC929D100C72C5D /* Sum of digits between two numbers.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "Sum of digits between two numbers.swift"; sourceTree = "<group>"; };
 		4CCC0C862BBEA32700DED27E /* Remove special characters from string.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "Remove special characters from string.swift"; sourceTree = "<group>"; };
 		4CCC0C8C2BBECD0900DED27E /* Sort numbers in descending order.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "Sort numbers in descending order.swift"; sourceTree = "<group>"; };
 		4CD066D62B69A7CA008952D1 /* Movie theatre admittance.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "Movie theatre admittance.swift"; sourceTree = "<group>"; };
@@ -610,6 +612,7 @@
 				4C3A4D132BC57FE20040D7F6 /* FInd the missing number.swift */,
 				4C405D792BC6671500AC4769 /* Older than me.swift */,
 				4C405D7D2BC67E2400AC4769 /* Convert to decimal notation.swift */,
+				4CCB4FC82BC929D100C72C5D /* Sum of digits between two numbers.swift */,
 			);
 			path = Edabit;
 			sourceTree = "<group>";
@@ -680,6 +683,7 @@
 				4C828FAD2B56D0CE0042153A /* Correct the Mistakes.swift in Sources */,
 				4CAFB6AF2BBD5561007C7B20 /* Convenience store.swift in Sources */,
 				4CFF792E2B5FF4CE006F2004 /* Are the number if equal.swift in Sources */,
+				4CCB4FC92BC929D100C72C5D /* Sum of digits between two numbers.swift in Sources */,
 				4C35E73D2B726B30002BFF78 /* No conditionals.swift in Sources */,
 				4CA90F2C2B6A4CBB00397D78 /* Buggy Code - Part 3.swift in Sources */,
 				4C5C60A02B88C2F2008B9723 /* To the power.swift in Sources */,

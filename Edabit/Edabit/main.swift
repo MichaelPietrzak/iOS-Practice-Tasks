@@ -575,4 +575,7 @@ let olderThanMe = OlderThanMe()
 //print(olderThanMe.p1.compareAge(olderThanMe.p2))
 
 let convertToDecimal = ConvertToDecimal()
-print(convertToDecimal.convertToDecimal(["45%", "32%", "97%", "33%"]))
+//print(convertToDecimal.convertToDecimal(["45%", "32%", "97%", "33%"]))
+
+let sumDigits = SumDigits()
+print(sumDigits.sumDigits(17, 20))
