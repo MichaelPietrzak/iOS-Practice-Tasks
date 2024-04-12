@@ -578,4 +578,7 @@ let convertToDecimal = ConvertToDecimal()
 //print(convertToDecimal.convertToDecimal(["45%", "32%", "97%", "33%"]))
 
 let sumDigits = SumDigits()
-print(sumDigits.sumDigits(17, 20))
+//print(sumDigits.sumDigits(17, 20))
+
+let highLow = HighLow()
+print(highLow.highLow("1 2 -3 4 5"))
