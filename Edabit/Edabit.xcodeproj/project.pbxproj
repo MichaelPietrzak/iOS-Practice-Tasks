@@ -107,6 +107,7 @@
 		4C67A1E02BAC26940022B704 /* X and Y coordinates.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4C67A1DF2BAC26940022B704 /* X and Y coordinates.swift */; };
 		4C6ADD0B2B4E8C3F0087971C /* Convert Minutes into Seconds.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4C6ADD0A2B4E8C3F0087971C /* Convert Minutes into Seconds.swift */; };
 		4C6ADD0D2B4E8EF50087971C /* Find the Perimeter of a Rectangle.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4C6ADD0C2B4E8EF50087971C /* Find the Perimeter of a Rectangle.swift */; };
+		4C6CD7C22BCAA5BB00560F83 /* Calculate the mean.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4C6CD7C12BCAA5BB00560F83 /* Calculate the mean.swift */; };
 		4C7659782B4D5E6E0023DF20 /* Area of a Triangle.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4C7659772B4D5E6E0023DF20 /* Area of a Triangle.swift */; };
 		4C76597A2B4D62AB0023DF20 /* Return Next Number from the Integer Passed.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4C7659792B4D62AB0023DF20 /* Return Next Number from the Integer Passed.swift */; };
 		4C7B8C912B935B9900483B5A /* Little dictionary.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4C7B8C902B935B9900483B5A /* Little dictionary.swift */; };
@@ -310,6 +311,7 @@
 		4C67A1DF2BAC26940022B704 /* X and Y coordinates.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "X and Y coordinates.swift"; sourceTree = "<group>"; };
 		4C6ADD0A2B4E8C3F0087971C /* Convert Minutes into Seconds.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "Convert Minutes into Seconds.swift"; sourceTree = "<group>"; };
 		4C6ADD0C2B4E8EF50087971C /* Find the Perimeter of a Rectangle.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "Find the Perimeter of a Rectangle.swift"; sourceTree = "<group>"; };
+		4C6CD7C12BCAA5BB00560F83 /* Calculate the mean.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "Calculate the mean.swift"; sourceTree = "<group>"; };
 		4C7659772B4D5E6E0023DF20 /* Area of a Triangle.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "Area of a Triangle.swift"; sourceTree = "<group>"; };
 		4C7659792B4D62AB0023DF20 /* Return Next Number from the Integer Passed.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "Return Next Number from the Integer Passed.swift"; sourceTree = "<group>"; };
 		4C7B8C902B935B9900483B5A /* Little dictionary.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "Little dictionary.swift"; sourceTree = "<group>"; };
@@ -616,6 +618,7 @@
 				4C405D7D2BC67E2400AC4769 /* Convert to decimal notation.swift */,
 				4CCB4FC82BC929D100C72C5D /* Sum of digits between two numbers.swift */,
 				4CCB4FCA2BC93F0700C72C5D /* Return the highest and lowest numbers.swift */,
+				4C6CD7C12BCAA5BB00560F83 /* Calculate the mean.swift */,
 			);
 			path = Edabit;
 			sourceTree = "<group>";
@@ -865,6 +868,7 @@
 				4C854A442B838CFA0068A01D /* Word endings.swift in Sources */,
 				4C35E0C82B4B2AC3009ECE9A /* main.swift in Sources */,
 				4C37AC8A2B7AAACD000B6062 /* Add numbers from single number.swift in Sources */,
+				4C6CD7C22BCAA5BB00560F83 /* Calculate the mean.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};

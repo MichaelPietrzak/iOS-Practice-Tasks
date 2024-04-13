@@ -12,7 +12,7 @@ import Foundation
 
 struct HighLow {
     func highLow(_ str: String) -> String {
-        var arr = str.components(separatedBy: " ").compactMap { Int(String($0)) }
+        let arr = str.components(separatedBy: " ").compactMap { Int(String($0)) }
         return "\(arr.max()!) \(arr.min()!)"
     }
 }

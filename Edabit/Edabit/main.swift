@@ -581,4 +581,7 @@ let sumDigits = SumDigits()
 //print(sumDigits.sumDigits(17, 20))
 
 let highLow = HighLow()
-print(highLow.highLow("1 2 -3 4 5"))
+//print(highLow.highLow("1 2 -3 4 5"))
+
+let mean = Mean()
+print(mean.mean([1, 0, 4, 5, 2, 4, 1, 2, 3, 3, 3]))
