@@ -584,4 +584,7 @@ let highLow = HighLow()
 //print(highLow.highLow("1 2 -3 4 5"))
 
 let mean = Mean()
-print(mean.mean([1, 0, 4, 5, 2, 4, 1, 2, 3, 3, 3]))
+//print(mean.mean([1, 0, 4, 5, 2, 4, 1, 2, 3, 3, 3]))
+
+let firstLast = FirstLast()
+print(firstLast.firstLast(["edabit", 13, false, true]))
