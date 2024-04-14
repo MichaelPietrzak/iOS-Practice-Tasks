@@ -587,4 +587,7 @@ let mean = Mean()
 //print(mean.mean([1, 0, 4, 5, 2, 4, 1, 2, 3, 3, 3]))
 
 let firstLast = FirstLast()
-print(firstLast.firstLast(["edabit", 13, false, true]))
+//print(firstLast.firstLast(["edabit", 13, false, true]))
+
+let makeTitle = CaptitalizeFirstLetter()
+print(makeTitle.makeTitle("capitalize every word"))

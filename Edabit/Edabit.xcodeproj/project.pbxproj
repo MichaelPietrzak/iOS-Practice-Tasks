@@ -150,6 +150,7 @@
 		4CAFB6B12BBD5DA9007C7B20 /* Hamming distance.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4CAFB6B02BBD5DA9007C7B20 /* Hamming distance.swift */; };
 		4CB16ECB2B57BB82006EC617 /* Name Greeting.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4CB16ECA2B57BB82006EC617 /* Name Greeting.swift */; };
 		4CB16ECD2B57BD4F006EC617 /* Check integer if divisible.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4CB16ECC2B57BD4F006EC617 /* Check integer if divisible.swift */; };
+		4CB254D12BCC44DE003535FF /* Capitalize the first letter of each word.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4CB254D02BCC44DE003535FF /* Capitalize the first letter of each word.swift */; };
 		4CB70C802B73A06900E688DB /* Fix basic calculator.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4CB70C7F2B73A06900E688DB /* Fix basic calculator.swift */; };
 		4CB70C822B73C5D400E688DB /* Buggy code - Part 5.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4CB70C812B73C5D400E688DB /* Buggy code - Part 5.swift */; };
 		4CB70C842B73CC7000E688DB /* Recreating abs() function.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4CB70C832B73CC7000E688DB /* Recreating abs() function.swift */; };
@@ -355,6 +356,7 @@
 		4CAFB6B02BBD5DA9007C7B20 /* Hamming distance.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "Hamming distance.swift"; sourceTree = "<group>"; };
 		4CB16ECA2B57BB82006EC617 /* Name Greeting.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "Name Greeting.swift"; sourceTree = "<group>"; };
 		4CB16ECC2B57BD4F006EC617 /* Check integer if divisible.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "Check integer if divisible.swift"; sourceTree = "<group>"; };
+		4CB254D02BCC44DE003535FF /* Capitalize the first letter of each word.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "Capitalize the first letter of each word.swift"; sourceTree = "<group>"; };
 		4CB70C7F2B73A06900E688DB /* Fix basic calculator.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "Fix basic calculator.swift"; sourceTree = "<group>"; };
 		4CB70C812B73C5D400E688DB /* Buggy code - Part 5.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "Buggy code - Part 5.swift"; sourceTree = "<group>"; };
 		4CB70C832B73CC7000E688DB /* Recreating abs() function.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "Recreating abs() function.swift"; sourceTree = "<group>"; };
@@ -622,6 +624,7 @@
 				4CCB4FCA2BC93F0700C72C5D /* Return the highest and lowest numbers.swift */,
 				4C6CD7C12BCAA5BB00560F83 /* Calculate the mean.swift */,
 				4C6CD7C32BCAA95700560F83 /* Return first and last elements in array.swift */,
+				4CB254D02BCC44DE003535FF /* Capitalize the first letter of each word.swift */,
 			);
 			path = Edabit;
 			sourceTree = "<group>";
@@ -834,6 +837,7 @@
 				4C67A1E02BAC26940022B704 /* X and Y coordinates.swift in Sources */,
 				4CC6A9922BA3807A0025F5DD /* Prefixes vs. Suffixes.swift in Sources */,
 				4C405D7A2BC6671500AC4769 /* Older than me.swift in Sources */,
+				4CB254D12BCC44DE003535FF /* Capitalize the first letter of each word.swift in Sources */,
 				4C4859BF2BC439C30089C9A8 /* Days in month.swift in Sources */,
 				4C624DC72BAF11E500388AC8 /* String contains only identical characters.swift in Sources */,
 				4C3B73002B5DA42D00B84120 /* Profitable Gamble.swift in Sources */,
