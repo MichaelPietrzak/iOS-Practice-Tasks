@@ -590,4 +590,7 @@ let firstLast = FirstLast()
 //print(firstLast.firstLast(["edabit", 13, false, true]))
 
 let makeTitle = CaptitalizeFirstLetter()
-print(makeTitle.makeTitle("capitalize every word"))
+//print(makeTitle.makeTitle("capitalize every word"))
+
+let validationPIN = ValidationPIN()
+print(validationPIN.validationPIN("123456"))

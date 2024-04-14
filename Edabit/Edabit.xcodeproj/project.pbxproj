@@ -151,6 +151,7 @@
 		4CB16ECB2B57BB82006EC617 /* Name Greeting.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4CB16ECA2B57BB82006EC617 /* Name Greeting.swift */; };
 		4CB16ECD2B57BD4F006EC617 /* Check integer if divisible.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4CB16ECC2B57BD4F006EC617 /* Check integer if divisible.swift */; };
 		4CB254D12BCC44DE003535FF /* Capitalize the first letter of each word.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4CB254D02BCC44DE003535FF /* Capitalize the first letter of each word.swift */; };
+		4CB254D32BCC4D19003535FF /* ATM PIN code validation.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4CB254D22BCC4D19003535FF /* ATM PIN code validation.swift */; };
 		4CB70C802B73A06900E688DB /* Fix basic calculator.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4CB70C7F2B73A06900E688DB /* Fix basic calculator.swift */; };
 		4CB70C822B73C5D400E688DB /* Buggy code - Part 5.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4CB70C812B73C5D400E688DB /* Buggy code - Part 5.swift */; };
 		4CB70C842B73CC7000E688DB /* Recreating abs() function.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4CB70C832B73CC7000E688DB /* Recreating abs() function.swift */; };
@@ -357,6 +358,7 @@
 		4CB16ECA2B57BB82006EC617 /* Name Greeting.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "Name Greeting.swift"; sourceTree = "<group>"; };
 		4CB16ECC2B57BD4F006EC617 /* Check integer if divisible.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "Check integer if divisible.swift"; sourceTree = "<group>"; };
 		4CB254D02BCC44DE003535FF /* Capitalize the first letter of each word.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "Capitalize the first letter of each word.swift"; sourceTree = "<group>"; };
+		4CB254D22BCC4D19003535FF /* ATM PIN code validation.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "ATM PIN code validation.swift"; sourceTree = "<group>"; };
 		4CB70C7F2B73A06900E688DB /* Fix basic calculator.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "Fix basic calculator.swift"; sourceTree = "<group>"; };
 		4CB70C812B73C5D400E688DB /* Buggy code - Part 5.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "Buggy code - Part 5.swift"; sourceTree = "<group>"; };
 		4CB70C832B73CC7000E688DB /* Recreating abs() function.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "Recreating abs() function.swift"; sourceTree = "<group>"; };
@@ -625,6 +627,7 @@
 				4C6CD7C12BCAA5BB00560F83 /* Calculate the mean.swift */,
 				4C6CD7C32BCAA95700560F83 /* Return first and last elements in array.swift */,
 				4CB254D02BCC44DE003535FF /* Capitalize the first letter of each word.swift */,
+				4CB254D22BCC4D19003535FF /* ATM PIN code validation.swift */,
 			);
 			path = Edabit;
 			sourceTree = "<group>";
@@ -771,6 +774,7 @@
 				4CF7B5632B76591300F0D2FB /* Find total number of digits the number has.swift in Sources */,
 				4CDA328C2BA455110090D2F0 /* Remove every vowel from a string.swift in Sources */,
 				4C8231072B7F8A8F008C39B2 /* Amplify the multiples of four.swift in Sources */,
+				4CB254D32BCC4D19003535FF /* ATM PIN code validation.swift in Sources */,
 				4C3DFB312B8E3B2D00C065B1 /* Strange pair.swift in Sources */,
 				4C46C7A52B8F59C600558986 /* How many solutions quadratic have.swift in Sources */,
 				4C621C632B868F3E0046237F /* Absolute sum.swift in Sources */,
