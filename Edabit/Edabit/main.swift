@@ -593,4 +593,7 @@ let makeTitle = CaptitalizeFirstLetter()
 //print(makeTitle.makeTitle("capitalize every word"))
 
 let validationPIN = ValidationPIN()
-print(validationPIN.validationPIN("123456"))
+//print(validationPIN.validationPIN("123456"))
+
+let returnAdd = ReturnAdd()
+print(returnAdd.add(0)(20))
