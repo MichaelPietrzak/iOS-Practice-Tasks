@@ -596,4 +596,7 @@ let validationPIN = ValidationPIN()
 //print(validationPIN.validationPIN("123456"))
 
 let returnAdd = ReturnAdd()
-print(returnAdd.add(0)(20))
+//print(returnAdd.add(0)(20))
+
+let addSuffix = AddSuffixes()
+print(addSuffix.add_suffix("ly")("hopeless"))

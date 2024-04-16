@@ -181,6 +181,7 @@
 		4CE540462BA9774B00280A3F /* FInd the odd integer.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4CE540452BA9774B00280A3F /* FInd the odd integer.swift */; };
 		4CE540482BA9886100280A3F /* Nth smallest integer.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4CE540472BA9886100280A3F /* Nth smallest integer.swift */; };
 		4CE545112BCEB16A009A5359 /* Returning an Add function.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4CE545102BCEB16A009A5359 /* Returning an Add function.swift */; };
+		4CE545132BCECA27009A5359 /* Adding Suffixes.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4CE545122BCECA27009A5359 /* Adding Suffixes.swift */; };
 		4CE68A542B9B3510004B0285 /* Hitting the jackpot.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4CE68A532B9B3510004B0285 /* Hitting the jackpot.swift */; };
 		4CE68A562B9B3ABD004B0285 /* Chat room status.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4CE68A552B9B3ABD004B0285 /* Chat room status.swift */; };
 		4CF11DA22B99D02B0044F45B /* Reverse order of string.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4CF11DA12B99D02B0044F45B /* Reverse order of string.swift */; };
@@ -389,6 +390,7 @@
 		4CE540452BA9774B00280A3F /* FInd the odd integer.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "FInd the odd integer.swift"; sourceTree = "<group>"; };
 		4CE540472BA9886100280A3F /* Nth smallest integer.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "Nth smallest integer.swift"; sourceTree = "<group>"; };
 		4CE545102BCEB16A009A5359 /* Returning an Add function.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "Returning an Add function.swift"; sourceTree = "<group>"; };
+		4CE545122BCECA27009A5359 /* Adding Suffixes.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "Adding Suffixes.swift"; sourceTree = "<group>"; };
 		4CE68A532B9B3510004B0285 /* Hitting the jackpot.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "Hitting the jackpot.swift"; sourceTree = "<group>"; };
 		4CE68A552B9B3ABD004B0285 /* Chat room status.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "Chat room status.swift"; sourceTree = "<group>"; };
 		4CF11DA12B99D02B0044F45B /* Reverse order of string.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "Reverse order of string.swift"; sourceTree = "<group>"; };
@@ -631,6 +633,7 @@
 				4CB254D02BCC44DE003535FF /* Capitalize the first letter of each word.swift */,
 				4CB254D22BCC4D19003535FF /* ATM PIN code validation.swift */,
 				4CE545102BCEB16A009A5359 /* Returning an Add function.swift */,
+				4CE545122BCECA27009A5359 /* Adding Suffixes.swift */,
 			);
 			path = Edabit;
 			sourceTree = "<group>";
@@ -694,6 +697,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				4CE540462BA9774B00280A3F /* FInd the odd integer.swift in Sources */,
+				4CE545132BCECA27009A5359 /* Adding Suffixes.swift in Sources */,
 				4C46C79F2B8F36E700558986 /* Matchstick houses.swift in Sources */,
 				4C13AFC92B876462009D461F /* Purge and organize.swift in Sources */,
 				4C8231032B7F847C008C39B2 /* Find the smallest number in array.swift in Sources */,
