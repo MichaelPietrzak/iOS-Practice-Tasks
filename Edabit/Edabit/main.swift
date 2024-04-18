@@ -599,4 +599,7 @@ let returnAdd = ReturnAdd()
 //print(returnAdd.add(0)(20))
 
 let addSuffix = AddSuffixes()
-print(addSuffix.add_suffix("ly")("hopeless"))
+//print(addSuffix.add_suffix("ly")("hopeless"))
+
+let isSymmetrical = IsSymmetrical()
+print(isSymmetrical.isSymmetrical(1112111))

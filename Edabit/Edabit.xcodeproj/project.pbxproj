@@ -170,6 +170,7 @@
 		4CD066D72B69A7CA008952D1 /* Movie theatre admittance.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4CD066D62B69A7CA008952D1 /* Movie theatre admittance.swift */; };
 		4CD39F872B9735A700D4837C /* Sum of two smallest numbers.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4CD39F862B9735A700D4837C /* Sum of two smallest numbers.swift */; };
 		4CD39F8B2B97957100D4837C /* Secret society.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4CD39F8A2B97957100D4837C /* Secret society.swift */; };
+		4CD41EB02BD1584B005B34A9 /* Is the number symmetrical.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4CD41EAF2BD1584B005B34A9 /* Is the number symmetrical.swift */; };
 		4CD43B692B6F9B6B00F5AA79 /* Check if array contains a number.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4CD43B682B6F9B6B00F5AA79 /* Check if array contains a number.swift */; };
 		4CD43B6B2B6F9F2B00F5AA79 /* The modulus operator function.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4CD43B6A2B6F9F2B00F5AA79 /* The modulus operator function.swift */; };
 		4CD9C9EC2B5EB53E00DD33FA /* Pair Management.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4CD9C9EB2B5EB53E00DD33FA /* Pair Management.swift */; };
@@ -379,6 +380,7 @@
 		4CD066D62B69A7CA008952D1 /* Movie theatre admittance.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "Movie theatre admittance.swift"; sourceTree = "<group>"; };
 		4CD39F862B9735A700D4837C /* Sum of two smallest numbers.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "Sum of two smallest numbers.swift"; sourceTree = "<group>"; };
 		4CD39F8A2B97957100D4837C /* Secret society.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "Secret society.swift"; sourceTree = "<group>"; };
+		4CD41EAF2BD1584B005B34A9 /* Is the number symmetrical.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "Is the number symmetrical.swift"; sourceTree = "<group>"; };
 		4CD43B682B6F9B6B00F5AA79 /* Check if array contains a number.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "Check if array contains a number.swift"; sourceTree = "<group>"; };
 		4CD43B6A2B6F9F2B00F5AA79 /* The modulus operator function.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "The modulus operator function.swift"; sourceTree = "<group>"; };
 		4CD9C9EB2B5EB53E00DD33FA /* Pair Management.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "Pair Management.swift"; sourceTree = "<group>"; };
@@ -634,6 +636,7 @@
 				4CB254D22BCC4D19003535FF /* ATM PIN code validation.swift */,
 				4CE545102BCEB16A009A5359 /* Returning an Add function.swift */,
 				4CE545122BCECA27009A5359 /* Adding Suffixes.swift */,
+				4CD41EAF2BD1584B005B34A9 /* Is the number symmetrical.swift */,
 			);
 			path = Edabit;
 			sourceTree = "<group>";
@@ -794,6 +797,7 @@
 				4C828FAB2B56CC1A0042153A /* Maximum Edge of a triangle.swift in Sources */,
 				4C4859BD2BC437F00089C9A8 /* Total volume of all boxes.swift in Sources */,
 				4C5A5ED32BB2E70C00AA7158 /* Even odd partition.swift in Sources */,
+				4CD41EB02BD1584B005B34A9 /* Is the number symmetrical.swift in Sources */,
 				4C10BE2D2B7CD17A0058C33A /* Max weight allowed.swift in Sources */,
 				4C8231012B7F8289008C39B2 /* Even number generator.swift in Sources */,
 				4C10BE272B7CB24A0058C33A /* Next element in sequence.swift in Sources */,
