@@ -602,4 +602,7 @@ let addSuffix = AddSuffixes()
 //print(addSuffix.add_suffix("ly")("hopeless"))
 
 let isSymmetrical = IsSymmetrical()
-print(isSymmetrical.isSymmetrical(1112111))
+//print(isSymmetrical.isSymmetrical(1112111))
+
+let larger = Larger()
+print(larger.larger({25}, {25}))

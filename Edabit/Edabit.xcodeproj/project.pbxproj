@@ -171,6 +171,7 @@
 		4CD39F872B9735A700D4837C /* Sum of two smallest numbers.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4CD39F862B9735A700D4837C /* Sum of two smallest numbers.swift */; };
 		4CD39F8B2B97957100D4837C /* Secret society.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4CD39F8A2B97957100D4837C /* Secret society.swift */; };
 		4CD41EB02BD1584B005B34A9 /* Is the number symmetrical.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4CD41EAF2BD1584B005B34A9 /* Is the number symmetrical.swift */; };
+		4CD41EB42BD15A2A005B34A9 /* Which function returns larger number.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4CD41EB32BD15A2A005B34A9 /* Which function returns larger number.swift */; };
 		4CD43B692B6F9B6B00F5AA79 /* Check if array contains a number.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4CD43B682B6F9B6B00F5AA79 /* Check if array contains a number.swift */; };
 		4CD43B6B2B6F9F2B00F5AA79 /* The modulus operator function.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4CD43B6A2B6F9F2B00F5AA79 /* The modulus operator function.swift */; };
 		4CD9C9EC2B5EB53E00DD33FA /* Pair Management.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4CD9C9EB2B5EB53E00DD33FA /* Pair Management.swift */; };
@@ -381,6 +382,7 @@
 		4CD39F862B9735A700D4837C /* Sum of two smallest numbers.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "Sum of two smallest numbers.swift"; sourceTree = "<group>"; };
 		4CD39F8A2B97957100D4837C /* Secret society.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "Secret society.swift"; sourceTree = "<group>"; };
 		4CD41EAF2BD1584B005B34A9 /* Is the number symmetrical.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "Is the number symmetrical.swift"; sourceTree = "<group>"; };
+		4CD41EB32BD15A2A005B34A9 /* Which function returns larger number.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "Which function returns larger number.swift"; sourceTree = "<group>"; };
 		4CD43B682B6F9B6B00F5AA79 /* Check if array contains a number.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "Check if array contains a number.swift"; sourceTree = "<group>"; };
 		4CD43B6A2B6F9F2B00F5AA79 /* The modulus operator function.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "The modulus operator function.swift"; sourceTree = "<group>"; };
 		4CD9C9EB2B5EB53E00DD33FA /* Pair Management.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "Pair Management.swift"; sourceTree = "<group>"; };
@@ -637,6 +639,7 @@
 				4CE545102BCEB16A009A5359 /* Returning an Add function.swift */,
 				4CE545122BCECA27009A5359 /* Adding Suffixes.swift */,
 				4CD41EAF2BD1584B005B34A9 /* Is the number symmetrical.swift */,
+				4CD41EB32BD15A2A005B34A9 /* Which function returns larger number.swift */,
 			);
 			path = Edabit;
 			sourceTree = "<group>";
@@ -781,6 +784,7 @@
 				4C26AAAD2B52AD7D0038E064 /* Return the first element in array.swift in Sources */,
 				4CC6A9942BA387840025F5DD /* International greetings.swift in Sources */,
 				4CB99E4C2B63F0A8002FC554 /* Fix the expression.swift in Sources */,
+				4CD41EB42BD15A2A005B34A9 /* Which function returns larger number.swift in Sources */,
 				4CF7B5632B76591300F0D2FB /* Find total number of digits the number has.swift in Sources */,
 				4CDA328C2BA455110090D2F0 /* Remove every vowel from a string.swift in Sources */,
 				4C8231072B7F8A8F008C39B2 /* Amplify the multiples of four.swift in Sources */,
