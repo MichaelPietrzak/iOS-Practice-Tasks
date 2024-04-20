@@ -166,6 +166,7 @@
 		4CCB4FC92BC929D100C72C5D /* Sum of digits between two numbers.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4CCB4FC82BC929D100C72C5D /* Sum of digits between two numbers.swift */; };
 		4CCB4FCB2BC93F0700C72C5D /* Return the highest and lowest numbers.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4CCB4FCA2BC93F0700C72C5D /* Return the highest and lowest numbers.swift */; };
 		4CCBFC192BD3EFF100429CAD /* Sum of resistance in parallel circuits.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4CCBFC182BD3EFF100429CAD /* Sum of resistance in parallel circuits.swift */; };
+		4CCBFC1B2BD3F46E00429CAD /* Pentagon number.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4CCBFC1A2BD3F46E00429CAD /* Pentagon number.swift */; };
 		4CCC0C872BBEA32700DED27E /* Remove special characters from string.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4CCC0C862BBEA32700DED27E /* Remove special characters from string.swift */; };
 		4CCC0C8D2BBECD0900DED27E /* Sort numbers in descending order.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4CCC0C8C2BBECD0900DED27E /* Sort numbers in descending order.swift */; };
 		4CD066D72B69A7CA008952D1 /* Movie theatre admittance.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4CD066D62B69A7CA008952D1 /* Movie theatre admittance.swift */; };
@@ -378,6 +379,7 @@
 		4CCB4FC82BC929D100C72C5D /* Sum of digits between two numbers.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "Sum of digits between two numbers.swift"; sourceTree = "<group>"; };
 		4CCB4FCA2BC93F0700C72C5D /* Return the highest and lowest numbers.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "Return the highest and lowest numbers.swift"; sourceTree = "<group>"; };
 		4CCBFC182BD3EFF100429CAD /* Sum of resistance in parallel circuits.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "Sum of resistance in parallel circuits.swift"; sourceTree = "<group>"; };
+		4CCBFC1A2BD3F46E00429CAD /* Pentagon number.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "Pentagon number.swift"; sourceTree = "<group>"; };
 		4CCC0C862BBEA32700DED27E /* Remove special characters from string.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "Remove special characters from string.swift"; sourceTree = "<group>"; };
 		4CCC0C8C2BBECD0900DED27E /* Sort numbers in descending order.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "Sort numbers in descending order.swift"; sourceTree = "<group>"; };
 		4CD066D62B69A7CA008952D1 /* Movie theatre admittance.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "Movie theatre admittance.swift"; sourceTree = "<group>"; };
@@ -643,6 +645,7 @@
 				4CD41EAF2BD1584B005B34A9 /* Is the number symmetrical.swift */,
 				4CD41EB32BD15A2A005B34A9 /* Which function returns larger number.swift */,
 				4CCBFC182BD3EFF100429CAD /* Sum of resistance in parallel circuits.swift */,
+				4CCBFC1A2BD3F46E00429CAD /* Pentagon number.swift */,
 			);
 			path = Edabit;
 			sourceTree = "<group>";
@@ -897,6 +900,7 @@
 				4C621C612B8688210046237F /* Same number of unique elements.swift in Sources */,
 				4CF7B55B2B76417400F0D2FB /* Check if string ending match second string.swift in Sources */,
 				4C13AFCF2B878EB3009D461F /* Product of all odd integers.swift in Sources */,
+				4CCBFC1B2BD3F46E00429CAD /* Pentagon number.swift in Sources */,
 				4C854A442B838CFA0068A01D /* Word endings.swift in Sources */,
 				4C35E0C82B4B2AC3009ECE9A /* main.swift in Sources */,
 				4C37AC8A2B7AAACD000B6062 /* Add numbers from single number.swift in Sources */,
