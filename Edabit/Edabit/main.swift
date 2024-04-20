@@ -605,4 +605,7 @@ let isSymmetrical = IsSymmetrical()
 //print(isSymmetrical.isSymmetrical(1112111))
 
 let larger = Larger()
-print(larger.larger({25}, {25}))
+//print(larger.larger({25}, {25}))
+
+let parallelResistance = ParallelResistance()
+print(parallelResistance.parallelResistance([10, 20, 10]))
