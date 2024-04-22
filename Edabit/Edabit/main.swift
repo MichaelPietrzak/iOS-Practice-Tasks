@@ -611,4 +611,7 @@ let parallelResistance = ParallelResistance()
 //print(parallelResistance.parallelResistance([10, 20, 10]))
 
 let pentagonal = Pentagonal()
-print(pentagonal.pentagonal(8))
+//print(pentagonal.pentagonal(8))
+
+let splitCode = SplitCode()
+print(splitCode.splitCode("SRPE5532"))
