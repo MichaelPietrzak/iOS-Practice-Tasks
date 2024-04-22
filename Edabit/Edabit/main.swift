@@ -614,4 +614,7 @@ let pentagonal = Pentagonal()
 //print(pentagonal.pentagonal(8))
 
 let splitCode = SplitCode()
-print(splitCode.splitCode("SRPE5532"))
+//print(splitCode.splitCode("SRPE5532"))
+
+let getExtension = GetExtension()
+print(getExtension.getExtension(["project1.jpg", "project1.pdf", "project1.mp3"]))

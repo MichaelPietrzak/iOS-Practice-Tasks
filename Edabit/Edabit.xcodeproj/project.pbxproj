@@ -153,6 +153,7 @@
 		4CB254D12BCC44DE003535FF /* Capitalize the first letter of each word.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4CB254D02BCC44DE003535FF /* Capitalize the first letter of each word.swift */; };
 		4CB254D32BCC4D19003535FF /* ATM PIN code validation.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4CB254D22BCC4D19003535FF /* ATM PIN code validation.swift */; };
 		4CB3883C2BD690AA00B3CBE6 /* Split item codes.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4CB3883B2BD690AA00B3CBE6 /* Split item codes.swift */; };
+		4CB3883E2BD6ABB800B3CBE6 /* Get the file extension.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4CB3883D2BD6ABB800B3CBE6 /* Get the file extension.swift */; };
 		4CB70C802B73A06900E688DB /* Fix basic calculator.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4CB70C7F2B73A06900E688DB /* Fix basic calculator.swift */; };
 		4CB70C822B73C5D400E688DB /* Buggy code - Part 5.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4CB70C812B73C5D400E688DB /* Buggy code - Part 5.swift */; };
 		4CB70C842B73CC7000E688DB /* Recreating abs() function.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4CB70C832B73CC7000E688DB /* Recreating abs() function.swift */; };
@@ -367,6 +368,7 @@
 		4CB254D02BCC44DE003535FF /* Capitalize the first letter of each word.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "Capitalize the first letter of each word.swift"; sourceTree = "<group>"; };
 		4CB254D22BCC4D19003535FF /* ATM PIN code validation.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "ATM PIN code validation.swift"; sourceTree = "<group>"; };
 		4CB3883B2BD690AA00B3CBE6 /* Split item codes.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "Split item codes.swift"; sourceTree = "<group>"; };
+		4CB3883D2BD6ABB800B3CBE6 /* Get the file extension.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "Get the file extension.swift"; sourceTree = "<group>"; };
 		4CB70C7F2B73A06900E688DB /* Fix basic calculator.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "Fix basic calculator.swift"; sourceTree = "<group>"; };
 		4CB70C812B73C5D400E688DB /* Buggy code - Part 5.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "Buggy code - Part 5.swift"; sourceTree = "<group>"; };
 		4CB70C832B73CC7000E688DB /* Recreating abs() function.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "Recreating abs() function.swift"; sourceTree = "<group>"; };
@@ -649,6 +651,7 @@
 				4CCBFC182BD3EFF100429CAD /* Sum of resistance in parallel circuits.swift */,
 				4CCBFC1A2BD3F46E00429CAD /* Pentagon number.swift */,
 				4CB3883B2BD690AA00B3CBE6 /* Split item codes.swift */,
+				4CB3883D2BD6ABB800B3CBE6 /* Get the file extension.swift */,
 			);
 			path = Edabit;
 			sourceTree = "<group>";
@@ -722,6 +725,7 @@
 				4CFF792E2B5FF4CE006F2004 /* Are the number if equal.swift in Sources */,
 				4CCB4FC92BC929D100C72C5D /* Sum of digits between two numbers.swift in Sources */,
 				4C35E73D2B726B30002BFF78 /* No conditionals.swift in Sources */,
+				4CB3883E2BD6ABB800B3CBE6 /* Get the file extension.swift in Sources */,
 				4CA90F2C2B6A4CBB00397D78 /* Buggy Code - Part 3.swift in Sources */,
 				4C5C60A02B88C2F2008B9723 /* To the power.swift in Sources */,
 				4C6ADD0D2B4E8EF50087971C /* Find the Perimeter of a Rectangle.swift in Sources */,
