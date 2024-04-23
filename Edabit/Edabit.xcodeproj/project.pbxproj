@@ -162,6 +162,7 @@
 		4CB99E4C2B63F0A8002FC554 /* Fix the expression.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4CB99E4B2B63F0A8002FC554 /* Fix the expression.swift */; };
 		4CC0FB892B86644600F4D774 /* Integer digits count.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4CC0FB882B86644600F4D774 /* Integer digits count.swift */; };
 		4CC1E6242BD8453A00ABDBE3 /* Retrieve the subreddit.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4CC1E6232BD8453A00ABDBE3 /* Retrieve the subreddit.swift */; };
+		4CC1E6262BD849F800ABDBE3 /* Char to ASCII.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4CC1E6252BD849F800ABDBE3 /* Char to ASCII.swift */; };
 		4CC3A66B2B6D28E000C72829 /* Free coffee cups.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4CC3A66A2B6D28E000C72829 /* Free coffee cups.swift */; };
 		4CC3A66D2B6D382200C72829 /* Return last element in array.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4CC3A66C2B6D382200C72829 /* Return last element in array.swift */; };
 		4CC6A9922BA3807A0025F5DD /* Prefixes vs. Suffixes.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4CC6A9912BA3807A0025F5DD /* Prefixes vs. Suffixes.swift */; };
@@ -378,6 +379,7 @@
 		4CB99E4B2B63F0A8002FC554 /* Fix the expression.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "Fix the expression.swift"; sourceTree = "<group>"; };
 		4CC0FB882B86644600F4D774 /* Integer digits count.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "Integer digits count.swift"; sourceTree = "<group>"; };
 		4CC1E6232BD8453A00ABDBE3 /* Retrieve the subreddit.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "Retrieve the subreddit.swift"; sourceTree = "<group>"; };
+		4CC1E6252BD849F800ABDBE3 /* Char to ASCII.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "Char to ASCII.swift"; sourceTree = "<group>"; };
 		4CC3A66A2B6D28E000C72829 /* Free coffee cups.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "Free coffee cups.swift"; sourceTree = "<group>"; };
 		4CC3A66C2B6D382200C72829 /* Return last element in array.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "Return last element in array.swift"; sourceTree = "<group>"; };
 		4CC6A9912BA3807A0025F5DD /* Prefixes vs. Suffixes.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "Prefixes vs. Suffixes.swift"; sourceTree = "<group>"; };
@@ -655,6 +657,7 @@
 				4CB3883B2BD690AA00B3CBE6 /* Split item codes.swift */,
 				4CB3883D2BD6ABB800B3CBE6 /* Get the file extension.swift */,
 				4CC1E6232BD8453A00ABDBE3 /* Retrieve the subreddit.swift */,
+				4CC1E6252BD849F800ABDBE3 /* Char to ASCII.swift */,
 			);
 			path = Edabit;
 			sourceTree = "<group>";
@@ -827,6 +830,7 @@
 				4C34BA272B500BB000F60A9E /* Are the numbers equal.swift in Sources */,
 				4C6780B92B5AB221006E4691 /* Sum of polygon angles.swift in Sources */,
 				4C3886B42BB5C3540079B749 /* Upper or Lower case.swift in Sources */,
+				4CC1E6262BD849F800ABDBE3 /* Char to ASCII.swift in Sources */,
 				4C22F1B92B79778600386740 /* FizzBuzz Interview Question.swift in Sources */,
 				4C37AC8C2B7AAEE4000B6062 /* Find the index.swift in Sources */,
 				4C37508D2B5156EE00318140 /* Return the remainder from two numbers.swift in Sources */,

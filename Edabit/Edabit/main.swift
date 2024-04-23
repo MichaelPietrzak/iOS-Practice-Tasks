@@ -620,4 +620,7 @@ let getExtension = GetExtension()
 //print(getExtension.getExtension(["project1.jpg", "project1.pdf", "project1.mp3"]))
 
 let subreddit = Subreddit()
-print(subreddit.subreddit("https://www.reddit.com/r/mildlyinteresting/"))
+//print(subreddit.subreddit("https://www.reddit.com/r/mildlyinteresting/"))
+
+let charToAscii = CharToASCII()
+print(charToAscii.ctoa("/"))
