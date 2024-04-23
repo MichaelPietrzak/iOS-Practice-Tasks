@@ -617,4 +617,7 @@ let splitCode = SplitCode()
 //print(splitCode.splitCode("SRPE5532"))
 
 let getExtension = GetExtension()
-print(getExtension.getExtension(["project1.jpg", "project1.pdf", "project1.mp3"]))
+//print(getExtension.getExtension(["project1.jpg", "project1.pdf", "project1.mp3"]))
+
+let subreddit = Subreddit()
+print(subreddit.subreddit("https://www.reddit.com/r/mildlyinteresting/"))
