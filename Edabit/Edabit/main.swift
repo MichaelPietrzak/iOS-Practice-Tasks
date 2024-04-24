@@ -623,4 +623,7 @@ let subreddit = Subreddit()
 //print(subreddit.subreddit("https://www.reddit.com/r/mildlyinteresting/"))
 
 let charToAscii = CharToASCII()
-print(charToAscii.ctoa("/"))
+//print(charToAscii.ctoa("/"))
+
+let formatPhoneNumber = FormatPhoneNumber()
+print(formatPhoneNumber.formatPhoneNumber([5, 1, 9, 5, 5, 5, 4, 4, 6, 8]))

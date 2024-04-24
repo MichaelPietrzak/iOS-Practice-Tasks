@@ -59,6 +59,7 @@
 		4C3886B82BB5D0730079B749 /* Sort an array by string length.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4C3886B72BB5D0730079B749 /* Sort an array by string length.swift */; };
 		4C3A4D102BC57C650040D7F6 /* Remove first and last char.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4C3A4D0F2BC57C650040D7F6 /* Remove first and last char.swift */; };
 		4C3A4D142BC57FE20040D7F6 /* FInd the missing number.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4C3A4D132BC57FE20040D7F6 /* FInd the missing number.swift */; };
+		4C3ACFEE2BD938A60001B16B /* Phone number formatting.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4C3ACFED2BD938A60001B16B /* Phone number formatting.swift */; };
 		4C3B72FA2B5D9D8A00B84120 /* The farm problem.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4C3B72F92B5D9D8A00B84120 /* The farm problem.swift */; };
 		4C3B72FE2B5DA26500B84120 /* Boolean to String conversion.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4C3B72FD2B5DA26500B84120 /* Boolean to String conversion.swift */; };
 		4C3B73002B5DA42D00B84120 /* Profitable Gamble.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4C3B72FF2B5DA42D00B84120 /* Profitable Gamble.swift */; };
@@ -276,6 +277,7 @@
 		4C3886B72BB5D0730079B749 /* Sort an array by string length.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "Sort an array by string length.swift"; sourceTree = "<group>"; };
 		4C3A4D0F2BC57C650040D7F6 /* Remove first and last char.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "Remove first and last char.swift"; sourceTree = "<group>"; };
 		4C3A4D132BC57FE20040D7F6 /* FInd the missing number.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "FInd the missing number.swift"; sourceTree = "<group>"; };
+		4C3ACFED2BD938A60001B16B /* Phone number formatting.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "Phone number formatting.swift"; sourceTree = "<group>"; };
 		4C3B72F92B5D9D8A00B84120 /* The farm problem.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "The farm problem.swift"; sourceTree = "<group>"; };
 		4C3B72FD2B5DA26500B84120 /* Boolean to String conversion.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "Boolean to String conversion.swift"; sourceTree = "<group>"; };
 		4C3B72FF2B5DA42D00B84120 /* Profitable Gamble.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "Profitable Gamble.swift"; sourceTree = "<group>"; };
@@ -658,6 +660,7 @@
 				4CB3883D2BD6ABB800B3CBE6 /* Get the file extension.swift */,
 				4CC1E6232BD8453A00ABDBE3 /* Retrieve the subreddit.swift */,
 				4CC1E6252BD849F800ABDBE3 /* Char to ASCII.swift */,
+				4C3ACFED2BD938A60001B16B /* Phone number formatting.swift */,
 			);
 			path = Edabit;
 			sourceTree = "<group>";
@@ -770,6 +773,7 @@
 				4C3D090E2BA073E7007063B2 /* Repeat same item multiple times.swift in Sources */,
 				4CD39F8B2B97957100D4837C /* Secret society.swift in Sources */,
 				4C22F1BB2B797A7F00386740 /* Check if the same case.swift in Sources */,
+				4C3ACFEE2BD938A60001B16B /* Phone number formatting.swift in Sources */,
 				4C8231052B7F8681008C39B2 /* Generate countdown of numbers in array.swift in Sources */,
 				4C854A462B8391C80068A01D /* Multiply by length.swift in Sources */,
 				4CF7B5612B7656F800F0D2FB /* Is word singular or plural.swift in Sources */,
