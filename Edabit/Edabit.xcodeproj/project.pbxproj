@@ -60,6 +60,7 @@
 		4C3A4D102BC57C650040D7F6 /* Remove first and last char.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4C3A4D0F2BC57C650040D7F6 /* Remove first and last char.swift */; };
 		4C3A4D142BC57FE20040D7F6 /* FInd the missing number.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4C3A4D132BC57FE20040D7F6 /* FInd the missing number.swift */; };
 		4C3ACFEE2BD938A60001B16B /* Phone number formatting.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4C3ACFED2BD938A60001B16B /* Phone number formatting.swift */; };
+		4C3ACFF02BD949B30001B16B /* Largest swap.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4C3ACFEF2BD949B30001B16B /* Largest swap.swift */; };
 		4C3B72FA2B5D9D8A00B84120 /* The farm problem.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4C3B72F92B5D9D8A00B84120 /* The farm problem.swift */; };
 		4C3B72FE2B5DA26500B84120 /* Boolean to String conversion.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4C3B72FD2B5DA26500B84120 /* Boolean to String conversion.swift */; };
 		4C3B73002B5DA42D00B84120 /* Profitable Gamble.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4C3B72FF2B5DA42D00B84120 /* Profitable Gamble.swift */; };
@@ -278,6 +279,7 @@
 		4C3A4D0F2BC57C650040D7F6 /* Remove first and last char.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "Remove first and last char.swift"; sourceTree = "<group>"; };
 		4C3A4D132BC57FE20040D7F6 /* FInd the missing number.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "FInd the missing number.swift"; sourceTree = "<group>"; };
 		4C3ACFED2BD938A60001B16B /* Phone number formatting.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "Phone number formatting.swift"; sourceTree = "<group>"; };
+		4C3ACFEF2BD949B30001B16B /* Largest swap.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "Largest swap.swift"; sourceTree = "<group>"; };
 		4C3B72F92B5D9D8A00B84120 /* The farm problem.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "The farm problem.swift"; sourceTree = "<group>"; };
 		4C3B72FD2B5DA26500B84120 /* Boolean to String conversion.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "Boolean to String conversion.swift"; sourceTree = "<group>"; };
 		4C3B72FF2B5DA42D00B84120 /* Profitable Gamble.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "Profitable Gamble.swift"; sourceTree = "<group>"; };
@@ -661,6 +663,7 @@
 				4CC1E6232BD8453A00ABDBE3 /* Retrieve the subreddit.swift */,
 				4CC1E6252BD849F800ABDBE3 /* Char to ASCII.swift */,
 				4C3ACFED2BD938A60001B16B /* Phone number formatting.swift */,
+				4C3ACFEF2BD949B30001B16B /* Largest swap.swift */,
 			);
 			path = Edabit;
 			sourceTree = "<group>";
@@ -869,6 +872,7 @@
 				4C9C54922B6ECE08008BD33C /* Slice of pie.swift in Sources */,
 				4CFF79302B5FF70B006F2004 /* Concatenating two integer arrays.swift in Sources */,
 				4C8F28BE2B4C5901006373C7 /* Convert Age to Days.swift in Sources */,
+				4C3ACFF02BD949B30001B16B /* Largest swap.swift in Sources */,
 				4C00F7742BBFF8BB00161C5D /* Four passengers and driver.swift in Sources */,
 				4C34BA252B500A8000F60A9E /* Is the number less or equal to zero.swift in Sources */,
 				4CFF79322B5FF8A3006F2004 /* Multiple of 100.swift in Sources */,

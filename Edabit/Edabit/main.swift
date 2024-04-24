@@ -626,4 +626,7 @@ let charToAscii = CharToASCII()
 //print(charToAscii.ctoa("/"))
 
 let formatPhoneNumber = FormatPhoneNumber()
-print(formatPhoneNumber.formatPhoneNumber([5, 1, 9, 5, 5, 5, 4, 4, 6, 8]))
+//print(formatPhoneNumber.formatPhoneNumber([5, 1, 9, 5, 5, 5, 4, 4, 6, 8]))
+
+let largestSwap = LargestSwap()
+print(largestSwap.largestSwap(27))
