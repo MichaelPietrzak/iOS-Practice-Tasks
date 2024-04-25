@@ -629,4 +629,7 @@ let formatPhoneNumber = FormatPhoneNumber()
 //print(formatPhoneNumber.formatPhoneNumber([5, 1, 9, 5, 5, 5, 4, 4, 6, 8]))
 
 let largestSwap = LargestSwap()
-print(largestSwap.largestSwap(27))
+//print(largestSwap.largestSwap(27))
+
+let firstAndLast = LexicographicallyFirstLast()
+print(firstAndLast.firstAndLast("bench"))

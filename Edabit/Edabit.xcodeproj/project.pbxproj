@@ -87,6 +87,7 @@
 		4C54622B2B6BB56B0045E851 /* Reverse an array.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4C54622A2B6BB56B0045E851 /* Reverse an array.swift */; };
 		4C5A5ED32BB2E70C00AA7158 /* Even odd partition.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4C5A5ED22BB2E70C00AA7158 /* Even odd partition.swift */; };
 		4C5A5ED52BB2EB7D00AA7158 /* GCD of two numbers.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4C5A5ED42BB2EB7D00AA7158 /* GCD of two numbers.swift */; };
+		4C5BD6822BDA65D1003113B6 /* Lexicographically first and last.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4C5BD6812BDA65D1003113B6 /* Lexicographically first and last.swift */; };
 		4C5C609A2B88AF04008B9723 /* Equality of 3 values.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4C5C60992B88AF04008B9723 /* Equality of 3 values.swift */; };
 		4C5C609C2B88B492008B9723 /* Sum of cubes.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4C5C609B2B88B492008B9723 /* Sum of cubes.swift */; };
 		4C5C609E2B88B725008B9723 /* Odd up, even down.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4C5C609D2B88B725008B9723 /* Odd up, even down.swift */; };
@@ -306,6 +307,7 @@
 		4C54622A2B6BB56B0045E851 /* Reverse an array.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "Reverse an array.swift"; sourceTree = "<group>"; };
 		4C5A5ED22BB2E70C00AA7158 /* Even odd partition.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "Even odd partition.swift"; sourceTree = "<group>"; };
 		4C5A5ED42BB2EB7D00AA7158 /* GCD of two numbers.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "GCD of two numbers.swift"; sourceTree = "<group>"; };
+		4C5BD6812BDA65D1003113B6 /* Lexicographically first and last.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "Lexicographically first and last.swift"; sourceTree = "<group>"; };
 		4C5C60992B88AF04008B9723 /* Equality of 3 values.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "Equality of 3 values.swift"; sourceTree = "<group>"; };
 		4C5C609B2B88B492008B9723 /* Sum of cubes.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "Sum of cubes.swift"; sourceTree = "<group>"; };
 		4C5C609D2B88B725008B9723 /* Odd up, even down.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "Odd up, even down.swift"; sourceTree = "<group>"; };
@@ -664,6 +666,7 @@
 				4CC1E6252BD849F800ABDBE3 /* Char to ASCII.swift */,
 				4C3ACFED2BD938A60001B16B /* Phone number formatting.swift */,
 				4C3ACFEF2BD949B30001B16B /* Largest swap.swift */,
+				4C5BD6812BDA65D1003113B6 /* Lexicographically first and last.swift */,
 			);
 			path = Edabit;
 			sourceTree = "<group>";
@@ -878,6 +881,7 @@
 				4CFF79322B5FF8A3006F2004 /* Multiple of 100.swift in Sources */,
 				4CDED7C72BBC226A00AD2B60 /* Smaller string number.swift in Sources */,
 				4CC1E6242BD8453A00ABDBE3 /* Retrieve the subreddit.swift in Sources */,
+				4C5BD6822BDA65D1003113B6 /* Lexicographically first and last.swift in Sources */,
 				4CFB81662B853E3200D17CFF /* Additive inverse.swift in Sources */,
 				4C4B58752B74E265005F61B9 /* Maximum difference.swift in Sources */,
 				4CB70C842B73CC7000E688DB /* Recreating abs() function.swift in Sources */,
