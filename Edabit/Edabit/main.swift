@@ -632,4 +632,7 @@ let largestSwap = LargestSwap()
 //print(largestSwap.largestSwap(27))
 
 let firstAndLast = LexicographicallyFirstLast()
-print(firstAndLast.firstAndLast("bench"))
+//print(firstAndLast.firstAndLast("bench"))
+
+let karacaInput = KaracaEncryptionAlg()
+print(karacaInput.encrypt("banana"))

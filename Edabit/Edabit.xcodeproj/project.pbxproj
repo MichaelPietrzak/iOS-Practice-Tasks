@@ -88,6 +88,7 @@
 		4C5A5ED32BB2E70C00AA7158 /* Even odd partition.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4C5A5ED22BB2E70C00AA7158 /* Even odd partition.swift */; };
 		4C5A5ED52BB2EB7D00AA7158 /* GCD of two numbers.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4C5A5ED42BB2EB7D00AA7158 /* GCD of two numbers.swift */; };
 		4C5BD6822BDA65D1003113B6 /* Lexicographically first and last.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4C5BD6812BDA65D1003113B6 /* Lexicographically first and last.swift */; };
+		4C5BD6842BDA685B003113B6 /* Karaca's encryption algorithm.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4C5BD6832BDA685B003113B6 /* Karaca's encryption algorithm.swift */; };
 		4C5C609A2B88AF04008B9723 /* Equality of 3 values.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4C5C60992B88AF04008B9723 /* Equality of 3 values.swift */; };
 		4C5C609C2B88B492008B9723 /* Sum of cubes.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4C5C609B2B88B492008B9723 /* Sum of cubes.swift */; };
 		4C5C609E2B88B725008B9723 /* Odd up, even down.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4C5C609D2B88B725008B9723 /* Odd up, even down.swift */; };
@@ -308,6 +309,7 @@
 		4C5A5ED22BB2E70C00AA7158 /* Even odd partition.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "Even odd partition.swift"; sourceTree = "<group>"; };
 		4C5A5ED42BB2EB7D00AA7158 /* GCD of two numbers.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "GCD of two numbers.swift"; sourceTree = "<group>"; };
 		4C5BD6812BDA65D1003113B6 /* Lexicographically first and last.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "Lexicographically first and last.swift"; sourceTree = "<group>"; };
+		4C5BD6832BDA685B003113B6 /* Karaca's encryption algorithm.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "Karaca's encryption algorithm.swift"; sourceTree = "<group>"; };
 		4C5C60992B88AF04008B9723 /* Equality of 3 values.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "Equality of 3 values.swift"; sourceTree = "<group>"; };
 		4C5C609B2B88B492008B9723 /* Sum of cubes.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "Sum of cubes.swift"; sourceTree = "<group>"; };
 		4C5C609D2B88B725008B9723 /* Odd up, even down.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "Odd up, even down.swift"; sourceTree = "<group>"; };
@@ -667,6 +669,7 @@
 				4C3ACFED2BD938A60001B16B /* Phone number formatting.swift */,
 				4C3ACFEF2BD949B30001B16B /* Largest swap.swift */,
 				4C5BD6812BDA65D1003113B6 /* Lexicographically first and last.swift */,
+				4C5BD6832BDA685B003113B6 /* Karaca's encryption algorithm.swift */,
 			);
 			path = Edabit;
 			sourceTree = "<group>";
@@ -850,6 +853,7 @@
 				4C5F31282B5427BF0013E75E /* Power Calculator.swift in Sources */,
 				4C12D1EC2B95F660003FCA65 /* Chocolate dilemma.swift in Sources */,
 				4CD066D72B69A7CA008952D1 /* Movie theatre admittance.swift in Sources */,
+				4C5BD6842BDA685B003113B6 /* Karaca's encryption algorithm.swift in Sources */,
 				4C37AC8E2B7AB085000B6062 /* Convert numbers to string of dashes.swift in Sources */,
 				4C13AFCB2B8765E4009D461F /* Factorize number.swift in Sources */,
 				4C35E7392B725C1B002BFF78 /* Hello-Hello World-World.swift in Sources */,
