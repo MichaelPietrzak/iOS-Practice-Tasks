@@ -635,4 +635,7 @@ let firstAndLast = LexicographicallyFirstLast()
 //print(firstAndLast.firstAndLast("bench"))
 
 let karacaInput = KaracaEncryptionAlg()
-print(karacaInput.encrypt("banana"))
+//print(karacaInput.encrypt("banana"))
+
+let validZipCode = ValidZipCode()
+print(validZipCode.isValid("590a1"))
