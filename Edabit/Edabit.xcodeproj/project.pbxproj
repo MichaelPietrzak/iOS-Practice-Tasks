@@ -118,6 +118,7 @@
 		4C7B8C912B935B9900483B5A /* Little dictionary.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4C7B8C902B935B9900483B5A /* Little dictionary.swift */; };
 		4C7B8C932B935CAA00483B5A /* Filter by digit length.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4C7B8C922B935CAA00483B5A /* Filter by digit length.swift */; };
 		4C7CEB162BDFB4150058A001 /* Valid Zip Code.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4C7CEB152BDFB4150058A001 /* Valid Zip Code.swift */; };
+		4C7CEB1A2BDFD4740058A001 /* Pi to N decimal places.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4C7CEB192BDFD4740058A001 /* Pi to N decimal places.swift */; };
 		4C8231012B7F8289008C39B2 /* Even number generator.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4C8231002B7F8289008C39B2 /* Even number generator.swift */; };
 		4C8231032B7F847C008C39B2 /* Find the smallest number in array.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4C8231022B7F847C008C39B2 /* Find the smallest number in array.swift */; };
 		4C8231052B7F8681008C39B2 /* Generate countdown of numbers in array.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4C8231042B7F8681008C39B2 /* Generate countdown of numbers in array.swift */; };
@@ -340,6 +341,7 @@
 		4C7B8C902B935B9900483B5A /* Little dictionary.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "Little dictionary.swift"; sourceTree = "<group>"; };
 		4C7B8C922B935CAA00483B5A /* Filter by digit length.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "Filter by digit length.swift"; sourceTree = "<group>"; };
 		4C7CEB152BDFB4150058A001 /* Valid Zip Code.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "Valid Zip Code.swift"; sourceTree = "<group>"; };
+		4C7CEB192BDFD4740058A001 /* Pi to N decimal places.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "Pi to N decimal places.swift"; sourceTree = "<group>"; };
 		4C8231002B7F8289008C39B2 /* Even number generator.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "Even number generator.swift"; sourceTree = "<group>"; };
 		4C8231022B7F847C008C39B2 /* Find the smallest number in array.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "Find the smallest number in array.swift"; sourceTree = "<group>"; };
 		4C8231042B7F8681008C39B2 /* Generate countdown of numbers in array.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "Generate countdown of numbers in array.swift"; sourceTree = "<group>"; };
@@ -673,6 +675,7 @@
 				4C5BD6812BDA65D1003113B6 /* Lexicographically first and last.swift */,
 				4C5BD6832BDA685B003113B6 /* Karaca's encryption algorithm.swift */,
 				4C7CEB152BDFB4150058A001 /* Valid Zip Code.swift */,
+				4C7CEB192BDFD4740058A001 /* Pi to N decimal places.swift */,
 			);
 			path = Edabit;
 			sourceTree = "<group>";
@@ -761,6 +764,7 @@
 				4CA90F322B6A661700397D78 /* Buggy code - Part 4.swift in Sources */,
 				4C624DC92BAF143C00388AC8 /* Count ones in 2D Array.swift in Sources */,
 				4C3DFB332B8E3DD400C065B1 /* Capitalize the names.swift in Sources */,
+				4C7CEB1A2BDFD4740058A001 /* Pi to N decimal places.swift in Sources */,
 				4C22F1B52B79725100386740 /* Difference of max and min numbers in array.swift in Sources */,
 				4C134C1B2B62A4040002ED5E /* Is the string empty.swift in Sources */,
 				4C405D7E2BC67E2400AC4769 /* Convert to decimal notation.swift in Sources */,

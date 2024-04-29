@@ -638,4 +638,7 @@ let karacaInput = KaracaEncryptionAlg()
 //print(karacaInput.encrypt("banana"))
 
 let validZipCode = ValidZipCode()
-print(validZipCode.isValid("590a1"))
+//print(validZipCode.isValid("590a1"))
+
+let myPi = MyPi()
+print(myPi.myPi(5))
