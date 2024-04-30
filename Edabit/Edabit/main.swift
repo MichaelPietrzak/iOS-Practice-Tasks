@@ -644,4 +644,7 @@ let myPi = MyPi()
 //print(myPi.myPi(5))
 
 let repeating = Repeating()
-print(repeating.repeating("hello", 3))
+//print(repeating.repeating("hello", 3))
+
+let hashPlusCount = HashPlusCount()
+print(hashPlusCount.hashPlusCount("###+"))

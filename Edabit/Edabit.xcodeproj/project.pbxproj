@@ -24,6 +24,7 @@
 		4C134C1B2B62A4040002ED5E /* Is the string empty.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4C134C1A2B62A4040002ED5E /* Is the string empty.swift */; };
 		4C134C1D2B62A7770002ED5E /* Using the && Operator.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4C134C1C2B62A7770002ED5E /* Using the && Operator.swift */; };
 		4C1372BE2BE1485900633962 /* Repeating letters N times.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4C1372BD2BE1485900633962 /* Repeating letters N times.swift */; };
+		4C1372C02BE14BA800633962 /* Hashes and pluses.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4C1372BF2BE14BA800633962 /* Hashes and pluses.swift */; };
 		4C13AFC92B876462009D461F /* Purge and organize.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4C13AFC82B876462009D461F /* Purge and organize.swift */; };
 		4C13AFCB2B8765E4009D461F /* Factorize number.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4C13AFCA2B8765E4009D461F /* Factorize number.swift */; };
 		4C13AFCD2B876ABA009D461F /* Calculate determinant 2x2 Matrix.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4C13AFCC2B876ABA009D461F /* Calculate determinant 2x2 Matrix.swift */; };
@@ -247,6 +248,7 @@
 		4C134C1A2B62A4040002ED5E /* Is the string empty.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "Is the string empty.swift"; sourceTree = "<group>"; };
 		4C134C1C2B62A7770002ED5E /* Using the && Operator.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "Using the && Operator.swift"; sourceTree = "<group>"; };
 		4C1372BD2BE1485900633962 /* Repeating letters N times.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "Repeating letters N times.swift"; sourceTree = "<group>"; };
+		4C1372BF2BE14BA800633962 /* Hashes and pluses.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "Hashes and pluses.swift"; sourceTree = "<group>"; };
 		4C13AFC82B876462009D461F /* Purge and organize.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "Purge and organize.swift"; sourceTree = "<group>"; };
 		4C13AFCA2B8765E4009D461F /* Factorize number.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "Factorize number.swift"; sourceTree = "<group>"; };
 		4C13AFCC2B876ABA009D461F /* Calculate determinant 2x2 Matrix.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "Calculate determinant 2x2 Matrix.swift"; sourceTree = "<group>"; };
@@ -679,6 +681,7 @@
 				4C7CEB152BDFB4150058A001 /* Valid Zip Code.swift */,
 				4C7CEB192BDFD4740058A001 /* Pi to N decimal places.swift */,
 				4C1372BD2BE1485900633962 /* Repeating letters N times.swift */,
+				4C1372BF2BE14BA800633962 /* Hashes and pluses.swift */,
 			);
 			path = Edabit;
 			sourceTree = "<group>";
@@ -778,6 +781,7 @@
 				4CD43B6B2B6F9F2B00F5AA79 /* The modulus operator function.swift in Sources */,
 				4C3A4D142BC57FE20040D7F6 /* FInd the missing number.swift in Sources */,
 				4C2771D52B61753800130332 /* Football Points.swift in Sources */,
+				4C1372C02BE14BA800633962 /* Hashes and pluses.swift in Sources */,
 				4C6780B72B5AB020006E4691 /* Concatenate First and Last Name into String.swift in Sources */,
 				4C67A1DC2BAAEEFD0022B704 /* Sort numbers in ascending order.swift in Sources */,
 				4C37AC922B7AB6D7000B6062 /* Eliminate odd numbers within array.swift in Sources */,
