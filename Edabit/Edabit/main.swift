@@ -641,4 +641,7 @@ let validZipCode = ValidZipCode()
 //print(validZipCode.isValid("590a1"))
 
 let myPi = MyPi()
-print(myPi.myPi(5))
+//print(myPi.myPi(5))
+
+let repeating = Repeating()
+print(repeating.repeating("hello", 3))
