@@ -647,4 +647,7 @@ let repeating = Repeating()
 //print(repeating.repeating("hello", 3))
 
 let hashPlusCount = HashPlusCount()
-print(hashPlusCount.hashPlusCount("###+"))
+//print(hashPlusCount.hashPlusCount("###+"))
+
+let washHands = WashHands()
+print(washHands.washHands(7, 9))
