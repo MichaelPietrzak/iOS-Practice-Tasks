@@ -650,4 +650,7 @@ let hashPlusCount = HashPlusCount()
 //print(hashPlusCount.hashPlusCount("###+"))
 
 let washHands = WashHands()
-print(washHands.washHands(7, 9))
+//print(washHands.washHands(7, 9))
+
+let combinations = Combinations()
+print(combinations.combinations(2, 3, 4, 5))

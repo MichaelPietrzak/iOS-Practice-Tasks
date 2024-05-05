@@ -12,6 +12,7 @@
 		4C03FEB32BA645A800EFB331 /* Get the century.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4C03FEB22BA645A800EFB331 /* Get the century.swift */; };
 		4C03FEB72BA64D0400EFB331 /* Vowel replacer.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4C03FEB62BA64D0400EFB331 /* Vowel replacer.swift */; };
 		4C0EB7F22BE8092600C2BD87 /* Wash your hands.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4C0EB7F12BE8092600C2BD87 /* Wash your hands.swift */; };
+		4C0EB7F42BE8133B00C2BD87 /* Combinations.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4C0EB7F32BE8133B00C2BD87 /* Combinations.swift */; };
 		4C10BE1D2B7B63590058C33A /* Tile teamwork tactics.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4C10BE1C2B7B63590058C33A /* Tile teamwork tactics.swift */; };
 		4C10BE1F2B7B702D0058C33A /* Find the bug; checking even numbers.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4C10BE1E2B7B702D0058C33A /* Find the bug; checking even numbers.swift */; };
 		4C10BE212B7B74D80058C33A /* Calculate the profit.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4C10BE202B7B74D80058C33A /* Calculate the profit.swift */; };
@@ -237,6 +238,7 @@
 		4C03FEB22BA645A800EFB331 /* Get the century.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "Get the century.swift"; sourceTree = "<group>"; };
 		4C03FEB62BA64D0400EFB331 /* Vowel replacer.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "Vowel replacer.swift"; sourceTree = "<group>"; };
 		4C0EB7F12BE8092600C2BD87 /* Wash your hands.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "Wash your hands.swift"; sourceTree = "<group>"; };
+		4C0EB7F32BE8133B00C2BD87 /* Combinations.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Combinations.swift; sourceTree = "<group>"; };
 		4C10BE1C2B7B63590058C33A /* Tile teamwork tactics.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "Tile teamwork tactics.swift"; sourceTree = "<group>"; };
 		4C10BE1E2B7B702D0058C33A /* Find the bug; checking even numbers.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "Find the bug; checking even numbers.swift"; sourceTree = "<group>"; };
 		4C10BE202B7B74D80058C33A /* Calculate the profit.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "Calculate the profit.swift"; sourceTree = "<group>"; };
@@ -685,6 +687,7 @@
 				4C1372BD2BE1485900633962 /* Repeating letters N times.swift */,
 				4C1372BF2BE14BA800633962 /* Hashes and pluses.swift */,
 				4C0EB7F12BE8092600C2BD87 /* Wash your hands.swift */,
+				4C0EB7F32BE8133B00C2BD87 /* Combinations.swift */,
 			);
 			path = Edabit;
 			sourceTree = "<group>";
@@ -862,6 +865,7 @@
 				4C34BA272B500BB000F60A9E /* Are the numbers equal.swift in Sources */,
 				4C6780B92B5AB221006E4691 /* Sum of polygon angles.swift in Sources */,
 				4C3886B42BB5C3540079B749 /* Upper or Lower case.swift in Sources */,
+				4C0EB7F42BE8133B00C2BD87 /* Combinations.swift in Sources */,
 				4CC1E6262BD849F800ABDBE3 /* Char to ASCII.swift in Sources */,
 				4C22F1B92B79778600386740 /* FizzBuzz Interview Question.swift in Sources */,
 				4C37AC8C2B7AAEE4000B6062 /* Find the index.swift in Sources */,
