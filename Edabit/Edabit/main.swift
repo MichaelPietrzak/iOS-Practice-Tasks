@@ -653,4 +653,7 @@ let washHands = WashHands()
 //print(washHands.washHands(7, 9))
 
 let combinations = Combinations()
-print(combinations.combinations(2, 3, 4, 5))
+//print(combinations.combinations(2, 3, 4, 5))
+
+let captureRooks = CaptureRook()
+print(captureRooks.canCapture(["F5", "C8"]))
