@@ -86,6 +86,7 @@
 		4C4B3C742B693F53005A1EE5 /* Flip the boolean.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4C4B3C732B693F53005A1EE5 /* Flip the boolean.swift */; };
 		4C4B58752B74E265005F61B9 /* Maximum difference.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4C4B58742B74E265005F61B9 /* Maximum difference.swift */; };
 		4C4DAE3A2BE8E4EB00AC506F /* Capture the rook.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4C4DAE392BE8E4EB00AC506F /* Capture the rook.swift */; };
+		4C4DAE3C2BE8F02900AC506F /* Last digit ultimate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4C4DAE3B2BE8F02900AC506F /* Last digit ultimate.swift */; };
 		4C52B9732BA18C85008C7A5E /* Find smallest and biggest number.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4C52B9722BA18C85008C7A5E /* Find smallest and biggest number.swift */; };
 		4C52B9752BA191FB008C7A5E /* Negative image.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4C52B9742BA191FB008C7A5E /* Negative image.swift */; };
 		4C5462292B6BB03F0045E851 /* Return negative.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4C5462282B6BB03F0045E851 /* Return negative.swift */; };
@@ -314,6 +315,7 @@
 		4C4B3C732B693F53005A1EE5 /* Flip the boolean.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "Flip the boolean.swift"; sourceTree = "<group>"; };
 		4C4B58742B74E265005F61B9 /* Maximum difference.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "Maximum difference.swift"; sourceTree = "<group>"; };
 		4C4DAE392BE8E4EB00AC506F /* Capture the rook.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "Capture the rook.swift"; sourceTree = "<group>"; };
+		4C4DAE3B2BE8F02900AC506F /* Last digit ultimate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "Last digit ultimate.swift"; sourceTree = "<group>"; };
 		4C52B9722BA18C85008C7A5E /* Find smallest and biggest number.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "Find smallest and biggest number.swift"; sourceTree = "<group>"; };
 		4C52B9742BA191FB008C7A5E /* Negative image.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "Negative image.swift"; sourceTree = "<group>"; };
 		4C5462282B6BB03F0045E851 /* Return negative.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "Return negative.swift"; sourceTree = "<group>"; };
@@ -691,6 +693,7 @@
 				4C0EB7F12BE8092600C2BD87 /* Wash your hands.swift */,
 				4C0EB7F32BE8133B00C2BD87 /* Combinations.swift */,
 				4C4DAE392BE8E4EB00AC506F /* Capture the rook.swift */,
+				4C4DAE3B2BE8F02900AC506F /* Last digit ultimate.swift */,
 			);
 			path = Edabit;
 			sourceTree = "<group>";
@@ -918,6 +921,7 @@
 				4CB70C842B73CC7000E688DB /* Recreating abs() function.swift in Sources */,
 				4C2771D32B616BCF00130332 /* less than 100.swift in Sources */,
 				4CB70C862B73CE8A00E688DB /* Amazing Edabit.swift in Sources */,
+				4C4DAE3C2BE8F02900AC506F /* Last digit ultimate.swift in Sources */,
 				4C4B3C742B693F53005A1EE5 /* Flip the boolean.swift in Sources */,
 				4C67A1E02BAC26940022B704 /* X and Y coordinates.swift in Sources */,
 				4CC6A9922BA3807A0025F5DD /* Prefixes vs. Suffixes.swift in Sources */,

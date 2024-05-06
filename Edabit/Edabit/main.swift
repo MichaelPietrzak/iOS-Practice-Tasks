@@ -656,4 +656,7 @@ let combinations = Combinations()
 //print(combinations.combinations(2, 3, 4, 5))
 
 let captureRooks = CaptureRook()
-print(captureRooks.canCapture(["F5", "C8"]))
+//print(captureRooks.canCapture(["F5", "C8"]))
+
+let lastDigit = LastDigitUltimate()
+print(lastDigit.lastDigit(25, 21, 125))
