@@ -659,4 +659,7 @@ let captureRooks = CaptureRook()
 //print(captureRooks.canCapture(["F5", "C8"]))
 
 let lastDigit = LastDigitUltimate()
-print(lastDigit.lastDigit(25, 21, 125))
+//print(lastDigit.lastDigit(25, 21, 125))
+
+let detectWord = DetectWord()
+print(detectWord.detectWord("bEEFGBuFBRrHgUHlNFYaYr"))
