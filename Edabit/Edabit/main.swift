@@ -662,4 +662,9 @@ let lastDigit = LastDigitUltimate()
 //print(lastDigit.lastDigit(25, 21, 125))
 
 let detectWord = DetectWord()
-print(detectWord.detectWord("bEEFGBuFBRrHgUHlNFYaYr"))
+//print(detectWord.detectWord("bEEFGBuFBRrHgUHlNFYaYr"))
+
+let semanticVersioning = SemanticVersioning()
+print(semanticVersioning.retrieveMajor("2.1.0"))
+print(semanticVersioning.retrieveMinor("2.1.0"))
+print(semanticVersioning.retrievePatch("2.1.0"))
