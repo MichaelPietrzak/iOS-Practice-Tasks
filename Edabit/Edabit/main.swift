@@ -670,4 +670,7 @@ let semanticVersioning = SemanticVersioning()
 //print(semanticVersioning.retrievePatch("2.1.0"))
 
 let convertBinary = ConvertBinary()
-print(convertBinary.convertBinary("excLAIM"))
+//print(convertBinary.convertBinary("excLAIM"))
+
+let countVowels = CountVowels()
+print(countVowels.countVowels("Prediction"))

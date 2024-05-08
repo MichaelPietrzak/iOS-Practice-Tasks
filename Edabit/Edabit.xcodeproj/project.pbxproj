@@ -150,6 +150,7 @@
 		4C906B142BEA43350069DD29 /* What hiding amongst the crowd.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4C906B132BEA43350069DD29 /* What hiding amongst the crowd.swift */; };
 		4C906B182BEA4EC50069DD29 /* Semantic versioning.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4C906B172BEA4EC50069DD29 /* Semantic versioning.swift */; };
 		4C906B1A2BEB56E60069DD29 /* Transforming words to binary strings.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4C906B192BEB56E60069DD29 /* Transforming words to binary strings.swift */; };
+		4C906B1E2BEB72880069DD29 /* How many vowels.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4C906B1D2BEB72880069DD29 /* How many vowels.swift */; };
 		4C9C54922B6ECE08008BD33C /* Slice of pie.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4C9C54912B6ECE08008BD33C /* Slice of pie.swift */; };
 		4C9C54942B6EDFBE008BD33C /* Check string for spaces.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4C9C54932B6EDFBE008BD33C /* Check string for spaces.swift */; };
 		4C9DA8852B594F11003E4612 /* Basketball Points.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4C9DA8842B594F11003E4612 /* Basketball Points.swift */; };
@@ -382,6 +383,7 @@
 		4C906B132BEA43350069DD29 /* What hiding amongst the crowd.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "What hiding amongst the crowd.swift"; sourceTree = "<group>"; };
 		4C906B172BEA4EC50069DD29 /* Semantic versioning.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "Semantic versioning.swift"; sourceTree = "<group>"; };
 		4C906B192BEB56E60069DD29 /* Transforming words to binary strings.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "Transforming words to binary strings.swift"; sourceTree = "<group>"; };
+		4C906B1D2BEB72880069DD29 /* How many vowels.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "How many vowels.swift"; sourceTree = "<group>"; };
 		4C9C54912B6ECE08008BD33C /* Slice of pie.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "Slice of pie.swift"; sourceTree = "<group>"; };
 		4C9C54932B6EDFBE008BD33C /* Check string for spaces.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "Check string for spaces.swift"; sourceTree = "<group>"; };
 		4C9DA8842B594F11003E4612 /* Basketball Points.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "Basketball Points.swift"; sourceTree = "<group>"; };
@@ -703,6 +705,7 @@
 				4C906B132BEA43350069DD29 /* What hiding amongst the crowd.swift */,
 				4C906B172BEA4EC50069DD29 /* Semantic versioning.swift */,
 				4C906B192BEB56E60069DD29 /* Transforming words to binary strings.swift */,
+				4C906B1D2BEB72880069DD29 /* How many vowels.swift */,
 			);
 			path = Edabit;
 			sourceTree = "<group>";
@@ -972,6 +975,7 @@
 				4CF7B5592B763F3100F0D2FB /* Half, Quarter and Eighth.swift in Sources */,
 				4C7CEB162BDFB4150058A001 /* Valid Zip Code.swift in Sources */,
 				4CF11DA62B99F3000044F45B /* Check factors.swift in Sources */,
+				4C906B1E2BEB72880069DD29 /* How many vowels.swift in Sources */,
 				4C134C1D2B62A7770002ED5E /* Using the && Operator.swift in Sources */,
 				4C621C612B8688210046237F /* Same number of unique elements.swift in Sources */,
 				4CF7B55B2B76417400F0D2FB /* Check if string ending match second string.swift in Sources */,
