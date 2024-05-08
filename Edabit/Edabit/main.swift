@@ -665,6 +665,9 @@ let detectWord = DetectWord()
 //print(detectWord.detectWord("bEEFGBuFBRrHgUHlNFYaYr"))
 
 let semanticVersioning = SemanticVersioning()
-print(semanticVersioning.retrieveMajor("2.1.0"))
-print(semanticVersioning.retrieveMinor("2.1.0"))
-print(semanticVersioning.retrievePatch("2.1.0"))
+//print(semanticVersioning.retrieveMajor("2.1.0"))
+//print(semanticVersioning.retrieveMinor("2.1.0"))
+//print(semanticVersioning.retrievePatch("2.1.0"))
+
+let convertBinary = ConvertBinary()
+print(convertBinary.convertBinary("excLAIM"))
