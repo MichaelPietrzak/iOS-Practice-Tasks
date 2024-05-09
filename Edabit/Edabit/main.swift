@@ -673,4 +673,7 @@ let convertBinary = ConvertBinary()
 //print(convertBinary.convertBinary("excLAIM"))
 
 let countVowels = CountVowels()
-print(countVowels.countVowels("Prediction"))
+//print(countVowels.countVowels("Prediction"))
+
+let stateNames = FilterStateNames()
+print(stateNames.filterStateNames(["Arizona", "CA", "NY", "Nevada"], "full"))
