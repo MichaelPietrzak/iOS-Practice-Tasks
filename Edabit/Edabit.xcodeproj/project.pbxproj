@@ -92,6 +92,7 @@
 		4C5462292B6BB03F0045E851 /* Return negative.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4C5462282B6BB03F0045E851 /* Return negative.swift */; };
 		4C54622B2B6BB56B0045E851 /* Reverse an array.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4C54622A2B6BB56B0045E851 /* Reverse an array.swift */; };
 		4C5745AA2BECF39400511026 /* State names and abbreviations.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4C5745A92BECF39400511026 /* State names and abbreviations.swift */; };
+		4C5745AC2BED0ADF00511026 /* Find the largest numbers in a group of arrays.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4C5745AB2BED0ADF00511026 /* Find the largest numbers in a group of arrays.swift */; };
 		4C5A5ED32BB2E70C00AA7158 /* Even odd partition.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4C5A5ED22BB2E70C00AA7158 /* Even odd partition.swift */; };
 		4C5A5ED52BB2EB7D00AA7158 /* GCD of two numbers.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4C5A5ED42BB2EB7D00AA7158 /* GCD of two numbers.swift */; };
 		4C5BD6822BDA65D1003113B6 /* Lexicographically first and last.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4C5BD6812BDA65D1003113B6 /* Lexicographically first and last.swift */; };
@@ -326,6 +327,7 @@
 		4C5462282B6BB03F0045E851 /* Return negative.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "Return negative.swift"; sourceTree = "<group>"; };
 		4C54622A2B6BB56B0045E851 /* Reverse an array.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "Reverse an array.swift"; sourceTree = "<group>"; };
 		4C5745A92BECF39400511026 /* State names and abbreviations.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "State names and abbreviations.swift"; sourceTree = "<group>"; };
+		4C5745AB2BED0ADF00511026 /* Find the largest numbers in a group of arrays.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "Find the largest numbers in a group of arrays.swift"; sourceTree = "<group>"; };
 		4C5A5ED22BB2E70C00AA7158 /* Even odd partition.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "Even odd partition.swift"; sourceTree = "<group>"; };
 		4C5A5ED42BB2EB7D00AA7158 /* GCD of two numbers.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "GCD of two numbers.swift"; sourceTree = "<group>"; };
 		4C5BD6812BDA65D1003113B6 /* Lexicographically first and last.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "Lexicographically first and last.swift"; sourceTree = "<group>"; };
@@ -709,6 +711,7 @@
 				4C906B192BEB56E60069DD29 /* Transforming words to binary strings.swift */,
 				4C906B1D2BEB72880069DD29 /* How many vowels.swift */,
 				4C5745A92BECF39400511026 /* State names and abbreviations.swift */,
+				4C5745AB2BED0ADF00511026 /* Find the largest numbers in a group of arrays.swift */,
 			);
 			path = Edabit;
 			sourceTree = "<group>";
@@ -793,6 +796,7 @@
 				4C4B3C722B6939E8005A1EE5 /* Frames per second.swift in Sources */,
 				4C10BE292B7CB8550058C33A /* Average of elements as whole number.swift in Sources */,
 				4CDA328E2BA46C6F0090D2F0 /* Is the word an isogram.swift in Sources */,
+				4C5745AC2BED0ADF00511026 /* Find the largest numbers in a group of arrays.swift in Sources */,
 				4C5462292B6BB03F0045E851 /* Return negative.swift in Sources */,
 				4CD39F872B9735A700D4837C /* Sum of two smallest numbers.swift in Sources */,
 				4CA90F322B6A661700397D78 /* Buggy code - Part 4.swift in Sources */,
