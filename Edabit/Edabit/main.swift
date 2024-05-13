@@ -679,4 +679,7 @@ let stateNames = FilterStateNames()
 //print(stateNames.filterStateNames(["Arizona", "CA", "NY", "Nevada"], "full"))
 
 let findLargest = FindLargest()
-print(findLargest.findLargest([[-34, -54, -74], [-32, -2, -65], [-54, 7, -43]]))
+//print(findLargest.findLargest([[-34, -54, -74], [-32, -2, -65], [-54, 7, -43]]))
+
+let hackerSpeak = HackerSpeak()
+print(hackerSpeak.hackerSpeak("javascript is cool"))

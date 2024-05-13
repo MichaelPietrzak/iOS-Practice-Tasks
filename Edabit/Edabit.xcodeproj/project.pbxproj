@@ -76,6 +76,7 @@
 		4C3DFB332B8E3DD400C065B1 /* Capitalize the names.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4C3DFB322B8E3DD400C065B1 /* Capitalize the names.swift */; };
 		4C405D7A2BC6671500AC4769 /* Older than me.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4C405D792BC6671500AC4769 /* Older than me.swift */; };
 		4C405D7E2BC67E2400AC4769 /* Convert to decimal notation.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4C405D7D2BC67E2400AC4769 /* Convert to decimal notation.swift */; };
+		4C418EA92BF291290031E397 /* H4ck3r Sp34k.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4C418EA82BF291290031E397 /* H4ck3r Sp34k.swift */; };
 		4C46C79F2B8F36E700558986 /* Matchstick houses.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4C46C79E2B8F36E700558986 /* Matchstick houses.swift */; };
 		4C46C7A12B8F39BD00558986 /* Exists a number higher.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4C46C7A02B8F39BD00558986 /* Exists a number higher.swift */; };
 		4C46C7A32B8F416A00558986 /* Reverse order of words.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4C46C7A22B8F416A00558986 /* Reverse order of words.swift */; };
@@ -311,6 +312,7 @@
 		4C3DFB322B8E3DD400C065B1 /* Capitalize the names.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "Capitalize the names.swift"; sourceTree = "<group>"; };
 		4C405D792BC6671500AC4769 /* Older than me.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "Older than me.swift"; sourceTree = "<group>"; };
 		4C405D7D2BC67E2400AC4769 /* Convert to decimal notation.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "Convert to decimal notation.swift"; sourceTree = "<group>"; };
+		4C418EA82BF291290031E397 /* H4ck3r Sp34k.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "H4ck3r Sp34k.swift"; sourceTree = "<group>"; };
 		4C46C79E2B8F36E700558986 /* Matchstick houses.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "Matchstick houses.swift"; sourceTree = "<group>"; };
 		4C46C7A02B8F39BD00558986 /* Exists a number higher.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "Exists a number higher.swift"; sourceTree = "<group>"; };
 		4C46C7A22B8F416A00558986 /* Reverse order of words.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "Reverse order of words.swift"; sourceTree = "<group>"; };
@@ -712,6 +714,7 @@
 				4C906B1D2BEB72880069DD29 /* How many vowels.swift */,
 				4C5745A92BECF39400511026 /* State names and abbreviations.swift */,
 				4C5745AB2BED0ADF00511026 /* Find the largest numbers in a group of arrays.swift */,
+				4C418EA82BF291290031E397 /* H4ck3r Sp34k.swift */,
 			);
 			path = Edabit;
 			sourceTree = "<group>";
@@ -775,6 +778,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				4CE540462BA9774B00280A3F /* FInd the odd integer.swift in Sources */,
+				4C418EA92BF291290031E397 /* H4ck3r Sp34k.swift in Sources */,
 				4CE545132BCECA27009A5359 /* Adding Suffixes.swift in Sources */,
 				4C46C79F2B8F36E700558986 /* Matchstick houses.swift in Sources */,
 				4C13AFC92B876462009D461F /* Purge and organize.swift in Sources */,
