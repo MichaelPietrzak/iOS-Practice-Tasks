@@ -77,6 +77,7 @@
 		4C405D7A2BC6671500AC4769 /* Older than me.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4C405D792BC6671500AC4769 /* Older than me.swift */; };
 		4C405D7E2BC67E2400AC4769 /* Convert to decimal notation.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4C405D7D2BC67E2400AC4769 /* Convert to decimal notation.swift */; };
 		4C418EA92BF291290031E397 /* H4ck3r Sp34k.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4C418EA82BF291290031E397 /* H4ck3r Sp34k.swift */; };
+		4C418EAB2BF297BD0031E397 /* Move capital letters to the front.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4C418EAA2BF297BD0031E397 /* Move capital letters to the front.swift */; };
 		4C46C79F2B8F36E700558986 /* Matchstick houses.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4C46C79E2B8F36E700558986 /* Matchstick houses.swift */; };
 		4C46C7A12B8F39BD00558986 /* Exists a number higher.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4C46C7A02B8F39BD00558986 /* Exists a number higher.swift */; };
 		4C46C7A32B8F416A00558986 /* Reverse order of words.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4C46C7A22B8F416A00558986 /* Reverse order of words.swift */; };
@@ -313,6 +314,7 @@
 		4C405D792BC6671500AC4769 /* Older than me.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "Older than me.swift"; sourceTree = "<group>"; };
 		4C405D7D2BC67E2400AC4769 /* Convert to decimal notation.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "Convert to decimal notation.swift"; sourceTree = "<group>"; };
 		4C418EA82BF291290031E397 /* H4ck3r Sp34k.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "H4ck3r Sp34k.swift"; sourceTree = "<group>"; };
+		4C418EAA2BF297BD0031E397 /* Move capital letters to the front.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "Move capital letters to the front.swift"; sourceTree = "<group>"; };
 		4C46C79E2B8F36E700558986 /* Matchstick houses.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "Matchstick houses.swift"; sourceTree = "<group>"; };
 		4C46C7A02B8F39BD00558986 /* Exists a number higher.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "Exists a number higher.swift"; sourceTree = "<group>"; };
 		4C46C7A22B8F416A00558986 /* Reverse order of words.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "Reverse order of words.swift"; sourceTree = "<group>"; };
@@ -715,6 +717,7 @@
 				4C5745A92BECF39400511026 /* State names and abbreviations.swift */,
 				4C5745AB2BED0ADF00511026 /* Find the largest numbers in a group of arrays.swift */,
 				4C418EA82BF291290031E397 /* H4ck3r Sp34k.swift */,
+				4C418EAA2BF297BD0031E397 /* Move capital letters to the front.swift */,
 			);
 			path = Edabit;
 			sourceTree = "<group>";
@@ -887,6 +890,7 @@
 				4C37508F2B515AC800318140 /* Convert Hours into Seconds.swift in Sources */,
 				4C828FAB2B56CC1A0042153A /* Maximum Edge of a triangle.swift in Sources */,
 				4C4859BD2BC437F00089C9A8 /* Total volume of all boxes.swift in Sources */,
+				4C418EAB2BF297BD0031E397 /* Move capital letters to the front.swift in Sources */,
 				4C5A5ED32BB2E70C00AA7158 /* Even odd partition.swift in Sources */,
 				4CD41EB02BD1584B005B34A9 /* Is the number symmetrical.swift in Sources */,
 				4C10BE2D2B7CD17A0058C33A /* Max weight allowed.swift in Sources */,

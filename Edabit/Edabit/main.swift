@@ -682,4 +682,7 @@ let findLargest = FindLargest()
 //print(findLargest.findLargest([[-34, -54, -74], [-32, -2, -65], [-54, 7, -43]]))
 
 let hackerSpeak = HackerSpeak()
-print(hackerSpeak.hackerSpeak("javascript is cool"))
+//print(hackerSpeak.hackerSpeak("javascript is cool"))
+
+let capToFront = CapToFront()
+print(capToFront.capToFront("moveMENT"))
