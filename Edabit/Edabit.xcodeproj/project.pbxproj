@@ -127,6 +127,7 @@
 		4C76597A2B4D62AB0023DF20 /* Return Next Number from the Integer Passed.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4C7659792B4D62AB0023DF20 /* Return Next Number from the Integer Passed.swift */; };
 		4C7B8C912B935B9900483B5A /* Little dictionary.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4C7B8C902B935B9900483B5A /* Little dictionary.swift */; };
 		4C7B8C932B935CAA00483B5A /* Filter by digit length.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4C7B8C922B935CAA00483B5A /* Filter by digit length.swift */; };
+		4C7CAD412BF3BA8500B8B429 /* Count letters in word search.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4C7CAD402BF3BA8500B8B429 /* Count letters in word search.swift */; };
 		4C7CEB162BDFB4150058A001 /* Valid Zip Code.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4C7CEB152BDFB4150058A001 /* Valid Zip Code.swift */; };
 		4C7CEB1A2BDFD4740058A001 /* Pi to N decimal places.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4C7CEB192BDFD4740058A001 /* Pi to N decimal places.swift */; };
 		4C8231012B7F8289008C39B2 /* Even number generator.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4C8231002B7F8289008C39B2 /* Even number generator.swift */; };
@@ -364,6 +365,7 @@
 		4C7659792B4D62AB0023DF20 /* Return Next Number from the Integer Passed.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "Return Next Number from the Integer Passed.swift"; sourceTree = "<group>"; };
 		4C7B8C902B935B9900483B5A /* Little dictionary.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "Little dictionary.swift"; sourceTree = "<group>"; };
 		4C7B8C922B935CAA00483B5A /* Filter by digit length.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "Filter by digit length.swift"; sourceTree = "<group>"; };
+		4C7CAD402BF3BA8500B8B429 /* Count letters in word search.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "Count letters in word search.swift"; sourceTree = "<group>"; };
 		4C7CEB152BDFB4150058A001 /* Valid Zip Code.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "Valid Zip Code.swift"; sourceTree = "<group>"; };
 		4C7CEB192BDFD4740058A001 /* Pi to N decimal places.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "Pi to N decimal places.swift"; sourceTree = "<group>"; };
 		4C8231002B7F8289008C39B2 /* Even number generator.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "Even number generator.swift"; sourceTree = "<group>"; };
@@ -718,6 +720,7 @@
 				4C5745AB2BED0ADF00511026 /* Find the largest numbers in a group of arrays.swift */,
 				4C418EA82BF291290031E397 /* H4ck3r Sp34k.swift */,
 				4C418EAA2BF297BD0031E397 /* Move capital letters to the front.swift */,
+				4C7CAD402BF3BA8500B8B429 /* Count letters in word search.swift */,
 			);
 			path = Edabit;
 			sourceTree = "<group>";
@@ -922,6 +925,7 @@
 				4C9C54942B6EDFBE008BD33C /* Check string for spaces.swift in Sources */,
 				4C87D5252BB7207100969644 /* Product divisible by sum.swift in Sources */,
 				4CD9C9EE2B5EBFCA00DD33FA /* Return something to me.swift in Sources */,
+				4C7CAD412BF3BA8500B8B429 /* Count letters in word search.swift in Sources */,
 				4C621C672B86B6FE0046237F /* Four letter strings.swift in Sources */,
 				4C5C609C2B88B492008B9723 /* Sum of cubes.swift in Sources */,
 				4CCBFC192BD3EFF100429CAD /* Sum of resistance in parallel circuits.swift in Sources */,
