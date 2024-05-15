@@ -700,4 +700,7 @@ let replace = Replace()
 //print(replace.replace("rattle", "r-z"))
 
 let scoringSystem = ScoringSystem()
-print(scoringSystem.calculateScores("ABCBACC"))
+//print(scoringSystem.calculateScores("ABCBACC"))
+
+let phoneNumberFormatted = PhoneNumberFormattedCorrectly()
+print(phoneNumberFormatted.isValidPhoneNumber("098) 123 4567"))

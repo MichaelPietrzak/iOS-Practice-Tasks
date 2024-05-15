@@ -171,6 +171,7 @@
 		4CAFB6AF2BBD5561007C7B20 /* Convenience store.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4CAFB6AE2BBD5561007C7B20 /* Convenience store.swift */; };
 		4CAFB6B12BBD5DA9007C7B20 /* Hamming distance.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4CAFB6B02BBD5DA9007C7B20 /* Hamming distance.swift */; };
 		4CB0872D2BF4BB0D00E579B8 /* Scoring system.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4CB0872C2BF4BB0D00E579B8 /* Scoring system.swift */; };
+		4CB0872F2BF4C20D00E579B8 /* Is the phone number formatted correctly.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4CB0872E2BF4C20D00E579B8 /* Is the phone number formatted correctly.swift */; };
 		4CB16ECB2B57BB82006EC617 /* Name Greeting.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4CB16ECA2B57BB82006EC617 /* Name Greeting.swift */; };
 		4CB16ECD2B57BD4F006EC617 /* Check integer if divisible.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4CB16ECC2B57BD4F006EC617 /* Check integer if divisible.swift */; };
 		4CB254D12BCC44DE003535FF /* Capitalize the first letter of each word.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4CB254D02BCC44DE003535FF /* Capitalize the first letter of each word.swift */; };
@@ -411,6 +412,7 @@
 		4CAFB6AE2BBD5561007C7B20 /* Convenience store.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "Convenience store.swift"; sourceTree = "<group>"; };
 		4CAFB6B02BBD5DA9007C7B20 /* Hamming distance.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "Hamming distance.swift"; sourceTree = "<group>"; };
 		4CB0872C2BF4BB0D00E579B8 /* Scoring system.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "Scoring system.swift"; sourceTree = "<group>"; };
+		4CB0872E2BF4C20D00E579B8 /* Is the phone number formatted correctly.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "Is the phone number formatted correctly.swift"; sourceTree = "<group>"; };
 		4CB16ECA2B57BB82006EC617 /* Name Greeting.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "Name Greeting.swift"; sourceTree = "<group>"; };
 		4CB16ECC2B57BD4F006EC617 /* Check integer if divisible.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "Check integer if divisible.swift"; sourceTree = "<group>"; };
 		4CB254D02BCC44DE003535FF /* Capitalize the first letter of each word.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "Capitalize the first letter of each word.swift"; sourceTree = "<group>"; };
@@ -727,6 +729,7 @@
 				4C7CAD402BF3BA8500B8B429 /* Count letters in word search.swift */,
 				4C7CAD442BF3CCE400B8B429 /* Replacing letters with hashes.swift */,
 				4CB0872C2BF4BB0D00E579B8 /* Scoring system.swift */,
+				4CB0872E2BF4C20D00E579B8 /* Is the phone number formatted correctly.swift */,
 			);
 			path = Edabit;
 			sourceTree = "<group>";
@@ -941,6 +944,7 @@
 				4CA90F342B6A687900397D78 /* Find out the leap year.swift in Sources */,
 				4CAFB6B12BBD5DA9007C7B20 /* Hamming distance.swift in Sources */,
 				4C6ADD0B2B4E8C3F0087971C /* Convert Minutes into Seconds.swift in Sources */,
+				4CB0872F2BF4C20D00E579B8 /* Is the phone number formatted correctly.swift in Sources */,
 				4CCB4FCB2BC93F0700C72C5D /* Return the highest and lowest numbers.swift in Sources */,
 				4C1AD32A2B5D9B46007244B3 /* Convert hours and minutes into seconds.swift in Sources */,
 				4C37AC902B7AB363000B6062 /* Count syllables.swift in Sources */,
