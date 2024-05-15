@@ -697,4 +697,7 @@ let letterCount = letterCounter()
 //  ], "H"))
 
 let replace = Replace()
-print(replace.replace("rattle", "r-z"))
+//print(replace.replace("rattle", "r-z"))
+
+let scoringSystem = ScoringSystem()
+print(scoringSystem.calculateScores("ABCBACC"))
