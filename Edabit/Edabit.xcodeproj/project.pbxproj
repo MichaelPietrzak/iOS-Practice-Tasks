@@ -13,6 +13,7 @@
 		4C03FEB72BA64D0400EFB331 /* Vowel replacer.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4C03FEB62BA64D0400EFB331 /* Vowel replacer.swift */; };
 		4C0EB7F22BE8092600C2BD87 /* Wash your hands.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4C0EB7F12BE8092600C2BD87 /* Wash your hands.swift */; };
 		4C0EB7F42BE8133B00C2BD87 /* Combinations.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4C0EB7F32BE8133B00C2BD87 /* Combinations.swift */; };
+		4C10B94B2BF639C1002E4887 /* Format Number with Comma(s) Separating Thousands.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4C10B94A2BF639C1002E4887 /* Format Number with Comma(s) Separating Thousands.swift */; };
 		4C10BE1D2B7B63590058C33A /* Tile teamwork tactics.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4C10BE1C2B7B63590058C33A /* Tile teamwork tactics.swift */; };
 		4C10BE1F2B7B702D0058C33A /* Find the bug; checking even numbers.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4C10BE1E2B7B702D0058C33A /* Find the bug; checking even numbers.swift */; };
 		4C10BE212B7B74D80058C33A /* Calculate the profit.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4C10BE202B7B74D80058C33A /* Calculate the profit.swift */; };
@@ -253,6 +254,7 @@
 		4C03FEB62BA64D0400EFB331 /* Vowel replacer.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "Vowel replacer.swift"; sourceTree = "<group>"; };
 		4C0EB7F12BE8092600C2BD87 /* Wash your hands.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "Wash your hands.swift"; sourceTree = "<group>"; };
 		4C0EB7F32BE8133B00C2BD87 /* Combinations.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Combinations.swift; sourceTree = "<group>"; };
+		4C10B94A2BF639C1002E4887 /* Format Number with Comma(s) Separating Thousands.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "Format Number with Comma(s) Separating Thousands.swift"; sourceTree = "<group>"; };
 		4C10BE1C2B7B63590058C33A /* Tile teamwork tactics.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "Tile teamwork tactics.swift"; sourceTree = "<group>"; };
 		4C10BE1E2B7B702D0058C33A /* Find the bug; checking even numbers.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "Find the bug; checking even numbers.swift"; sourceTree = "<group>"; };
 		4C10BE202B7B74D80058C33A /* Calculate the profit.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "Calculate the profit.swift"; sourceTree = "<group>"; };
@@ -730,6 +732,7 @@
 				4C7CAD442BF3CCE400B8B429 /* Replacing letters with hashes.swift */,
 				4CB0872C2BF4BB0D00E579B8 /* Scoring system.swift */,
 				4CB0872E2BF4C20D00E579B8 /* Is the phone number formatted correctly.swift */,
+				4C10B94A2BF639C1002E4887 /* Format Number with Comma(s) Separating Thousands.swift */,
 			);
 			path = Edabit;
 			sourceTree = "<group>";
@@ -801,6 +804,7 @@
 				4C10BE252B7CAF3D0058C33A /* Return number of parameters.swift in Sources */,
 				4C828FAD2B56D0CE0042153A /* Correct the Mistakes.swift in Sources */,
 				4CAFB6AF2BBD5561007C7B20 /* Convenience store.swift in Sources */,
+				4C10B94B2BF639C1002E4887 /* Format Number with Comma(s) Separating Thousands.swift in Sources */,
 				4CFF792E2B5FF4CE006F2004 /* Are the number if equal.swift in Sources */,
 				4C4DAE3A2BE8E4EB00AC506F /* Capture the rook.swift in Sources */,
 				4CCB4FC92BC929D100C72C5D /* Sum of digits between two numbers.swift in Sources */,

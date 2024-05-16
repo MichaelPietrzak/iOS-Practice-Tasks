@@ -703,4 +703,7 @@ let scoringSystem = ScoringSystem()
 //print(scoringSystem.calculateScores("ABCBACC"))
 
 let phoneNumberFormatted = PhoneNumberFormattedCorrectly()
-print(phoneNumberFormatted.isValidPhoneNumber("098) 123 4567"))
+//print(phoneNumberFormatted.isValidPhoneNumber("098) 123 4567"))
+
+let formatNum = FormatNum()
+print(formatNum.formatNum(100000))
