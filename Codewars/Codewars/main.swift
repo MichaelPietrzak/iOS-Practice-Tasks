@@ -7,3 +7,5 @@
 
 import Foundation
 
+let rental = Rental()
+print(rental.RentalCarCost(10))
