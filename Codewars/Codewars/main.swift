@@ -14,4 +14,7 @@ let multiply = Multiply()
 //print(multiply.multiply(-1, 3))
 
 let squareSum = SquareSum()
-print(squareSum.squareSum([5, 3, 4]))
+//print(squareSum.squareSum([5, 3, 4]))
+
+let reversedString = ReversedString()
+print(reversedString.reverse("hello"))
