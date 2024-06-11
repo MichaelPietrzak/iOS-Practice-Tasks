@@ -11,4 +11,7 @@ let rental = Rental()
 //print(rental.RentalCarCost(10))
 
 let multiply = Multiply()
-print(multiply.multiply(-1, 3))
+//print(multiply.multiply(-1, 3))
+
+let squareSum = SquareSum()
+print(squareSum.squareSum([5, 3, 4]))
