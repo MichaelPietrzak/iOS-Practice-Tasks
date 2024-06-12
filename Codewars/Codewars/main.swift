@@ -20,4 +20,7 @@ let reversedString = ReversedString()
 //print(reversedString.reverse("hello"))
 
 let sumStrings = SumStrings()
-print(sumStrings.sumStr("9", ""))
+//print(sumStrings.sumStr("9", ""))
+
+let fakeBin = FakeBinary()
+print(fakeBin.fakeBin("45385593107843568"))

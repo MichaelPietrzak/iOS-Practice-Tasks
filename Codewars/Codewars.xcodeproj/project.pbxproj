@@ -11,6 +11,7 @@
 		4C0B18DD2C1792AF00827F6C /* Transportation on vacation.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4C0B18DC2C1792AF00827F6C /* Transportation on vacation.swift */; };
 		4C0B18DF2C1796DB00827F6C /* Multiply.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4C0B18DE2C1796DB00827F6C /* Multiply.swift */; };
 		4C60BED12C19C39100DFFD3A /* Sum the strings.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4C60BED02C19C39100DFFD3A /* Sum the strings.swift */; };
+		4C60BED32C19C51F00DFFD3A /* Fake binary.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4C60BED22C19C51F00DFFD3A /* Fake binary.swift */; };
 		4CE060642C18FDDA0041724A /* Square(n) sum.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4CE060632C18FDDA0041724A /* Square(n) sum.swift */; };
 		4CE060662C18FEE50041724A /* Reversed strings.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4CE060652C18FEE50041724A /* Reversed strings.swift */; };
 /* End PBXBuildFile section */
@@ -33,6 +34,7 @@
 		4C0B18DC2C1792AF00827F6C /* Transportation on vacation.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "Transportation on vacation.swift"; sourceTree = "<group>"; };
 		4C0B18DE2C1796DB00827F6C /* Multiply.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Multiply.swift; sourceTree = "<group>"; };
 		4C60BED02C19C39100DFFD3A /* Sum the strings.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "Sum the strings.swift"; sourceTree = "<group>"; };
+		4C60BED22C19C51F00DFFD3A /* Fake binary.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "Fake binary.swift"; sourceTree = "<group>"; };
 		4CE060632C18FDDA0041724A /* Square(n) sum.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "Square(n) sum.swift"; sourceTree = "<group>"; };
 		4CE060652C18FEE50041724A /* Reversed strings.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "Reversed strings.swift"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
@@ -73,6 +75,7 @@
 				4C0B18DC2C1792AF00827F6C /* Transportation on vacation.swift */,
 				4C0B18DE2C1796DB00827F6C /* Multiply.swift */,
 				4C60BED02C19C39100DFFD3A /* Sum the strings.swift */,
+				4C60BED22C19C51F00DFFD3A /* Fake binary.swift */,
 			);
 			path = Codewars;
 			sourceTree = "<group>";
@@ -135,6 +138,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				4C60BED32C19C51F00DFFD3A /* Fake binary.swift in Sources */,
 				4C0B18DF2C1796DB00827F6C /* Multiply.swift in Sources */,
 				4C0B18DD2C1792AF00827F6C /* Transportation on vacation.swift in Sources */,
 				4CE060662C18FEE50041724A /* Reversed strings.swift in Sources */,
