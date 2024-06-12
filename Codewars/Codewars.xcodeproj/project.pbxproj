@@ -10,6 +10,7 @@
 		4C0B18D62C1791DB00827F6C /* main.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4C0B18D52C1791DB00827F6C /* main.swift */; };
 		4C0B18DD2C1792AF00827F6C /* Transportation on vacation.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4C0B18DC2C1792AF00827F6C /* Transportation on vacation.swift */; };
 		4C0B18DF2C1796DB00827F6C /* Multiply.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4C0B18DE2C1796DB00827F6C /* Multiply.swift */; };
+		4C60BED12C19C39100DFFD3A /* Sum the strings.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4C60BED02C19C39100DFFD3A /* Sum the strings.swift */; };
 		4CE060642C18FDDA0041724A /* Square(n) sum.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4CE060632C18FDDA0041724A /* Square(n) sum.swift */; };
 		4CE060662C18FEE50041724A /* Reversed strings.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4CE060652C18FEE50041724A /* Reversed strings.swift */; };
 /* End PBXBuildFile section */
@@ -31,6 +32,7 @@
 		4C0B18D52C1791DB00827F6C /* main.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = main.swift; sourceTree = "<group>"; };
 		4C0B18DC2C1792AF00827F6C /* Transportation on vacation.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "Transportation on vacation.swift"; sourceTree = "<group>"; };
 		4C0B18DE2C1796DB00827F6C /* Multiply.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Multiply.swift; sourceTree = "<group>"; };
+		4C60BED02C19C39100DFFD3A /* Sum the strings.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "Sum the strings.swift"; sourceTree = "<group>"; };
 		4CE060632C18FDDA0041724A /* Square(n) sum.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "Square(n) sum.swift"; sourceTree = "<group>"; };
 		4CE060652C18FEE50041724A /* Reversed strings.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "Reversed strings.swift"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
@@ -70,6 +72,7 @@
 				4CE060652C18FEE50041724A /* Reversed strings.swift */,
 				4C0B18DC2C1792AF00827F6C /* Transportation on vacation.swift */,
 				4C0B18DE2C1796DB00827F6C /* Multiply.swift */,
+				4C60BED02C19C39100DFFD3A /* Sum the strings.swift */,
 			);
 			path = Codewars;
 			sourceTree = "<group>";
@@ -136,6 +139,7 @@
 				4C0B18DD2C1792AF00827F6C /* Transportation on vacation.swift in Sources */,
 				4CE060662C18FEE50041724A /* Reversed strings.swift in Sources */,
 				4C0B18D62C1791DB00827F6C /* main.swift in Sources */,
+				4C60BED12C19C39100DFFD3A /* Sum the strings.swift in Sources */,
 				4CE060642C18FDDA0041724A /* Square(n) sum.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;

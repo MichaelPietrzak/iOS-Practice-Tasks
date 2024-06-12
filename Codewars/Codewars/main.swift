@@ -17,4 +17,7 @@ let squareSum = SquareSum()
 //print(squareSum.squareSum([5, 3, 4]))
 
 let reversedString = ReversedString()
-print(reversedString.reverse("hello"))
+//print(reversedString.reverse("hello"))
+
+let sumStrings = SumStrings()
+print(sumStrings.sumStr("9", ""))
