@@ -23,4 +23,7 @@ let sumStrings = SumStrings()
 //print(sumStrings.sumStr("9", ""))
 
 let fakeBin = FakeBinary()
-print(fakeBin.fakeBin("45385593107843568"))
+//print(fakeBin.fakeBin("45385593107843568"))
+
+let evenOrOdd = EvenOrOdd()
+print(evenOrOdd.evenOrOdd(1))
