@@ -26,4 +26,7 @@ let fakeBin = FakeBinary()
 //print(fakeBin.fakeBin("45385593107843568"))
 
 let evenOrOdd = EvenOrOdd()
-print(evenOrOdd.evenOrOdd(1))
+//print(evenOrOdd.evenOrOdd(1))
+
+let numToString = NumToString()
+print(numToString.numberToString(1+2))
