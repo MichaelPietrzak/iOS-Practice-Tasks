@@ -29,4 +29,7 @@ let evenOrOdd = EvenOrOdd()
 //print(evenOrOdd.evenOrOdd(1))
 
 let numToString = NumToString()
-print(numToString.numberToString(1+2))
+//print(numToString.numberToString(1+2))
+
+let doubleValues = DoubleValues()
+print(doubleValues.maps([-1, 2, 3, 4, -5]))
