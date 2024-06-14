@@ -32,4 +32,7 @@ let numToString = NumToString()
 //print(numToString.numberToString(1+2))
 
 let doubleValues = DoubleValues()
-print(doubleValues.maps([-1, 2, 3, 4, -5]))
+//print(doubleValues.maps([-1, 2, 3, 4, -5]))
+
+let monkeyCount = CountMonkeys()
+print(monkeyCount.monkeyCount(3))
