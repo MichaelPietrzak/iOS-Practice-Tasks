@@ -38,4 +38,7 @@ let monkeyCount = CountMonkeys()
 //print(monkeyCount.monkeyCount(3))
 
 let growArr = Grow()
-print(growArr.grow([2,2,2,2,2,2]))
+//print(growArr.grow([2,2,2,2,2,2]))
+
+let repeatStr = RepeatStr()
+print(repeatStr.repeatStr("Hello", 6))
