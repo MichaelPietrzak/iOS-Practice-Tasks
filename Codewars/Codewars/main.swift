@@ -35,4 +35,7 @@ let doubleValues = DoubleValues()
 //print(doubleValues.maps([-1, 2, 3, 4, -5]))
 
 let monkeyCount = CountMonkeys()
-print(monkeyCount.monkeyCount(3))
+//print(monkeyCount.monkeyCount(3))
+
+let growArr = Grow()
+print(growArr.grow([2,2,2,2,2,2]))
