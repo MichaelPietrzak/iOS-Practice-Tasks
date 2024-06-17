@@ -41,4 +41,7 @@ let growArr = Grow()
 //print(growArr.grow([2,2,2,2,2,2]))
 
 let repeatStr = RepeatStr()
-print(repeatStr.repeatStr("Hello", 6))
+//print(repeatStr.repeatStr("Hello", 6))
+
+let sumOfPositives = SumOfPositives()
+print(sumOfPositives.sumOfPositives([-1, -4, -7, -12]))
