@@ -44,4 +44,7 @@ let repeatStr = RepeatStr()
 //print(repeatStr.repeatStr("Hello", 6))
 
 let sumOfPositives = SumOfPositives()
-print(sumOfPositives.sumOfPositives([-1, -4, -7, -12]))
+//print(sumOfPositives.sumOfPositives([-1, -4, -7, -12]))
+
+let numToDigit = NumToDigits()
+print(numToDigit.digitize(35231))
