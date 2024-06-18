@@ -17,6 +17,7 @@
 		4C7D8FCC2C1B10E7000E9ED1 /* Even or odd.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4C7D8FCB2C1B10E7000E9ED1 /* Even or odd.swift */; };
 		4C7D8FCE2C1B124A000E9ED1 /* Convert number to string.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4C7D8FCD2C1B124A000E9ED1 /* Convert number to string.swift */; };
 		4C9CC6CF2C21AB7400895EA2 /* Returning strings.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4C9CC6CE2C21AB7400895EA2 /* Returning strings.swift */; };
+		4C9CC6D12C21AD4D00895EA2 /* Remove first and last character.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4C9CC6D02C21AD4D00895EA2 /* Remove first and last character.swift */; };
 		4C9F1CC92C1DC56700BFCDE5 /* Reduce but grow.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4C9F1CC82C1DC56700BFCDE5 /* Reduce but grow.swift */; };
 		4C9F1CCB2C1DC66B00BFCDE5 /* String repeat.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4C9F1CCA2C1DC66B00BFCDE5 /* String repeat.swift */; };
 		4CE060642C18FDDA0041724A /* Square(n) sum.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4CE060632C18FDDA0041724A /* Square(n) sum.swift */; };
@@ -49,6 +50,7 @@
 		4C7D8FCB2C1B10E7000E9ED1 /* Even or odd.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "Even or odd.swift"; sourceTree = "<group>"; };
 		4C7D8FCD2C1B124A000E9ED1 /* Convert number to string.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "Convert number to string.swift"; sourceTree = "<group>"; };
 		4C9CC6CE2C21AB7400895EA2 /* Returning strings.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "Returning strings.swift"; sourceTree = "<group>"; };
+		4C9CC6D02C21AD4D00895EA2 /* Remove first and last character.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "Remove first and last character.swift"; sourceTree = "<group>"; };
 		4C9F1CC82C1DC56700BFCDE5 /* Reduce but grow.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "Reduce but grow.swift"; sourceTree = "<group>"; };
 		4C9F1CCA2C1DC66B00BFCDE5 /* String repeat.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "String repeat.swift"; sourceTree = "<group>"; };
 		4CE060632C18FDDA0041724A /* Square(n) sum.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "Square(n) sum.swift"; sourceTree = "<group>"; };
@@ -103,6 +105,7 @@
 				4CE8FB9B2C205A2A0049224E /* Sum of positive.swift */,
 				4CE8FB9D2C205CBC0049224E /* Convert number to reverse array of digits.swift */,
 				4C9CC6CE2C21AB7400895EA2 /* Returning strings.swift */,
+				4C9CC6D02C21AD4D00895EA2 /* Remove first and last character.swift */,
 			);
 			path = Codewars;
 			sourceTree = "<group>";
@@ -175,6 +178,7 @@
 				4C71AE8F2C1C5C5000E58580 /* Beginner - lost without a map.swift in Sources */,
 				4C0B18DD2C1792AF00827F6C /* Transportation on vacation.swift in Sources */,
 				4CE060662C18FEE50041724A /* Reversed strings.swift in Sources */,
+				4C9CC6D12C21AD4D00895EA2 /* Remove first and last character.swift in Sources */,
 				4C9CC6CF2C21AB7400895EA2 /* Returning strings.swift in Sources */,
 				4C0B18D62C1791DB00827F6C /* main.swift in Sources */,
 				4C60BED12C19C39100DFFD3A /* Sum the strings.swift in Sources */,

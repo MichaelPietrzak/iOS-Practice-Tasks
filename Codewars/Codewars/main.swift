@@ -50,4 +50,7 @@ let numToDigit = NumToDigits()
 //print(numToDigit.digitize(35231))
 
 let greet = ReturnStrings()
-print(greet.greet("Michal"))
+//print(greet.greet("Michal"))
+
+let removefromStr = RemoveFirstAndLastChar()
+print(removefromStr.removeFirstAndLast("person"))
