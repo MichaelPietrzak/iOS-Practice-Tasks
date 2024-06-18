@@ -47,4 +47,7 @@ let sumOfPositives = SumOfPositives()
 //print(sumOfPositives.sumOfPositives([-1, -4, -7, -12]))
 
 let numToDigit = NumToDigits()
-print(numToDigit.digitize(35231))
+//print(numToDigit.digitize(35231))
+
+let greet = ReturnStrings()
+print(greet.greet("Michal"))
