@@ -53,4 +53,7 @@ let greet = ReturnStrings()
 //print(greet.greet("Michal"))
 
 let removefromStr = RemoveFirstAndLastChar()
-print(removefromStr.removeFirstAndLast("person"))
+//print(removefromStr.removeFirstAndLast("person"))
+
+let simpleMulti = SimpleMultiplication()
+print(simpleMulti.simpleMultiplication(5))
