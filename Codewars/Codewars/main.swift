@@ -56,4 +56,8 @@ let removefromStr = RemoveFirstAndLastChar()
 //print(removefromStr.removeFirstAndLast("person"))
 
 let simpleMulti = SimpleMultiplication()
-print(simpleMulti.simpleMultiplication(5))
+//print(simpleMulti.simpleMultiplication(5))
+
+
+let boolToString = BoolToString()
+print(boolToString.BooleanToString(true))
