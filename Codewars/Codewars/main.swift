@@ -63,4 +63,7 @@ let boolToString = BoolToString()
 //print(boolToString.BooleanToString(true))
 
 let boolToStr = BoolToStr()
-print(boolToStr.boolToWord(true))
+//print(boolToStr.boolToWord(true))
+
+let reverseSeq = ReverseSequence()
+print(reverseSeq.reverseSeq(5))
