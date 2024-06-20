@@ -60,4 +60,7 @@ let simpleMulti = SimpleMultiplication()
 
 
 let boolToString = BoolToString()
-print(boolToString.BooleanToString(true))
+//print(boolToString.BooleanToString(true))
+
+let boolToStr = BoolToStr()
+print(boolToStr.boolToWord(true))
