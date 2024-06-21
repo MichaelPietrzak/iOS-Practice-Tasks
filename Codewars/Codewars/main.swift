@@ -66,4 +66,7 @@ let boolToStr = BoolToStr()
 //print(boolToStr.boolToWord(true))
 
 let reverseSeq = ReverseSequence()
-print(reverseSeq.reverseSeq(5))
+//print(reverseSeq.reverseSeq(5))
+
+let volumeOfCuboid = VolumeOfCuboid()
+print(volumeOfCuboid.volumeOfCuboid(6, 3, 5))
