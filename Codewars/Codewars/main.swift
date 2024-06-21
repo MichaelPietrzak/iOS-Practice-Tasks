@@ -69,4 +69,7 @@ let reverseSeq = ReverseSequence()
 //print(reverseSeq.reverseSeq(5))
 
 let volumeOfCuboid = VolumeOfCuboid()
-print(volumeOfCuboid.volumeOfCuboid(6, 3, 5))
+//print(volumeOfCuboid.volumeOfCuboid(6, 3, 5))
+
+let takeElements = TakeNElements()
+print(takeElements.take([], n: 3))

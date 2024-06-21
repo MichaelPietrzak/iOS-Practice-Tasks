@@ -23,6 +23,7 @@
 		4C9F1CC92C1DC56700BFCDE5 /* Reduce but grow.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4C9F1CC82C1DC56700BFCDE5 /* Reduce but grow.swift */; };
 		4C9F1CCB2C1DC66B00BFCDE5 /* String repeat.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4C9F1CCA2C1DC66B00BFCDE5 /* String repeat.swift */; };
 		4CACA4172C25CBB200DDB435 /* Volume of cuboid.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4CACA4162C25CBB200DDB435 /* Volume of cuboid.swift */; };
+		4CACA4192C25CDCC00DDB435 /* Take the first N elements.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4CACA4182C25CDCC00DDB435 /* Take the first N elements.swift */; };
 		4CC39A4E2C22B8DE00E4B812 /* Simple multiplication.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4CC39A4D2C22B8DE00E4B812 /* Simple multiplication.swift */; };
 		4CC39A502C22BD8300E4B812 /* Convert boolean to string.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4CC39A4F2C22BD8300E4B812 /* Convert boolean to string.swift */; };
 		4CE060642C18FDDA0041724A /* Square(n) sum.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4CE060632C18FDDA0041724A /* Square(n) sum.swift */; };
@@ -61,6 +62,7 @@
 		4C9F1CC82C1DC56700BFCDE5 /* Reduce but grow.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "Reduce but grow.swift"; sourceTree = "<group>"; };
 		4C9F1CCA2C1DC66B00BFCDE5 /* String repeat.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "String repeat.swift"; sourceTree = "<group>"; };
 		4CACA4162C25CBB200DDB435 /* Volume of cuboid.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "Volume of cuboid.swift"; sourceTree = "<group>"; };
+		4CACA4182C25CDCC00DDB435 /* Take the first N elements.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "Take the first N elements.swift"; sourceTree = "<group>"; };
 		4CC39A4D2C22B8DE00E4B812 /* Simple multiplication.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "Simple multiplication.swift"; sourceTree = "<group>"; };
 		4CC39A4F2C22BD8300E4B812 /* Convert boolean to string.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "Convert boolean to string.swift"; sourceTree = "<group>"; };
 		4CE060632C18FDDA0041724A /* Square(n) sum.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "Square(n) sum.swift"; sourceTree = "<group>"; };
@@ -121,6 +123,7 @@
 				4C6D176C2C245E8D003CFBF9 /* Convert boolean values to strings.swift */,
 				4C6D176E2C246499003CFBF9 /* Reversed sequence.swift */,
 				4CACA4162C25CBB200DDB435 /* Volume of cuboid.swift */,
+				4CACA4182C25CDCC00DDB435 /* Take the first N elements.swift */,
 			);
 			path = Codewars;
 			sourceTree = "<group>";
@@ -193,6 +196,7 @@
 				4CC39A4E2C22B8DE00E4B812 /* Simple multiplication.swift in Sources */,
 				4CE8FB9E2C205CBC0049224E /* Convert number to reverse array of digits.swift in Sources */,
 				4C7D8FCC2C1B10E7000E9ED1 /* Even or odd.swift in Sources */,
+				4CACA4192C25CDCC00DDB435 /* Take the first N elements.swift in Sources */,
 				4C7D8FCE2C1B124A000E9ED1 /* Convert number to string.swift in Sources */,
 				4C71AE8F2C1C5C5000E58580 /* Beginner - lost without a map.swift in Sources */,
 				4C6D176F2C246499003CFBF9 /* Reversed sequence.swift in Sources */,
