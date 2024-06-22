@@ -75,4 +75,7 @@ let takeElements = TakeNElements()
 //print(takeElements.take([], n: 3))
 
 let doubleInt = DoubleInteger()
-print(doubleInt.doubleInteger(4))
+//print(doubleInt.doubleInteger(4))
+
+let bmi = CalculateBMI()
+print(bmi.bmi(90, 1.80))
