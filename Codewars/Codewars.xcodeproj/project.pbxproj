@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		4C01EAB42C2706AD004B4A59 /* Double integer.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4C01EAB32C2706AD004B4A59 /* Double integer.swift */; };
 		4C0B18D62C1791DB00827F6C /* main.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4C0B18D52C1791DB00827F6C /* main.swift */; };
 		4C0B18DD2C1792AF00827F6C /* Transportation on vacation.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4C0B18DC2C1792AF00827F6C /* Transportation on vacation.swift */; };
 		4C0B18DF2C1796DB00827F6C /* Multiply.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4C0B18DE2C1796DB00827F6C /* Multiply.swift */; };
@@ -45,6 +46,7 @@
 /* End PBXCopyFilesBuildPhase section */
 
 /* Begin PBXFileReference section */
+		4C01EAB32C2706AD004B4A59 /* Double integer.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "Double integer.swift"; sourceTree = "<group>"; };
 		4C0B18D22C1791DB00827F6C /* Codewars */ = {isa = PBXFileReference; explicitFileType = "compiled.mach-o.executable"; includeInIndex = 0; path = Codewars; sourceTree = BUILT_PRODUCTS_DIR; };
 		4C0B18D52C1791DB00827F6C /* main.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = main.swift; sourceTree = "<group>"; };
 		4C0B18DC2C1792AF00827F6C /* Transportation on vacation.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "Transportation on vacation.swift"; sourceTree = "<group>"; };
@@ -124,6 +126,7 @@
 				4C6D176E2C246499003CFBF9 /* Reversed sequence.swift */,
 				4CACA4162C25CBB200DDB435 /* Volume of cuboid.swift */,
 				4CACA4182C25CDCC00DDB435 /* Take the first N elements.swift */,
+				4C01EAB32C2706AD004B4A59 /* Double integer.swift */,
 			);
 			path = Codewars;
 			sourceTree = "<group>";
@@ -194,6 +197,7 @@
 				4C6D176D2C245E8D003CFBF9 /* Convert boolean values to strings.swift in Sources */,
 				4CE8FB9C2C205A2A0049224E /* Sum of positive.swift in Sources */,
 				4CC39A4E2C22B8DE00E4B812 /* Simple multiplication.swift in Sources */,
+				4C01EAB42C2706AD004B4A59 /* Double integer.swift in Sources */,
 				4CE8FB9E2C205CBC0049224E /* Convert number to reverse array of digits.swift in Sources */,
 				4C7D8FCC2C1B10E7000E9ED1 /* Even or odd.swift in Sources */,
 				4CACA4192C25CDCC00DDB435 /* Take the first N elements.swift in Sources */,

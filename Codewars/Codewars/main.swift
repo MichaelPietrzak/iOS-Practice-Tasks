@@ -72,4 +72,7 @@ let volumeOfCuboid = VolumeOfCuboid()
 //print(volumeOfCuboid.volumeOfCuboid(6, 3, 5))
 
 let takeElements = TakeNElements()
-print(takeElements.take([], n: 3))
+//print(takeElements.take([], n: 3))
+
+let doubleInt = DoubleInteger()
+print(doubleInt.doubleInteger(4))
