@@ -81,4 +81,7 @@ let bmi = CalculateBMI()
 //print(bmi.bmi(90, 1.80))
 
 let squareArg = SquareArg()
-print(squareArg.square(-2))
+//print(squareArg.square(-2))
+
+let otherAngle = OtherAngle()
+print(otherAngle.otherAngle(30, 60))

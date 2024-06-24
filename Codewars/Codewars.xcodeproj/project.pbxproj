@@ -13,6 +13,7 @@
 		4C0B18DD2C1792AF00827F6C /* Transportation on vacation.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4C0B18DC2C1792AF00827F6C /* Transportation on vacation.swift */; };
 		4C0B18DF2C1796DB00827F6C /* Multiply.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4C0B18DE2C1796DB00827F6C /* Multiply.swift */; };
 		4C400B372C29E57200CA9A6B /* Squaring an argument.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4C400B362C29E57200CA9A6B /* Squaring an argument.swift */; };
+		4C400B392C29E7AA00CA9A6B /* Third angle of a triangle.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4C400B382C29E7AA00CA9A6B /* Third angle of a triangle.swift */; };
 		4C60BED12C19C39100DFFD3A /* Sum the strings.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4C60BED02C19C39100DFFD3A /* Sum the strings.swift */; };
 		4C60BED32C19C51F00DFFD3A /* Fake binary.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4C60BED22C19C51F00DFFD3A /* Fake binary.swift */; };
 		4C6D176D2C245E8D003CFBF9 /* Convert boolean values to strings.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4C6D176C2C245E8D003CFBF9 /* Convert boolean values to strings.swift */; };
@@ -55,6 +56,7 @@
 		4C0B18DC2C1792AF00827F6C /* Transportation on vacation.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "Transportation on vacation.swift"; sourceTree = "<group>"; };
 		4C0B18DE2C1796DB00827F6C /* Multiply.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Multiply.swift; sourceTree = "<group>"; };
 		4C400B362C29E57200CA9A6B /* Squaring an argument.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "Squaring an argument.swift"; sourceTree = "<group>"; };
+		4C400B382C29E7AA00CA9A6B /* Third angle of a triangle.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "Third angle of a triangle.swift"; sourceTree = "<group>"; };
 		4C60BED02C19C39100DFFD3A /* Sum the strings.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "Sum the strings.swift"; sourceTree = "<group>"; };
 		4C60BED22C19C51F00DFFD3A /* Fake binary.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "Fake binary.swift"; sourceTree = "<group>"; };
 		4C6D176C2C245E8D003CFBF9 /* Convert boolean values to strings.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "Convert boolean values to strings.swift"; sourceTree = "<group>"; };
@@ -133,6 +135,7 @@
 				4C01EAB32C2706AD004B4A59 /* Double integer.swift */,
 				4C01EAB52C2707DE004B4A59 /* Calculate BMI.swift */,
 				4C400B362C29E57200CA9A6B /* Squaring an argument.swift */,
+				4C400B382C29E7AA00CA9A6B /* Third angle of a triangle.swift */,
 			);
 			path = Codewars;
 			sourceTree = "<group>";
@@ -211,6 +214,7 @@
 				4C71AE8F2C1C5C5000E58580 /* Beginner - lost without a map.swift in Sources */,
 				4C6D176F2C246499003CFBF9 /* Reversed sequence.swift in Sources */,
 				4C400B372C29E57200CA9A6B /* Squaring an argument.swift in Sources */,
+				4C400B392C29E7AA00CA9A6B /* Third angle of a triangle.swift in Sources */,
 				4C0B18DD2C1792AF00827F6C /* Transportation on vacation.swift in Sources */,
 				4CE060662C18FEE50041724A /* Reversed strings.swift in Sources */,
 				4C9CC6D12C21AD4D00895EA2 /* Remove first and last character.swift in Sources */,
