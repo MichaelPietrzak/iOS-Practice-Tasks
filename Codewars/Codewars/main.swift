@@ -84,4 +84,7 @@ let squareArg = SquareArg()
 //print(squareArg.square(-2))
 
 let otherAngle = OtherAngle()
-print(otherAngle.otherAngle(30, 60))
+//print(otherAngle.otherAngle(30, 60))
+
+let personalGreet = PersonalizedMessage()
+print(personalGreet.greet("Daniel", "Daniel"))
