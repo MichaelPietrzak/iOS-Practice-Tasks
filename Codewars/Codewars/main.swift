@@ -87,4 +87,7 @@ let otherAngle = OtherAngle()
 //print(otherAngle.otherAngle(30, 60))
 
 let personalGreet = PersonalizedMessage()
-print(personalGreet.greet("Daniel", "Daniel"))
+//print(personalGreet.greet("Daniel", "Daniel"))
+
+let gradeBook = GradeBook()
+print(gradeBook.getGrade(95, 90, 93))
