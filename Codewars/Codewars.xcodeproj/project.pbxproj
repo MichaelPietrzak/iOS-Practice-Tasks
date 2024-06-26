@@ -12,6 +12,7 @@
 		4C0B18D62C1791DB00827F6C /* main.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4C0B18D52C1791DB00827F6C /* main.swift */; };
 		4C0B18DD2C1792AF00827F6C /* Transportation on vacation.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4C0B18DC2C1792AF00827F6C /* Transportation on vacation.swift */; };
 		4C0B18DF2C1796DB00827F6C /* Multiply.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4C0B18DE2C1796DB00827F6C /* Multiply.swift */; };
+		4C2E42842C2CB3610018C43A /* Messi goals function.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4C2E42832C2CB3610018C43A /* Messi goals function.swift */; };
 		4C400B372C29E57200CA9A6B /* Squaring an argument.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4C400B362C29E57200CA9A6B /* Squaring an argument.swift */; };
 		4C400B392C29E7AA00CA9A6B /* Third angle of a triangle.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4C400B382C29E7AA00CA9A6B /* Third angle of a triangle.swift */; };
 		4C4276C82C2B4DEE008D17E3 /* Personalized message.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4C4276C72C2B4DEE008D17E3 /* Personalized message.swift */; };
@@ -57,6 +58,7 @@
 		4C0B18D52C1791DB00827F6C /* main.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = main.swift; sourceTree = "<group>"; };
 		4C0B18DC2C1792AF00827F6C /* Transportation on vacation.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "Transportation on vacation.swift"; sourceTree = "<group>"; };
 		4C0B18DE2C1796DB00827F6C /* Multiply.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Multiply.swift; sourceTree = "<group>"; };
+		4C2E42832C2CB3610018C43A /* Messi goals function.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "Messi goals function.swift"; sourceTree = "<group>"; };
 		4C400B362C29E57200CA9A6B /* Squaring an argument.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "Squaring an argument.swift"; sourceTree = "<group>"; };
 		4C400B382C29E7AA00CA9A6B /* Third angle of a triangle.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "Third angle of a triangle.swift"; sourceTree = "<group>"; };
 		4C4276C72C2B4DEE008D17E3 /* Personalized message.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "Personalized message.swift"; sourceTree = "<group>"; };
@@ -142,6 +144,7 @@
 				4C400B382C29E7AA00CA9A6B /* Third angle of a triangle.swift */,
 				4C4276C72C2B4DEE008D17E3 /* Personalized message.swift */,
 				4C4276C92C2B4F58008D17E3 /* Grade book.swift */,
+				4C2E42832C2CB3610018C43A /* Messi goals function.swift */,
 			);
 			path = Codewars;
 			sourceTree = "<group>";
@@ -226,6 +229,7 @@
 				4C4276CA2C2B4F58008D17E3 /* Grade book.swift in Sources */,
 				4CE060662C18FEE50041724A /* Reversed strings.swift in Sources */,
 				4C9CC6D12C21AD4D00895EA2 /* Remove first and last character.swift in Sources */,
+				4C2E42842C2CB3610018C43A /* Messi goals function.swift in Sources */,
 				4C9CC6CF2C21AB7400895EA2 /* Returning strings.swift in Sources */,
 				4C0B18D62C1791DB00827F6C /* main.swift in Sources */,
 				4C60BED12C19C39100DFFD3A /* Sum the strings.swift in Sources */,

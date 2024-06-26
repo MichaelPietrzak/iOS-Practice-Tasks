@@ -90,4 +90,7 @@ let personalGreet = PersonalizedMessage()
 //print(personalGreet.greet("Daniel", "Daniel"))
 
 let gradeBook = GradeBook()
-print(gradeBook.getGrade(95, 90, 93))
+//print(gradeBook.getGrade(95, 90, 93))
+
+let messiGoals = MessiGoals()
+messiGoals.goals(laLigaGoals: 5, copaDelReyGoals: 10, championsLeagueGoals: 2)
