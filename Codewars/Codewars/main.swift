@@ -93,4 +93,7 @@ let gradeBook = GradeBook()
 //print(gradeBook.getGrade(95, 90, 93))
 
 let messiGoals = MessiGoals()
-messiGoals.goals(laLigaGoals: 5, copaDelReyGoals: 10, championsLeagueGoals: 2)
+//print(messiGoals.goals(laLigaGoals: 5, copaDelReyGoals: 10, championsLeagueGoals: 2))
+
+let clock = Clock()
+print(clock.past(0, 1, 1))
