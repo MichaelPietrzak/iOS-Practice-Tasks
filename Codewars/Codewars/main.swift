@@ -99,4 +99,7 @@ let clock = Clock()
 //print(clock.past(0, 1, 1))
 
 let gameMove = GameMove()
-print(gameMove.gameMove(3, 6))
+//print(gameMove.gameMove(3, 6))
+
+let quarter = QuarterOfYear()
+print(quarter.quarter(3))
