@@ -96,4 +96,7 @@ let messiGoals = MessiGoals()
 //print(messiGoals.goals(laLigaGoals: 5, copaDelReyGoals: 10, championsLeagueGoals: 2))
 
 let clock = Clock()
-print(clock.past(0, 1, 1))
+//print(clock.past(0, 1, 1))
+
+let gameMove = GameMove()
+print(gameMove.gameMove(3, 6))
