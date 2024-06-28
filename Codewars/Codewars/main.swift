@@ -105,4 +105,7 @@ let quarter = QuarterOfYear()
 //print(quarter.quarter(3))
 
 let checkForFactor = CheckForFactor()
-print(checkForFactor.checkForFactor(10, 2))
+//print(checkForFactor.checkForFactor(10, 2))
+
+let shortLongShort = ShortLongShort()
+print(shortLongShort.shortLongShort("aa", "b"))
