@@ -9,6 +9,7 @@
 /* Begin PBXBuildFile section */
 		4C01EAB42C2706AD004B4A59 /* Double integer.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4C01EAB32C2706AD004B4A59 /* Double integer.swift */; };
 		4C01EAB62C2707DE004B4A59 /* Calculate BMI.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4C01EAB52C2707DE004B4A59 /* Calculate BMI.swift */; };
+		4C09C26E2C2ED0DD00960831 /* Check for factor.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4C09C26D2C2ED0DD00960831 /* Check for factor.swift */; };
 		4C0B18D62C1791DB00827F6C /* main.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4C0B18D52C1791DB00827F6C /* main.swift */; };
 		4C0B18DD2C1792AF00827F6C /* Transportation on vacation.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4C0B18DC2C1792AF00827F6C /* Transportation on vacation.swift */; };
 		4C0B18DF2C1796DB00827F6C /* Multiply.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4C0B18DE2C1796DB00827F6C /* Multiply.swift */; };
@@ -57,6 +58,7 @@
 /* Begin PBXFileReference section */
 		4C01EAB32C2706AD004B4A59 /* Double integer.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "Double integer.swift"; sourceTree = "<group>"; };
 		4C01EAB52C2707DE004B4A59 /* Calculate BMI.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "Calculate BMI.swift"; sourceTree = "<group>"; };
+		4C09C26D2C2ED0DD00960831 /* Check for factor.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "Check for factor.swift"; sourceTree = "<group>"; };
 		4C0B18D22C1791DB00827F6C /* Codewars */ = {isa = PBXFileReference; explicitFileType = "compiled.mach-o.executable"; includeInIndex = 0; path = Codewars; sourceTree = BUILT_PRODUCTS_DIR; };
 		4C0B18D52C1791DB00827F6C /* main.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = main.swift; sourceTree = "<group>"; };
 		4C0B18DC2C1792AF00827F6C /* Transportation on vacation.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "Transportation on vacation.swift"; sourceTree = "<group>"; };
@@ -154,6 +156,7 @@
 				4C2E42852C2CB5AC0018C43A /* Clock.swift */,
 				4C344B372C2DF1320060DDEF /* Terminal game move function.swift */,
 				4C344B392C2DF2610060DDEF /* Quarter of the year.swift */,
+				4C09C26D2C2ED0DD00960831 /* Check for factor.swift */,
 			);
 			path = Codewars;
 			sourceTree = "<group>";
@@ -249,6 +252,7 @@
 				4CE060642C18FDDA0041724A /* Square(n) sum.swift in Sources */,
 				4C9F1CCB2C1DC66B00BFCDE5 /* String repeat.swift in Sources */,
 				4C01EAB62C2707DE004B4A59 /* Calculate BMI.swift in Sources */,
+				4C09C26E2C2ED0DD00960831 /* Check for factor.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};

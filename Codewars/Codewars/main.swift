@@ -102,4 +102,7 @@ let gameMove = GameMove()
 //print(gameMove.gameMove(3, 6))
 
 let quarter = QuarterOfYear()
-print(quarter.quarter(3))
+//print(quarter.quarter(3))
+
+let checkForFactor = CheckForFactor()
+print(checkForFactor.checkForFactor(10, 2))
