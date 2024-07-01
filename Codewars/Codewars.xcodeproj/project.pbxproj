@@ -22,6 +22,7 @@
 		4C400B392C29E7AA00CA9A6B /* Third angle of a triangle.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4C400B382C29E7AA00CA9A6B /* Third angle of a triangle.swift */; };
 		4C4276C82C2B4DEE008D17E3 /* Personalized message.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4C4276C72C2B4DEE008D17E3 /* Personalized message.swift */; };
 		4C4276CA2C2B4F58008D17E3 /* Grade book.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4C4276C92C2B4F58008D17E3 /* Grade book.swift */; };
+		4C5639DC2C334B0200423387 /* Is he gonna survive.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4C5639DB2C334B0200423387 /* Is he gonna survive.swift */; };
 		4C60BED12C19C39100DFFD3A /* Sum the strings.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4C60BED02C19C39100DFFD3A /* Sum the strings.swift */; };
 		4C60BED32C19C51F00DFFD3A /* Fake binary.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4C60BED22C19C51F00DFFD3A /* Fake binary.swift */; };
 		4C6D176D2C245E8D003CFBF9 /* Convert boolean values to strings.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4C6D176C2C245E8D003CFBF9 /* Convert boolean values to strings.swift */; };
@@ -73,6 +74,7 @@
 		4C400B382C29E7AA00CA9A6B /* Third angle of a triangle.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "Third angle of a triangle.swift"; sourceTree = "<group>"; };
 		4C4276C72C2B4DEE008D17E3 /* Personalized message.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "Personalized message.swift"; sourceTree = "<group>"; };
 		4C4276C92C2B4F58008D17E3 /* Grade book.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "Grade book.swift"; sourceTree = "<group>"; };
+		4C5639DB2C334B0200423387 /* Is he gonna survive.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "Is he gonna survive.swift"; sourceTree = "<group>"; };
 		4C60BED02C19C39100DFFD3A /* Sum the strings.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "Sum the strings.swift"; sourceTree = "<group>"; };
 		4C60BED22C19C51F00DFFD3A /* Fake binary.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "Fake binary.swift"; sourceTree = "<group>"; };
 		4C6D176C2C245E8D003CFBF9 /* Convert boolean values to strings.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "Convert boolean values to strings.swift"; sourceTree = "<group>"; };
@@ -160,6 +162,7 @@
 				4C344B392C2DF2610060DDEF /* Quarter of the year.swift */,
 				4C09C26D2C2ED0DD00960831 /* Check for factor.swift */,
 				4C09C2712C2ED43300960831 /* Short long short.swift */,
+				4C5639DB2C334B0200423387 /* Is he gonna survive.swift */,
 			);
 			path = Codewars;
 			sourceTree = "<group>";
@@ -238,6 +241,7 @@
 				4C344B382C2DF1320060DDEF /* Terminal game move function.swift in Sources */,
 				4C7D8FCE2C1B124A000E9ED1 /* Convert number to string.swift in Sources */,
 				4C71AE8F2C1C5C5000E58580 /* Beginner - lost without a map.swift in Sources */,
+				4C5639DC2C334B0200423387 /* Is he gonna survive.swift in Sources */,
 				4C6D176F2C246499003CFBF9 /* Reversed sequence.swift in Sources */,
 				4C400B372C29E57200CA9A6B /* Squaring an argument.swift in Sources */,
 				4C400B392C29E7AA00CA9A6B /* Third angle of a triangle.swift in Sources */,

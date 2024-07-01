@@ -108,4 +108,7 @@ let checkForFactor = CheckForFactor()
 //print(checkForFactor.checkForFactor(10, 2))
 
 let shortLongShort = ShortLongShort()
-print(shortLongShort.shortLongShort("aa", "b"))
+//print(shortLongShort.shortLongShort("aa", "b"))
+
+let heroMission = HeroMission()
+print(heroMission.hero(bullets: 4, dragons: 2))
