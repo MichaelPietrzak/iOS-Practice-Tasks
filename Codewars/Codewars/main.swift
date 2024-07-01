@@ -111,4 +111,7 @@ let shortLongShort = ShortLongShort()
 //print(shortLongShort.shortLongShort("aa", "b"))
 
 let heroMission = HeroMission()
-print(heroMission.hero(bullets: 4, dragons: 2))
+//print(heroMission.hero(bullets: 4, dragons: 2))
+
+let mixedArr = MixedArray()
+print(mixedArr.sumMix([9, 3, "7", "3"]))
