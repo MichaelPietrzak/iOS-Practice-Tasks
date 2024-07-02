@@ -114,4 +114,7 @@ let heroMission = HeroMission()
 //print(heroMission.hero(bullets: 4, dragons: 2))
 
 let mixedArr = MixedArray()
-print(mixedArr.sumMix([9, 3, "7", "3"]))
+//print(mixedArr.sumMix([9, 3, "7", "3"]))
+
+let averageOfArray = AverageofArray()
+print(averageOfArray.getAverage([2, 2, 2, 2]))
