@@ -117,4 +117,7 @@ let mixedArr = MixedArray()
 //print(mixedArr.sumMix([9, 3, "7", "3"]))
 
 let averageOfArray = AverageofArray()
-print(averageOfArray.getAverage([2, 2, 2, 2]))
+//print(averageOfArray.getAverage([2, 2, 2, 2]))
+
+let formatMoney = FormatMoney()
+//print(formatMoney.formatMoney(3.1))

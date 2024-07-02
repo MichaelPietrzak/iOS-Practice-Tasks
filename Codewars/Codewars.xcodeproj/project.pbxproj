@@ -19,6 +19,7 @@
 		4C344B382C2DF1320060DDEF /* Terminal game move function.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4C344B372C2DF1320060DDEF /* Terminal game move function.swift */; };
 		4C344B3A2C2DF2610060DDEF /* Quarter of the year.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4C344B392C2DF2610060DDEF /* Quarter of the year.swift */; };
 		4C36EB8A2C34234A00A9BCD8 /* Get the mean of array.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4C36EB892C34234A00A9BCD8 /* Get the mean of array.swift */; };
+		4C36EB8C2C3424B900A9BCD8 /* Dollars and cents.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4C36EB8B2C3424B900A9BCD8 /* Dollars and cents.swift */; };
 		4C400B372C29E57200CA9A6B /* Squaring an argument.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4C400B362C29E57200CA9A6B /* Squaring an argument.swift */; };
 		4C400B392C29E7AA00CA9A6B /* Third angle of a triangle.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4C400B382C29E7AA00CA9A6B /* Third angle of a triangle.swift */; };
 		4C4276C82C2B4DEE008D17E3 /* Personalized message.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4C4276C72C2B4DEE008D17E3 /* Personalized message.swift */; };
@@ -73,6 +74,7 @@
 		4C344B372C2DF1320060DDEF /* Terminal game move function.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "Terminal game move function.swift"; sourceTree = "<group>"; };
 		4C344B392C2DF2610060DDEF /* Quarter of the year.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "Quarter of the year.swift"; sourceTree = "<group>"; };
 		4C36EB892C34234A00A9BCD8 /* Get the mean of array.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "Get the mean of array.swift"; sourceTree = "<group>"; };
+		4C36EB8B2C3424B900A9BCD8 /* Dollars and cents.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "Dollars and cents.swift"; sourceTree = "<group>"; };
 		4C400B362C29E57200CA9A6B /* Squaring an argument.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "Squaring an argument.swift"; sourceTree = "<group>"; };
 		4C400B382C29E7AA00CA9A6B /* Third angle of a triangle.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "Third angle of a triangle.swift"; sourceTree = "<group>"; };
 		4C4276C72C2B4DEE008D17E3 /* Personalized message.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "Personalized message.swift"; sourceTree = "<group>"; };
@@ -169,6 +171,7 @@
 				4C5639DB2C334B0200423387 /* Is he gonna survive.swift */,
 				4C5639DD2C33500B00423387 /* Sum mixed array.swift */,
 				4C36EB892C34234A00A9BCD8 /* Get the mean of array.swift */,
+				4C36EB8B2C3424B900A9BCD8 /* Dollars and cents.swift */,
 			);
 			path = Codewars;
 			sourceTree = "<group>";
@@ -231,6 +234,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				4C36EB8C2C3424B900A9BCD8 /* Dollars and cents.swift in Sources */,
 				4C71AE912C1C5E0A00E58580 /* Count the monkeys.swift in Sources */,
 				4C60BED32C19C51F00DFFD3A /* Fake binary.swift in Sources */,
 				4C5639DE2C33500B00423387 /* Sum mixed array.swift in Sources */,
