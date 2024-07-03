@@ -123,4 +123,7 @@ let formatMoney = FormatMoney()
 //print(formatMoney.formatMoney(3.1))
 
 let makeToast = MakeSixToast()
-print(makeToast.sixToast(12))
+//print(makeToast.sixToast(12))
+
+let getPlanetName = PlanetName()
+print(getPlanetName.getPlanetName(3))

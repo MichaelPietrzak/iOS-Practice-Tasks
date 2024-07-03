@@ -15,6 +15,7 @@
 		4C0B18DD2C1792AF00827F6C /* Transportation on vacation.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4C0B18DC2C1792AF00827F6C /* Transportation on vacation.swift */; };
 		4C0B18DF2C1796DB00827F6C /* Multiply.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4C0B18DE2C1796DB00827F6C /* Multiply.swift */; };
 		4C2C9AE52C353C0100D5072F /* Making six toast.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4C2C9AE42C353C0100D5072F /* Making six toast.swift */; };
+		4C2C9AE72C353E0C00D5072F /* Get planet name by ID.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4C2C9AE62C353E0C00D5072F /* Get planet name by ID.swift */; };
 		4C2E42842C2CB3610018C43A /* Messi goals function.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4C2E42832C2CB3610018C43A /* Messi goals function.swift */; };
 		4C2E42862C2CB5AC0018C43A /* Clock.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4C2E42852C2CB5AC0018C43A /* Clock.swift */; };
 		4C344B382C2DF1320060DDEF /* Terminal game move function.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4C344B372C2DF1320060DDEF /* Terminal game move function.swift */; };
@@ -71,6 +72,7 @@
 		4C0B18DC2C1792AF00827F6C /* Transportation on vacation.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "Transportation on vacation.swift"; sourceTree = "<group>"; };
 		4C0B18DE2C1796DB00827F6C /* Multiply.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Multiply.swift; sourceTree = "<group>"; };
 		4C2C9AE42C353C0100D5072F /* Making six toast.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "Making six toast.swift"; sourceTree = "<group>"; };
+		4C2C9AE62C353E0C00D5072F /* Get planet name by ID.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "Get planet name by ID.swift"; sourceTree = "<group>"; };
 		4C2E42832C2CB3610018C43A /* Messi goals function.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "Messi goals function.swift"; sourceTree = "<group>"; };
 		4C2E42852C2CB5AC0018C43A /* Clock.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Clock.swift; sourceTree = "<group>"; };
 		4C344B372C2DF1320060DDEF /* Terminal game move function.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "Terminal game move function.swift"; sourceTree = "<group>"; };
@@ -175,6 +177,7 @@
 				4C36EB892C34234A00A9BCD8 /* Get the mean of array.swift */,
 				4C36EB8B2C3424B900A9BCD8 /* Dollars and cents.swift */,
 				4C2C9AE42C353C0100D5072F /* Making six toast.swift */,
+				4C2C9AE62C353E0C00D5072F /* Get planet name by ID.swift */,
 			);
 			path = Codewars;
 			sourceTree = "<group>";
@@ -244,6 +247,7 @@
 				4CACA4172C25CBB200DDB435 /* Volume of cuboid.swift in Sources */,
 				4C0B18DF2C1796DB00827F6C /* Multiply.swift in Sources */,
 				4CC39A502C22BD8300E4B812 /* Convert boolean to string.swift in Sources */,
+				4C2C9AE72C353E0C00D5072F /* Get planet name by ID.swift in Sources */,
 				4C6D176D2C245E8D003CFBF9 /* Convert boolean values to strings.swift in Sources */,
 				4CE8FB9C2C205A2A0049224E /* Sum of positive.swift in Sources */,
 				4CC39A4E2C22B8DE00E4B812 /* Simple multiplication.swift in Sources */,
