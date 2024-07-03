@@ -121,3 +121,6 @@ let averageOfArray = AverageofArray()
 
 let formatMoney = FormatMoney()
 //print(formatMoney.formatMoney(3.1))
+
+let makeToast = MakeSixToast()
+print(makeToast.sixToast(12))

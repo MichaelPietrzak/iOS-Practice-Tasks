@@ -14,6 +14,7 @@
 		4C0B18D62C1791DB00827F6C /* main.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4C0B18D52C1791DB00827F6C /* main.swift */; };
 		4C0B18DD2C1792AF00827F6C /* Transportation on vacation.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4C0B18DC2C1792AF00827F6C /* Transportation on vacation.swift */; };
 		4C0B18DF2C1796DB00827F6C /* Multiply.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4C0B18DE2C1796DB00827F6C /* Multiply.swift */; };
+		4C2C9AE52C353C0100D5072F /* Making six toast.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4C2C9AE42C353C0100D5072F /* Making six toast.swift */; };
 		4C2E42842C2CB3610018C43A /* Messi goals function.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4C2E42832C2CB3610018C43A /* Messi goals function.swift */; };
 		4C2E42862C2CB5AC0018C43A /* Clock.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4C2E42852C2CB5AC0018C43A /* Clock.swift */; };
 		4C344B382C2DF1320060DDEF /* Terminal game move function.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4C344B372C2DF1320060DDEF /* Terminal game move function.swift */; };
@@ -69,6 +70,7 @@
 		4C0B18D52C1791DB00827F6C /* main.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = main.swift; sourceTree = "<group>"; };
 		4C0B18DC2C1792AF00827F6C /* Transportation on vacation.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "Transportation on vacation.swift"; sourceTree = "<group>"; };
 		4C0B18DE2C1796DB00827F6C /* Multiply.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Multiply.swift; sourceTree = "<group>"; };
+		4C2C9AE42C353C0100D5072F /* Making six toast.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "Making six toast.swift"; sourceTree = "<group>"; };
 		4C2E42832C2CB3610018C43A /* Messi goals function.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "Messi goals function.swift"; sourceTree = "<group>"; };
 		4C2E42852C2CB5AC0018C43A /* Clock.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Clock.swift; sourceTree = "<group>"; };
 		4C344B372C2DF1320060DDEF /* Terminal game move function.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "Terminal game move function.swift"; sourceTree = "<group>"; };
@@ -172,6 +174,7 @@
 				4C5639DD2C33500B00423387 /* Sum mixed array.swift */,
 				4C36EB892C34234A00A9BCD8 /* Get the mean of array.swift */,
 				4C36EB8B2C3424B900A9BCD8 /* Dollars and cents.swift */,
+				4C2C9AE42C353C0100D5072F /* Making six toast.swift */,
 			);
 			path = Codewars;
 			sourceTree = "<group>";
@@ -273,6 +276,7 @@
 				4C9F1CCB2C1DC66B00BFCDE5 /* String repeat.swift in Sources */,
 				4C01EAB62C2707DE004B4A59 /* Calculate BMI.swift in Sources */,
 				4C09C26E2C2ED0DD00960831 /* Check for factor.swift in Sources */,
+				4C2C9AE52C353C0100D5072F /* Making six toast.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
