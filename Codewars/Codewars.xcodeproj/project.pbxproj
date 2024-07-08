@@ -34,6 +34,7 @@
 		4C6D176F2C246499003CFBF9 /* Reversed sequence.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4C6D176E2C246499003CFBF9 /* Reversed sequence.swift */; };
 		4C71AE8F2C1C5C5000E58580 /* Beginner - lost without a map.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4C71AE8E2C1C5C5000E58580 /* Beginner - lost without a map.swift */; };
 		4C71AE912C1C5E0A00E58580 /* Count the monkeys.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4C71AE902C1C5E0A00E58580 /* Count the monkeys.swift */; };
+		4C72C8AF2C3C578000C7C3E9 /* Opposite number.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4C72C8AE2C3C578000C7C3E9 /* Opposite number.swift */; };
 		4C7D8FCC2C1B10E7000E9ED1 /* Even or odd.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4C7D8FCB2C1B10E7000E9ED1 /* Even or odd.swift */; };
 		4C7D8FCE2C1B124A000E9ED1 /* Convert number to string.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4C7D8FCD2C1B124A000E9ED1 /* Convert number to string.swift */; };
 		4C9CC6CF2C21AB7400895EA2 /* Returning strings.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4C9CC6CE2C21AB7400895EA2 /* Returning strings.swift */; };
@@ -91,6 +92,7 @@
 		4C6D176E2C246499003CFBF9 /* Reversed sequence.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "Reversed sequence.swift"; sourceTree = "<group>"; };
 		4C71AE8E2C1C5C5000E58580 /* Beginner - lost without a map.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "Beginner - lost without a map.swift"; sourceTree = "<group>"; };
 		4C71AE902C1C5E0A00E58580 /* Count the monkeys.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "Count the monkeys.swift"; sourceTree = "<group>"; };
+		4C72C8AE2C3C578000C7C3E9 /* Opposite number.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "Opposite number.swift"; sourceTree = "<group>"; };
 		4C7D8FCB2C1B10E7000E9ED1 /* Even or odd.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "Even or odd.swift"; sourceTree = "<group>"; };
 		4C7D8FCD2C1B124A000E9ED1 /* Convert number to string.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "Convert number to string.swift"; sourceTree = "<group>"; };
 		4C9CC6CE2C21AB7400895EA2 /* Returning strings.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "Returning strings.swift"; sourceTree = "<group>"; };
@@ -178,6 +180,7 @@
 				4C36EB8B2C3424B900A9BCD8 /* Dollars and cents.swift */,
 				4C2C9AE42C353C0100D5072F /* Making six toast.swift */,
 				4C2C9AE62C353E0C00D5072F /* Get planet name by ID.swift */,
+				4C72C8AE2C3C578000C7C3E9 /* Opposite number.swift */,
 			);
 			path = Codewars;
 			sourceTree = "<group>";
@@ -266,6 +269,7 @@
 				4C09C2722C2ED43300960831 /* Short long short.swift in Sources */,
 				4C344B3A2C2DF2610060DDEF /* Quarter of the year.swift in Sources */,
 				4C0B18DD2C1792AF00827F6C /* Transportation on vacation.swift in Sources */,
+				4C72C8AF2C3C578000C7C3E9 /* Opposite number.swift in Sources */,
 				4C4276C82C2B4DEE008D17E3 /* Personalized message.swift in Sources */,
 				4C4276CA2C2B4F58008D17E3 /* Grade book.swift in Sources */,
 				4CE060662C18FEE50041724A /* Reversed strings.swift in Sources */,

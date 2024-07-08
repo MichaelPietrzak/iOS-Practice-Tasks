@@ -126,4 +126,7 @@ let makeToast = MakeSixToast()
 //print(makeToast.sixToast(12))
 
 let getPlanetName = PlanetName()
-print(getPlanetName.getPlanetName(3))
+//print(getPlanetName.getPlanetName(3))
+
+let oppositeNumber = OppositeNumber()
+print(oppositeNumber.opposite(num: -34))
