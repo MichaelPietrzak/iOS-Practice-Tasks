@@ -129,4 +129,7 @@ let getPlanetName = PlanetName()
 //print(getPlanetName.getPlanetName(3))
 
 let oppositeNumber = OppositeNumber()
-print(oppositeNumber.opposite(num: -34))
+//print(oppositeNumber.opposite(num: -34))
+
+let switchToWords = SwitchItUp()
+print(switchToWords.switchItUp(1))
