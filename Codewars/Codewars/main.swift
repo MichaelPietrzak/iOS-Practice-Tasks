@@ -135,4 +135,7 @@ let switchToWords = SwitchItUp()
 //print(switchToWords.switchItUp(1))
 
 let summation = Summation()
-print(summation.summation(2))
+//print(summation.summation(2))
+
+let cuboids = VolumeOfCuboids()
+print(cuboids.findDifference([2, 2, 3], [5, 4, 1]))

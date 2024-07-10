@@ -39,6 +39,7 @@
 		4C7D8FCC2C1B10E7000E9ED1 /* Even or odd.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4C7D8FCB2C1B10E7000E9ED1 /* Even or odd.swift */; };
 		4C7D8FCE2C1B124A000E9ED1 /* Convert number to string.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4C7D8FCD2C1B124A000E9ED1 /* Convert number to string.swift */; };
 		4C98B23A2C3E633100E7F2BF /* Summation.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4C98B2392C3E633100E7F2BF /* Summation.swift */; };
+		4C98B23C2C3E658100E7F2BF /* Difference of volumes of cuboids.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4C98B23B2C3E658100E7F2BF /* Difference of volumes of cuboids.swift */; };
 		4C9CC6CF2C21AB7400895EA2 /* Returning strings.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4C9CC6CE2C21AB7400895EA2 /* Returning strings.swift */; };
 		4C9CC6D12C21AD4D00895EA2 /* Remove first and last character.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4C9CC6D02C21AD4D00895EA2 /* Remove first and last character.swift */; };
 		4C9F1CC92C1DC56700BFCDE5 /* Reduce but grow.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4C9F1CC82C1DC56700BFCDE5 /* Reduce but grow.swift */; };
@@ -99,6 +100,7 @@
 		4C7D8FCB2C1B10E7000E9ED1 /* Even or odd.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "Even or odd.swift"; sourceTree = "<group>"; };
 		4C7D8FCD2C1B124A000E9ED1 /* Convert number to string.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "Convert number to string.swift"; sourceTree = "<group>"; };
 		4C98B2392C3E633100E7F2BF /* Summation.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Summation.swift; sourceTree = "<group>"; };
+		4C98B23B2C3E658100E7F2BF /* Difference of volumes of cuboids.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "Difference of volumes of cuboids.swift"; sourceTree = "<group>"; };
 		4C9CC6CE2C21AB7400895EA2 /* Returning strings.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "Returning strings.swift"; sourceTree = "<group>"; };
 		4C9CC6D02C21AD4D00895EA2 /* Remove first and last character.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "Remove first and last character.swift"; sourceTree = "<group>"; };
 		4C9F1CC82C1DC56700BFCDE5 /* Reduce but grow.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "Reduce but grow.swift"; sourceTree = "<group>"; };
@@ -187,6 +189,7 @@
 				4C72C8AE2C3C578000C7C3E9 /* Opposite number.swift */,
 				4C72C8B02C3C599600C7C3E9 /* Switch it up.swift */,
 				4C98B2392C3E633100E7F2BF /* Summation.swift */,
+				4C98B23B2C3E658100E7F2BF /* Difference of volumes of cuboids.swift */,
 			);
 			path = Codewars;
 			sourceTree = "<group>";
@@ -266,6 +269,7 @@
 				4CE8FB9E2C205CBC0049224E /* Convert number to reverse array of digits.swift in Sources */,
 				4C7D8FCC2C1B10E7000E9ED1 /* Even or odd.swift in Sources */,
 				4CACA4192C25CDCC00DDB435 /* Take the first N elements.swift in Sources */,
+				4C98B23C2C3E658100E7F2BF /* Difference of volumes of cuboids.swift in Sources */,
 				4C2E42862C2CB5AC0018C43A /* Clock.swift in Sources */,
 				4C344B382C2DF1320060DDEF /* Terminal game move function.swift in Sources */,
 				4C7D8FCE2C1B124A000E9ED1 /* Convert number to string.swift in Sources */,
