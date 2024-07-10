@@ -108,7 +108,7 @@ let checkForFactor = CheckForFactor()
 //print(checkForFactor.checkForFactor(10, 2))
 
 let shortLongShort = ShortLongShort()
-//print(shortLongShort.shortLongShort("aa", "b"))
+//print(shortLongShort.shortLongShort("a a", "b"))
 
 let heroMission = HeroMission()
 //print(heroMission.hero(bullets: 4, dragons: 2))
@@ -132,4 +132,7 @@ let oppositeNumber = OppositeNumber()
 //print(oppositeNumber.opposite(num: -34))
 
 let switchToWords = SwitchItUp()
-print(switchToWords.switchItUp(1))
+//print(switchToWords.switchItUp(1))
+
+let summation = Summation()
+print(summation.summation(2))
