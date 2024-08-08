@@ -138,4 +138,7 @@ let summation = Summation()
 //print(summation.summation(2))
 
 let cuboids = VolumeOfCuboids()
-print(cuboids.findDifference([2, 2, 3], [5, 4, 1]))
+//print(cuboids.findDifference([2, 2, 3], [5, 4, 1]))
+
+let shortestWord = ShortestWord()
+print(shortestWord.find_short("Let's travel abroad shall we"))
