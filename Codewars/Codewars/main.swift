@@ -141,4 +141,7 @@ let cuboids = VolumeOfCuboids()
 //print(cuboids.findDifference([2, 2, 3], [5, 4, 1]))
 
 let shortestWord = ShortestWord()
-print(shortestWord.find_short("Let's travel abroad shall we"))
+//print(shortestWord.find_short("Let's travel abroad shall we"))
+
+let sumOfMins = SumOfMinimums()
+print(sumOfMins.sumOfMinimums([[1,6,3,11,32], [21,32,45,24,34], [8,12,13,6,3]]))
