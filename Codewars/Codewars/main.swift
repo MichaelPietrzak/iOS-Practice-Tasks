@@ -144,4 +144,7 @@ let shortestWord = ShortestWord()
 //print(shortestWord.find_short("Let's travel abroad shall we"))
 
 let sumOfMins = SumOfMinimums()
-print(sumOfMins.sumOfMinimums([[1,6,3,11,32], [21,32,45,24,34], [8,12,13,6,3]]))
+//print(sumOfMins.sumOfMinimums([[1,6,3,11,32], [21,32,45,24,34], [8,12,13,6,3]]))
+
+let descendingOrder = DescendingOrder()
+print(descendingOrder.descendingOrder(42145))
