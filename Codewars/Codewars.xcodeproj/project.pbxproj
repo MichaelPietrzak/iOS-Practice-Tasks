@@ -23,6 +23,7 @@
 		4C36EB8A2C34234A00A9BCD8 /* Get the mean of array.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4C36EB892C34234A00A9BCD8 /* Get the mean of array.swift */; };
 		4C36EB8C2C3424B900A9BCD8 /* Dollars and cents.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4C36EB8B2C3424B900A9BCD8 /* Dollars and cents.swift */; };
 		4C3EF0E72C66259100C966AE /* Descending order.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4C3EF0E62C66259100C966AE /* Descending order.swift */; };
+		4C3EF0E92C6628A700C966AE /* Number of decimal digits.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4C3EF0E82C6628A700C966AE /* Number of decimal digits.swift */; };
 		4C400B372C29E57200CA9A6B /* Squaring an argument.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4C400B362C29E57200CA9A6B /* Squaring an argument.swift */; };
 		4C400B392C29E7AA00CA9A6B /* Third angle of a triangle.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4C400B382C29E7AA00CA9A6B /* Third angle of a triangle.swift */; };
 		4C4276C82C2B4DEE008D17E3 /* Personalized message.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4C4276C72C2B4DEE008D17E3 /* Personalized message.swift */; };
@@ -87,6 +88,7 @@
 		4C36EB892C34234A00A9BCD8 /* Get the mean of array.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "Get the mean of array.swift"; sourceTree = "<group>"; };
 		4C36EB8B2C3424B900A9BCD8 /* Dollars and cents.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "Dollars and cents.swift"; sourceTree = "<group>"; };
 		4C3EF0E62C66259100C966AE /* Descending order.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "Descending order.swift"; sourceTree = "<group>"; };
+		4C3EF0E82C6628A700C966AE /* Number of decimal digits.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "Number of decimal digits.swift"; sourceTree = "<group>"; };
 		4C400B362C29E57200CA9A6B /* Squaring an argument.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "Squaring an argument.swift"; sourceTree = "<group>"; };
 		4C400B382C29E7AA00CA9A6B /* Third angle of a triangle.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "Third angle of a triangle.swift"; sourceTree = "<group>"; };
 		4C4276C72C2B4DEE008D17E3 /* Personalized message.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "Personalized message.swift"; sourceTree = "<group>"; };
@@ -199,6 +201,7 @@
 				4C8CC4E62C64C13F008FEB9E /* Shortest word.swift */,
 				4C8CC4E82C64C27A008FEB9E /* Sum of minimums.swift */,
 				4C3EF0E62C66259100C966AE /* Descending order.swift */,
+				4C3EF0E82C6628A700C966AE /* Number of decimal digits.swift */,
 			);
 			path = Codewars;
 			sourceTree = "<group>";
@@ -275,6 +278,7 @@
 				4CE8FB9C2C205A2A0049224E /* Sum of positive.swift in Sources */,
 				4C72C8B12C3C599600C7C3E9 /* Switch it up.swift in Sources */,
 				4CC39A4E2C22B8DE00E4B812 /* Simple multiplication.swift in Sources */,
+				4C3EF0E92C6628A700C966AE /* Number of decimal digits.swift in Sources */,
 				4C01EAB42C2706AD004B4A59 /* Double integer.swift in Sources */,
 				4CE8FB9E2C205CBC0049224E /* Convert number to reverse array of digits.swift in Sources */,
 				4C7D8FCC2C1B10E7000E9ED1 /* Even or odd.swift in Sources */,
