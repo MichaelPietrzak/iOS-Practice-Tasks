@@ -153,4 +153,7 @@ let decimalDigits = DecimalDigits()
 //print(decimalDigits.digits(66))
 
 let twoSmallestInt = SumOfTwoSmallestInts()
-print(twoSmallestInt.sumOfTwoSmallestIntegersIn([19, 5, 42, 2, 77]))
+//print(twoSmallestInt.sumOfTwoSmallestIntegersIn([19, 5, 42, 2, 77]))
+
+let squareDigits = SquareDigits()
+print(squareDigits.squareDigits(9119))

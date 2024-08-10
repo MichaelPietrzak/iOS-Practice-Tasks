@@ -57,6 +57,7 @@
 		4CE8FB9C2C205A2A0049224E /* Sum of positive.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4CE8FB9B2C205A2A0049224E /* Sum of positive.swift */; };
 		4CE8FB9E2C205CBC0049224E /* Convert number to reverse array of digits.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4CE8FB9D2C205CBC0049224E /* Convert number to reverse array of digits.swift */; };
 		4CEAF92D2C677674001E1326 /* Sum of two lowest positive integers.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4CEAF92C2C677674001E1326 /* Sum of two lowest positive integers.swift */; };
+		4CEAF92F2C677A54001E1326 /* Square every digit.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4CEAF92E2C677A54001E1326 /* Square every digit.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXCopyFilesBuildPhase section */
@@ -123,6 +124,7 @@
 		4CE8FB9B2C205A2A0049224E /* Sum of positive.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "Sum of positive.swift"; sourceTree = "<group>"; };
 		4CE8FB9D2C205CBC0049224E /* Convert number to reverse array of digits.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "Convert number to reverse array of digits.swift"; sourceTree = "<group>"; };
 		4CEAF92C2C677674001E1326 /* Sum of two lowest positive integers.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "Sum of two lowest positive integers.swift"; sourceTree = "<group>"; };
+		4CEAF92E2C677A54001E1326 /* Square every digit.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "Square every digit.swift"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -205,6 +207,7 @@
 				4C3EF0E62C66259100C966AE /* Descending order.swift */,
 				4C3EF0E82C6628A700C966AE /* Number of decimal digits.swift */,
 				4CEAF92C2C677674001E1326 /* Sum of two lowest positive integers.swift */,
+				4CEAF92E2C677A54001E1326 /* Square every digit.swift */,
 			);
 			path = Codewars;
 			sourceTree = "<group>";
@@ -271,6 +274,7 @@
 				4C3EF0E72C66259100C966AE /* Descending order.swift in Sources */,
 				4C71AE912C1C5E0A00E58580 /* Count the monkeys.swift in Sources */,
 				4C60BED32C19C51F00DFFD3A /* Fake binary.swift in Sources */,
+				4CEAF92F2C677A54001E1326 /* Square every digit.swift in Sources */,
 				4C98B23A2C3E633100E7F2BF /* Summation.swift in Sources */,
 				4C5639DE2C33500B00423387 /* Sum mixed array.swift in Sources */,
 				4CACA4172C25CBB200DDB435 /* Volume of cuboid.swift in Sources */,
