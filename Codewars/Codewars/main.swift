@@ -150,4 +150,7 @@ let descendingOrder = DescendingOrder()
 //print(descendingOrder.descendingOrder(42145))
 
 let decimalDigits = DecimalDigits()
-print(decimalDigits.digits(66))
+//print(decimalDigits.digits(66))
+
+let twoSmallestInt = SumOfTwoSmallestInts()
+print(twoSmallestInt.sumOfTwoSmallestIntegersIn([19, 5, 42, 2, 77]))

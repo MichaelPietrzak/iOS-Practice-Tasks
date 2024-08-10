@@ -56,6 +56,7 @@
 		4CE060662C18FEE50041724A /* Reversed strings.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4CE060652C18FEE50041724A /* Reversed strings.swift */; };
 		4CE8FB9C2C205A2A0049224E /* Sum of positive.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4CE8FB9B2C205A2A0049224E /* Sum of positive.swift */; };
 		4CE8FB9E2C205CBC0049224E /* Convert number to reverse array of digits.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4CE8FB9D2C205CBC0049224E /* Convert number to reverse array of digits.swift */; };
+		4CEAF92D2C677674001E1326 /* Sum of two lowest positive integers.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4CEAF92C2C677674001E1326 /* Sum of two lowest positive integers.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXCopyFilesBuildPhase section */
@@ -121,6 +122,7 @@
 		4CE060652C18FEE50041724A /* Reversed strings.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "Reversed strings.swift"; sourceTree = "<group>"; };
 		4CE8FB9B2C205A2A0049224E /* Sum of positive.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "Sum of positive.swift"; sourceTree = "<group>"; };
 		4CE8FB9D2C205CBC0049224E /* Convert number to reverse array of digits.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "Convert number to reverse array of digits.swift"; sourceTree = "<group>"; };
+		4CEAF92C2C677674001E1326 /* Sum of two lowest positive integers.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "Sum of two lowest positive integers.swift"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -202,6 +204,7 @@
 				4C8CC4E82C64C27A008FEB9E /* Sum of minimums.swift */,
 				4C3EF0E62C66259100C966AE /* Descending order.swift */,
 				4C3EF0E82C6628A700C966AE /* Number of decimal digits.swift */,
+				4CEAF92C2C677674001E1326 /* Sum of two lowest positive integers.swift */,
 			);
 			path = Codewars;
 			sourceTree = "<group>";
@@ -286,6 +289,7 @@
 				4C98B23C2C3E658100E7F2BF /* Difference of volumes of cuboids.swift in Sources */,
 				4C2E42862C2CB5AC0018C43A /* Clock.swift in Sources */,
 				4C344B382C2DF1320060DDEF /* Terminal game move function.swift in Sources */,
+				4CEAF92D2C677674001E1326 /* Sum of two lowest positive integers.swift in Sources */,
 				4C7D8FCE2C1B124A000E9ED1 /* Convert number to string.swift in Sources */,
 				4C71AE8F2C1C5C5000E58580 /* Beginner - lost without a map.swift in Sources */,
 				4C5639DC2C334B0200423387 /* Is he gonna survive.swift in Sources */,
