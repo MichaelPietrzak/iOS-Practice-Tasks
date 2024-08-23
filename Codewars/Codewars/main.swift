@@ -159,4 +159,7 @@ let squareDigits = SquareDigits()
 //print(squareDigits.squareDigits(9119))
 
 let spacify = Spacify()
-print(spacify.spacify("hello world"))
+//print(spacify.spacify("hello world"))
+
+let sumOfInts = SumOfIntsInStr()
+print(sumOfInts.sumOfIntegersInString("The30quick20brown10f0x1203jumps914ov3r1349the102l4zy dog"))
