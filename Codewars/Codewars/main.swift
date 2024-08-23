@@ -156,4 +156,7 @@ let twoSmallestInt = SumOfTwoSmallestInts()
 //print(twoSmallestInt.sumOfTwoSmallestIntegersIn([19, 5, 42, 2, 77]))
 
 let squareDigits = SquareDigits()
-print(squareDigits.squareDigits(9119))
+//print(squareDigits.squareDigits(9119))
+
+let spacify = Spacify()
+print(spacify.spacify("hello world"))
